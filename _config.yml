@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://kasper.marzorati.co"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-38247823-1
 
 # Optional features
 animated:           true

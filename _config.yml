@@ -2,9 +2,9 @@
 title:       Stefano Marzorati
 email:       stefano@marzorati.co
 author:      Stefano Marzorati
-description: "ICT System Administrator, addicted to new technology and lead away by innovation."
+description: "ICT Manager, addicted to new technology and lead away by innovation."
 baseurl:     ""
-url:         "http://kasper.marzorati.co"
+url:         "http://tech.marzorati.co"
 
 # Google analytics
 google_analytics: UA-38247823-1
@@ -24,7 +24,7 @@ github_username:
 stackoverflow_id:
 twitter_username: marzorati_ste
 google_plus_id:
-linkedin_username:
+linkedin_username: http://it.linkedin.com/in/stefanomarzorati
 bitcoin_url:
 paypal_url:
 flattr_button:

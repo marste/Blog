@@ -16,6 +16,7 @@ tags:
   - mesi
   - svezzamento
 ---
+<pre><code>
 |                | 4° – 5° mese                                                                     | 5° – 6° mese                               | 7° – 8° mese            | 9° – 10° mese                         | 11° – 12° mese                  | Oltre l’anno                   | 4 anni                   | 6 anni                                          |
 |----------------|----------------------------------------------------------------------------------|--------------------------------------------|-------------------------|---------------------------------------|---------------------------------|--------------------------------|--------------------------|-------------------------------------------------|
 | Latte e Yogurt |                                                                                  | Yogurt                                     |                         | Latte di centrale                     |                                 |                                |                          |                                                 |
@@ -30,3 +31,4 @@ tags:
 | Legumi         |                                                                                  | Fagiolini                                  |                         | Lenticchie decorticate, ceci, piselli | Fagioli                         |                                |                          |                                                 |
 | Dolci          | Biscotti solubili                                                                | Biscotti per lo svezzamento                |                         |                                       | Budino, gelato, biscotti secchi | Torte alla frutta              | Cacao                    |                                                 |
 | Condimenti     | Olio extra vergine di oliva                                                      |                                            |                         |                                       | Burro                           |                                |                          |                                                 |
+</code></pre>

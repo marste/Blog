@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Stefano
+title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 <p>[01/2007 – Attuale]</p>

@@ -27,26 +27,34 @@ permalink: /curriculum-vitae/
 <li>Barracuda Message Archiver</li>
 <li>Door &amp; Security Intercoms</li>
 </ul>
-<p><b>Attività giornaliere:</b></p>
+<br>
 <ul>
-<li>Gestione della sicurezza degli accessi interni ed esterni alle risorse informatiche.</li>
-<li>Amministrazione delle utenze in linea con le politiche di accesso vigenti nell’azienda.</li>
-<li>Monitoraggio giornaliero dei logs dei sistemi di produzione</li>
+<li>Gestione di tutto l'apparato ICT</li>
+<li>Gestione della sicurezza degli accessi interni ed esterni alle risorse ICT</li>
+<li>Interfaccia sia con gli utenti interni che con consulenti esterni per quanto riguarda il monitoring dei sistemi e l'indirizzo di problematiche che potessero insorgere</li>
+<li>Amministrazione delle utenze in linea con le politiche di accesso vigenti in azienda</li>
+<li>Attività di ottimizzazione dei processi informatici aziendali</li>
 <li>Analisi di nuove problematiche o nuovi progetti</li>
-<li>Attività di ottimizzazione</li>
-<li>Creare e mantenere procedure di scripting di sistema</li>
-<li>Installazione e manutenzione delle postazioni di lavoro e di tutta l&#39;infrastruttura di rete.</li>
-<li>Mantenere aggiornato l’inventario degli assets gestiti.</li>
-<li>Installazione nuovi sistemi operativi clients e servers.</li>
-<li>Gestione e organizzazione dei database aziendali.</li>
+<li>Creazione e manutenzione di procedure ICT</li>
+<li>Progettazione struttura dati e reports della Business intelligence</li>
+<li>Gestione e organizzazione dei database aziendali</li>
+<li>Monitoraggio data recovery e prevenzione problematiche legate alla security IT</li>
+<li>Coordinamento progetti</li>
+<li>Monitoraggio giornaliero dei logs dei sistemi di produzione</li>
+<li>Aggiornamento inventario degli assets gestiti</li>
 </ul>
 <p><b>Principali competenze ed attività trasversali:</b></p>
 <ul>
-<li>Coordinamento dell&#39;attività di sviluppatori esterni e tecnici installatori su singole richieste della direzione aziendale;</li>
-<li>Attività di testing, improvement e reportistica sui progetti affrontati e sui risultati raggiunti;</li>
-<li>Progettazione e/o valutazione d&#39;acquisto di hardware e software sulla base delle esigenze operative, delle dimensioni del progetto e del budget disponibile;</li>
-<li>Riduzione dell&#39;incidenza dei costi di progetti IT e relativi alla telefonia utilizzando ed implementando software opensource (ad esempio OCS Inventory – AD Server OpenX) e coordinando il passaggio a VOIP con Cisco durante il cambio sede aziendale;</li>
-<li>Superamento di piattaforme divenute obsolete per la gestione dei databases e websites del gruppo editoriale.</li>
+<li>Coordinamento dell'attività di sviluppatori esterni e sistemisti</li>
+<li>Attività di testing, improvement e reportistica sui progetti affrontati e sui risultati raggiunti</li>
+<li>Progettazione e/o valutazione d'acquisto di hardware e software sulla base delle esigenze operative, delle dimensioni del progetto e del budget disponibile</li>
+<li>Riduzione dell'incidenza dei costi di progetti IT e relativi alla telefonia</li>
+<li>Superamento di piattaforme divenute obsolete per la gestione dei databases e web</li>
+<li>Interfaccia continua con ogni livello di utenza aziendale ed esposizione diretta al management team</li>
+<li>Delineare la strategia ICT di medio e lungo periodo</li>
+<li>Gestione delle criticità</li>
+<li>Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers</li>
+<br>
 </ul>
 <p>[12/2004 – 01/2007]</p>
 <p><b>IT Senior Consultant</b> – Tempo indeterminato</p>

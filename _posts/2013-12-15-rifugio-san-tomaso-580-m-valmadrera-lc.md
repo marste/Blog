@@ -28,13 +28,13 @@ Arrivo ore 09.48 a Valmadrera 234 m (LC) nel parcheggio delle scuole elementari 
 Da qui ci si incammina verso le prime segnaletiche dei rifugi che si vedono ad una cinquantina di metri.  
 Proseguendo per circa due tornanti sulla strada asfaltata si incontra un secondo cartello con i vari percorsi e i tempi
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107877/san_tomaso_ujh02o.png" alt="san_tomaso" width="450" height="600" class="alignleft size-full wp-image-2595" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107877/san_tomaso_ujh02o.png" alt="san_tomaso"  class="alignleft size-full wp-image-2595" />][1]
 
 Da qua la strada diventa un sentiero di ciotoli fino alla fine.  
 Come si vede dal cartello il tempo previsto per arrivare a San Tomaso è di circa 40 minuti.  
 Arrivati, la vista sarà la seguente:
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107874/san_tomaso_2_tfc8xy.png" alt="san_tomaso_2" width="600" height="450" class="aligncenter size-full wp-image-2597" />][2]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107874/san_tomaso_2_tfc8xy.png" alt="san_tomaso_2"  class="aligncenter size-full wp-image-2597" />][2]
 
 Gli alberi che contornano il pianoro, ideale per i bimbi, sono dei mandorli, molto belli da vedere in primavera.
 

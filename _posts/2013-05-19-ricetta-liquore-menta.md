@@ -33,6 +33,4 @@ Imbottigliate il liquore che va lasciato a riposo almeno per 3 mesi.
 È importante che lo sciroppo sia raffreddato a temperatura ambiente prima di unirlo all&#8217;alcool se si vuole ottenere un liquore ben limpido.  
 Se invece è ancora tiepido il liquore s&#8217;intorbida.
 
-<figure>
-	<a href="http://ricettesemplici.xoom.it/wp-content/uploads/2012/10/Liquore-di-menta1.jpg"><img src="http://ricettesemplici.xoom.it/wp-content/uploads/2012/10/Liquore-di-menta1.jpg"></a>
-</figure>
+![menta](http://ricettesemplici.xoom.it/wp-content/uploads/2012/10/Liquore-di-menta1.jpg)

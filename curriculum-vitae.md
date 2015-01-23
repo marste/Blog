@@ -4,6 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 [01/2007 – Attuale]
+
 **ICT System Administrator – Tempo indeterminato**
 *Edisport Editoriale S.p.A. - Pero (MI)*
 

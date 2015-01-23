@@ -33,6 +33,6 @@ tags:
     <iframe width="420" height="315" src="//www.youtube.com/embed/2GxWs54v2d0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a href="http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/" target="_blank">http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/</a>  
-<a href="http://www.milanotoday.it/cronaca/tromba-aria-pero-29-luglio-2013.html" target="_blank">http://www.milanotoday.it/cronaca/tromba-aria-pero-29-luglio-2013.html</a>  
-<a href="http://www.tennisitaliano.it/paura-in-redazione-tennis-7218" target="_blank">http://www.tennisitaliano.it/paura-in-redazione-tennis-7218</a>
+<a href="http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/" target="_blank">YouReporter</a>  
+<a href="http://www.milanotoday.it/cronaca/tromba-aria-pero-29-luglio-2013.html" target="_blank">MilanoToday</a>  
+<a href="http://www.tennisitaliano.it/paura-in-redazione-tennis-7218" target="_blank">TennisItaliano</a>

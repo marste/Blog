@@ -57,6 +57,7 @@ Principali competenze ed attività trasversali:
 * Gestione delle criticità
 * Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers
 
+__________________________________________________________
 
 [12/2004 – 01/2007]
 

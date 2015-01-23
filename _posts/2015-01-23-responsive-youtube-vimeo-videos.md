@@ -31,7 +31,7 @@ Inserisci nel tuo file .css questo codice:
 }
 ```
 
-Quando vorrai postare un video, non dovrai far altro che aggiungere la classe <code>video-responsive</code> in questo modo:
+Quando vorrai postare un video, non dovrai far altro che aggiungere la classe `video-responsive` in questo modo:
 
 ```
 <div class="video-responsive">

@@ -11,26 +11,6 @@ permalink: /curriculum-vitae/
 
 **Principali competenze ed attività tecniche**
 
-Installazione, configurazione e manutenzione di:
-
-* MS Windows Client e Servers
-* Web Servers Linux (Centos – Debian - Ubuntu)
-* Firewall e Proxy Linux
-* Sistemi di virtualizzazione: ESX, VmWare Server
-* Web servers (Linux, Apache, Mysql, PHP)
-* Blade Servers IBM
-* IBM AS/400
-* Sistemi Editoriali (Adobe, Woodwing)
-* IBM Lotus Domino
-* VPN (OpenVPN)
-* Server FTP
-* Appliance Symantec Antivirus-Antispam
-* Barracuda Spam &amp; Virus Firewall
-* Telefonia VOIP Cisco
-* Appliance NAS NetApp
-* Barracuda Message Archiver
-* Door &amp; Security Intercoms
-
 * Gestione di tutto l'apparato ICT
 * Gestione della sicurezza degli accessi interni ed esterni alle risorse ICT
 * Interfaccia sia con gli utenti interni che con consulenti esterni per quanto riguarda il monitoring dei sistemi e l'indirizzo di problematiche che potessero insorgere
@@ -45,7 +25,27 @@ Installazione, configurazione e manutenzione di:
 * Monitoraggio giornaliero dei logs dei sistemi di produzione
 * Aggiornamento inventario degli assets gestiti
 
-Principali competenze ed attività trasversali:
+**Installazione, configurazione e manutenzione di:**
+
+	* MS Windows Client e Servers
+	* Web Servers Linux (Centos – Debian - Ubuntu)
+	* Firewall e Proxy Linux
+	* Sistemi di virtualizzazione: ESX, VmWare Server
+	* Web servers (Linux, Apache, Mysql, PHP)
+	* Blade Servers IBM
+	* IBM AS/400
+	* Sistemi Editoriali (Adobe, Woodwing)
+	* IBM Lotus Domino
+	* VPN (OpenVPN)
+	* Server FTP
+	* Appliance Symantec Antivirus-Antispam
+	* Barracuda Spam & Virus Firewall
+	* Telefonia VOIP Cisco
+	* Appliance NAS NetApp
+	* Barracuda Message Archiver
+	* Door & Security Intercoms
+
+**Principali competenze ed attività trasversali:**
 
 * Coordinamento dell'attività di sviluppatori esterni e sistemisti
 * Attività di testing, improvement e reportistica sui progetti affrontati e sui risultati raggiunti

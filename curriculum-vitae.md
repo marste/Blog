@@ -27,23 +27,23 @@ permalink: /curriculum-vitae/
 
 **Installazione, configurazione e manutenzione di:**
 
-	* MS Windows Client e Servers
-	* Web Servers Linux (Centos – Debian - Ubuntu)
-	* Firewall e Proxy Linux
-	* Sistemi di virtualizzazione: ESX, VmWare Server
-	* Web servers (Linux, Apache, Mysql, PHP)
-	* Blade Servers IBM
-	* IBM AS/400
-	* Sistemi Editoriali (Adobe, Woodwing)
-	* IBM Lotus Domino
-	* VPN (OpenVPN)
-	* Server FTP
-	* Appliance Symantec Antivirus-Antispam
-	* Barracuda Spam & Virus Firewall
-	* Telefonia VOIP Cisco
-	* Appliance NAS NetApp
-	* Barracuda Message Archiver
-	* Door & Security Intercoms
+* MS Windows Client e Servers
+* Web Servers Linux (Centos – Debian - Ubuntu)
+* Firewall e Proxy Linux
+* Sistemi di virtualizzazione: ESX, VmWare Server
+* Web servers (Linux, Apache, Mysql, PHP)
+* Blade Servers IBM
+* IBM AS/400
+* Sistemi Editoriali (Adobe, Woodwing)
+* IBM Lotus Domino
+* VPN (OpenVPN)
+* Server FTP
+* Appliance Symantec Antivirus-Antispam
+* Barracuda Spam & Virus Firewall
+* Telefonia VOIP Cisco
+* Appliance NAS NetApp
+* Barracuda Message Archiver
+* Door & Security Intercoms
 
 **Principali competenze ed attività trasversali:**
 

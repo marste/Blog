@@ -14,7 +14,7 @@ tags:
   - css
 ---
 
-`
+<pre><code>
 .video-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -28,4 +28,4 @@ tags:
     width:100%;
     position:absolute;
 }
-`
+</code></pre>

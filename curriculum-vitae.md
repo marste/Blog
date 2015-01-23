@@ -103,3 +103,5 @@ ___
 *TC Sistema S.p.A. - Garbagnate Milanese*
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
+
+___

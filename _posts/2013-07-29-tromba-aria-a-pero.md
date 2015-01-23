@@ -29,10 +29,9 @@ tags:
   - tromba
   - vento
 ---
-<div class="rve" data-content-width="720">
+<div class="video-responsive">
+    <iframe width="420" height="315" src="//www.youtube.com/embed/2GxWs54v2d0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<!-- Responsive Video Embeds plugin by www.kevinleary.net -->
 
 <a href="http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/" target="_blank">http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/</a>  
 <a href="http://www.milanotoday.it/cronaca/tromba-aria-pero-29-luglio-2013.html" target="_blank">http://www.milanotoday.it/cronaca/tromba-aria-pero-29-luglio-2013.html</a>  

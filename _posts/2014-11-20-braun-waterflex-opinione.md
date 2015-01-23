@@ -30,4 +30,4 @@ Tra l&#8217;altro si ricarica solo in 45 minuti e dicono duri per 1 ora di rasat
 Per pulirlo si può tranquillamente passarlo sotto l&#8217;acqua in quanto è totalmente impermeabile.  
 In più per la cifra a cui lo vende <a href="http://www.amazon.it/Braun-Waterflex-WaterFlex-WF2s/dp/B00KG66OZI/ref=sr_1_1?ie=UTF8&#038;qid=1411549420&#038;sr=8-1&#038;keywords=braun+waterflex" title="Braun WaterFlex" target="_blank">Amazon oggi (€ 93,99)</a>, è sicuramente un prodotto da acquistare e visto che ci stiamo avvicinando a Natale, se volete fare un bel regalo a vostro marito, fidanzato o papà, con questo lo farete davvero contento.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/m5ShSO-5HSU" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/m5ShSO-5HSU" frameborder="0" allowfullscreen></iframe>

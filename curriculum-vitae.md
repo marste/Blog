@@ -6,6 +6,7 @@ permalink: /curriculum-vitae/
 [01/2007 – Attuale]
 
 **ICT System Administrator – Tempo indeterminato**
+
 *Edisport Editoriale S.p.A. - Pero (MI)*
 
 **Principali competenze ed attività tecniche**
@@ -58,32 +59,40 @@ Principali competenze ed attività trasversali:
 
 
 [12/2004 – 01/2007]
-IT Senior Consultant – Tempo indeterminato
-<u>IRPE S.p.A. - sede di Milano</u>
-<ul>
+
+**IT Senior Consultant – Tempo indeterminato**
+
+*IRPE S.p.A. - sede di Milano*
+
 * Sistemista di rete specializzato nell’installazione ed amministrazione di n° 9 servers Lotus Domino in cluster con funzione di “mail-server” e “application-server” per un bacino di 5000 utenze, presso: Carrefour Italia S.p.A..
 * Collaborazione costante con fornitori software e con i servizi interni di Carrefour S.p.A. (personale italiano ed estero).
 * Gestione di un server Lotus Domino dedicato al BlackBerry Enterprise per garantire connettività wireless e la connettività della dirigenza
 * Amministrazione delle piattaforme Microsoft per la gestione dei domini, file server, software distribution e gestione backup.
 * Gestione intranet di gruppo e parte dei siti internet pubblicandone i contenuti in accordo con la divisione marketing e le società esterne
-</ul>
+
 [02/2004 – 12/2004]
-IT Senior Consultant – Tempo indeterminato
-<u>WIIT S.p.A. - Milano (MI)</u>
-<ul>
+
+**IT Senior Consultant – Tempo indeterminato**
+
+*WIIT S.p.A. - Milano (MI)*
+
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
-</ul>
+
 [04/2000 – 02/2004]
-IT Consultant – Tempo indeterminato
-<u>TC Sistema S.p.A. - Garbagnate Milanese</u>
-<ul>
+
+**IT Consultant – Tempo indeterminato**
+
+*TC Sistema S.p.A. - Garbagnate Milanese*
+
+
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
 * Installazione ed amministrazione di ambienti Microsoft.
-</ul>
+
 [09/1997 – 04/2000]
-Hardware Engineer – Tempo indeterminato
-<u>TC Sistema S.p.A. - Garbagnate Milanese</u>
-<ul>
+
+**Hardware Engineer – Tempo indeterminato**
+
+*TC Sistema S.p.A. - Garbagnate Milanese*
+
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
-</ul>

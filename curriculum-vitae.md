@@ -3,8 +3,8 @@ layout: page
 title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
--<p>[01/2007 – Attuale]</p>
-<p><b>ICT System Administrator</b> – Tempo indeterminato</p>
+[01/2007 – Attuale]
+###ICT System Administrator</b> – Tempo indeterminato
 <u>Edisport Editoriale S.p.A. - Pero (MI)</u>
 <p><b>Principali competenze ed attività tecniche</b></p>
 <p>Installazione, configurazione e manutenzione di:</p>
@@ -56,7 +56,7 @@ permalink: /curriculum-vitae/
 <li>Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers</li>
 <br>
 </ul>
--<p>[12/2004 – 01/2007]</p>
+<p>[12/2004 – 01/2007]</p>
 <p><b>IT Senior Consultant</b> – Tempo indeterminato</p>
 <u>IRPE S.p.A. - sede di Milano</u>
 <ul>
@@ -66,13 +66,13 @@ permalink: /curriculum-vitae/
 <li>Amministrazione delle piattaforme Microsoft per la gestione dei domini, file server, software distribution e gestione backup.</li>
 <li>Gestione intranet di gruppo e parte dei siti internet pubblicandone i contenuti in accordo con la divisione marketing e le società esterne</li>
 </ul>
--<p>[02/2004 – 12/2004]</p>
+<p>[02/2004 – 12/2004]</p>
 <p><b>IT Senior Consultant</b> – Tempo indeterminato</p>
 <u>WIIT S.p.A. - Milano (MI)</u>
 <ul>
 <li>Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.</li>
 </ul>
--<p>[04/2000 – 02/2004]</p>
+<p>[04/2000 – 02/2004]</p>
 <p><b>IT Consultant</b> – Tempo indeterminato</p>
 <u>TC Sistema S.p.A. - Garbagnate Milanese</u>
 <ul>
@@ -80,7 +80,7 @@ permalink: /curriculum-vitae/
 <li>Docente di corsi Lotus Domino Administrator.</li>
 <li>Installazione ed amministrazione di ambienti Microsoft.</li>
 </ul>
--<p>[09/1997 – 04/2000]</p>
+<p>[09/1997 – 04/2000]</p>
 <p><b>Hardware Engineer</b> – Tempo indeterminato</p>
 <u>TC Sistema S.p.A. - Garbagnate Milanese</u>
 <ul>

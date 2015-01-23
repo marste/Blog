@@ -57,7 +57,7 @@ Principali competenze ed attività trasversali:
 * Gestione delle criticità
 * Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers
 
-__________________________________________________________
+___
 
 [12/2004 – 01/2007]
 
@@ -71,6 +71,8 @@ __________________________________________________________
 * Amministrazione delle piattaforme Microsoft per la gestione dei domini, file server, software distribution e gestione backup.
 * Gestione intranet di gruppo e parte dei siti internet pubblicandone i contenuti in accordo con la divisione marketing e le società esterne
 
+___
+
 [02/2004 – 12/2004]
 
 **IT Senior Consultant – Tempo indeterminato**
@@ -78,6 +80,8 @@ __________________________________________________________
 *WIIT S.p.A. - Milano (MI)*
 
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
+
+___
 
 [04/2000 – 02/2004]
 
@@ -89,6 +93,8 @@ __________________________________________________________
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
 * Installazione ed amministrazione di ambienti Microsoft.
+
+___
 
 [09/1997 – 04/2000]
 

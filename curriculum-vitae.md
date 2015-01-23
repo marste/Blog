@@ -5,7 +5,7 @@ permalink: /curriculum-vitae/
 ---
 [01/2007 – Attuale]
 **ICT System Administrator – Tempo indeterminato**
-Edisport Editoriale S.p.A. - Pero (MI)
+*Edisport Editoriale S.p.A. - Pero (MI)*
 
 **Principali competenze ed attività tecniche**
 

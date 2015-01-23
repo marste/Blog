@@ -45,6 +45,4 @@ Con queste dosi, il risultato sarà di circa 200/250 ml
 
 &#8211; Conservate il tutto in frigo, e gustatelo ben fresco!
 
-<div style="text-align:center" markdown="1">
 ![liquirizia](http://www.femaleworld.it/wp-content/uploads/2013/10/liquore-alla-liquirizia3.jpg)
-</div>

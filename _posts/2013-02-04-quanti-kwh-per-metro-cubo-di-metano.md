@@ -24,7 +24,7 @@ categories:
   Dal metano si ricava intorno ai 9,7 kWh termici per mc.
 </p>
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108011/capture_ildwgj.png" alt="Capture" width="748" height="459" class="aligncenter size-full wp-image-1365" />][1]
+[<img src="https://farm8.staticflickr.com/7565/16204761906_a364a96cc3_o.png" />][1]
 
 Per avere una idea di quanti metri cubi di metano occorrono per riscaldare 1000 litri di acqua (per portarla da 15 a 50 gradi centigradi).
 
@@ -48,4 +48,4 @@ Per avere una idea di quanti metri cubi di metano occorrono per riscaldare 1000 
 
 <a href="http://sangiorgio16.wordpress.com/quanti-mc-di-metano-occorrono-per-riscaldare-1mc-di-acqua/" target="_blank">Conti di Piero Gessaga</a>
 
- [1]: http://res.cloudinary.com/marzorati-co/image/upload/v1408108011/capture_ildwgj.png
+ [1]: https://farm8.staticflickr.com/7565/16204761906_a364a96cc3_o.png

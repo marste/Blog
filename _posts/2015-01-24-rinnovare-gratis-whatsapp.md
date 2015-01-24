@@ -12,7 +12,7 @@ tags:
   - rinnovare
 ---
 
-* Scaricare [Wassapp](http://wassapp.software.informer.com/1.1/) sul computer.
+* Scaricare <a href="http://wassapp.software.informer.com/1.1/" target="_blank">Wassapp</a> sul computer.
 * Spegnere il telefono o metterlo in modalità aereo prima del rinnovo.
 * Una volta lanciato Wassapp inserire il Paese e il numero di telefono con il prefisso.
 * Nel campo della password inserire l’**indirizzo email** che si utilizza come account di posta elettronica che è collegato al cellulare, *senza password* (quindi ad esempio l’indirizzo Gmail associato allo smartphone Android)

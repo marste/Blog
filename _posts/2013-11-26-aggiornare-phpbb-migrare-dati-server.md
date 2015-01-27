@@ -28,10 +28,10 @@ Come posso migrare?
 Ecco quali sono i passi principali:
 
 1) Fai un backup del database  
-2) Installa l&#8217;ultima versione di phpBB 3.0.12 e configuralo come se fosse la prima installazione.  
-3) Importa il database backuppato in precedenza sovrascrivendo quello dell&#8217;installazione nuova.  
-4) Lancia l&#8217;url `../install/database_update.php` &#8211; in questo modo aggiornerà il database  
-5) Rinomina la directory &#8220;**install**&#8221;  
-6) Copiare dal vecchio server al nuovo server tutta la directory "**images**", "**files**" e **store**.
+2) Installa l'ultima versione di phpBB 3.0.12 e configuralo come se fosse la prima installazione.  
+3) Importa il database backuppato in precedenza sovrascrivendo quello dell'installazione nuova.  
+4) Lancia l'url `../install/database_update.php` in questo modo aggiornerà il database  
+5) Rinomina la directory "**install**"  
+6) Copiare dal vecchio server al nuovo server tutta la directory "**images**", "**files**" e "**store**".
 
 Fine

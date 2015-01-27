@@ -32,6 +32,6 @@ Ecco quali sono i passi principali:
 3) Importa il database backuppato in precedenza sovrascrivendo quello dell&#8217;installazione nuova.  
 4) Lancia l&#8217;url `../install/database_update.php` &#8211; in questo modo aggiornerà il database  
 5) Rinomina la directory &#8220;**install**&#8221;  
-6) Copiare dal vecchio server al nuovo server tutta la directory &#8220;**images**&#8221;
+6) Copiare dal vecchio server al nuovo server tutta la directory "**images**", "**files**" e **store**.
 
 Fine

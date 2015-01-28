@@ -41,7 +41,7 @@ Fine
 1) Fate la copia di tutta la directory di phpBB sul nuovo server
 2) Fate un dump del db e importatelo sul nuovo server
 3) Fate attenzione che nel file config.php ci sono le credenziali di accesso al db, per cui se queste differiscono dal vecchio, modificatele.
-4) Se cambiate l’ulr del vostro forum, dovrete modificare la tabella phpbb_config (es. script_path e/o server_name)
+4) Se cambiate l’url del vostro forum, dovrete modificare la tabella phpbb_config (es. script_path e/o server_name)
 5) Se avete fatto tutto correttamente il nuovo forum si aprirà come sul vecchio server.
 
 Ora aggiorniamolo:

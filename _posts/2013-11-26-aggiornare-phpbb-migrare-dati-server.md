@@ -38,17 +38,17 @@ Fine
 
 **Se invece dovete migrare da una versione 3.0.x alla versione 3.1.x, fate così:**
 
-1) Fate la copia di tutta la directory di phpBB sul nuovo server
-2) Fate un dump del db e importatelo sul nuovo server
-3) Fate attenzione che nel file config.php ci sono le credenziali di accesso al db, per cui se queste differiscono dal vecchio, modificatele.
-4) Se cambiate l’url del vostro forum, dovrete modificare la tabella phpbb_config (es. script_path e/o server_name)
-5) Se avete fatto tutto correttamente il nuovo forum si aprirà come sul vecchio server.
+1) Fate la copia di tutta la directory di phpBB sul nuovo server  
+2) Fate un dump del db e importatelo sul nuovo server  
+3) Fate attenzione che nel file config.php ci sono le credenziali di accesso al db, per cui se queste differiscono dal vecchio, modificatele.  
+4) Se cambiate l’url del vostro forum, dovrete modificare la tabella phpbb_config (es. script_path e/o server_name)  
+5) Se avete fatto tutto correttamente il nuovo forum si aprirà come sul vecchio server.  
 
-Ora aggiorniamolo:
+Ora aggiorniamolo:  
 
-1) Elimina tutto tranne il file **config.php** e le cartelle: **images**, **files**, **store**
-2) Carica tutto il contenuto del pacchetto completo della nuova versione 3.1.x nella cartella del forum
-3) Vai alla pagina http://www.tuo-forum<strong>/install/database_update.php</strong>
-4) Elimina la cartella **install**
+1) Elimina tutto tranne il file **config.php** e le cartelle: **images**, **files**, **store**  
+2) Carica tutto il contenuto del pacchetto completo della nuova versione 3.1.x nella cartella del forum  
+3) Vai alla pagina http://www.tuo-forum<strong>/install/database_update.php</strong>  
+4) Elimina la cartella **install**  
 
-Fine
+Fine  

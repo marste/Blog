@@ -48,7 +48,7 @@ Ora aggiorniamolo:
 
 1) Elimina tutto tranne il file **config.php** e le cartelle: **images**, **files**, **store**
 2) Carica tutto il contenuto del pacchetto completo della nuova versione 3.1.x nella cartella del forum
-3) Vai alla pagina http://www.tuo-forum**/install/database_update.php**
+3) Vai alla pagina http://www.tuo-forum **/install/database_update.php**
 4) Elimina la cartella **install**
 
 Fine

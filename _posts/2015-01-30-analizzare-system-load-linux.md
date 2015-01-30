@@ -15,7 +15,7 @@ tags:
   - sistema
 ---
 
-Per vedere il carico medio del server Linux, si possono digitare questi comandi:
+Per vedere il carico medio del server Linux, si possono digitare questi comandi:   
 - <code>uptime</code>   
 - <code>w</code>   
 - <code>top</code>   

@@ -16,16 +16,16 @@ tags:
 ---
 
 Per vedere il carico medio del server Linux, si possono digitare questi comandi:
-- <code>uptime</code>
-- <code>w</code>
-- <code>top</code>
+- <code>uptime</code>   
+- <code>w</code>   
+- <code>top</code>   
 
 Il risultato sarà tipo questo:
 <pre><code>09:51:09 up 2 days, 21:46,  4 users,  load average: 1.76, 2.18, 3.37</code></pre>
 
 Gli ultimi 3 numeri rappresentano il carico medio nell'ultimo minuto, negli ultimi 5 minuti e negli ultimi 15.
 
-Per analizzare il carico medio, dobbiamo sapere quanti core ha la nostra CPU, con questo comando:
+Per analizzare il carico medio, dobbiamo sapere quanti core ha la nostra CPU, con questo comando:   
 <code>cat /proc/cpuinfo | grep processor | wc -l</code> oppure <code>nproc</code>
 
 Se il carico rimane sotto questo valore, allora è tutto ok

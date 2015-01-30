@@ -33,6 +33,7 @@ Vorrà dire che la cpu riesce a "star dietro" a tutti i processi, se il carico d
 Se il carico diventa molto superiore, e se si riflette in particolare nel 2° e 3° dato, quindi è un problema che si protrae nel tempo.
 
 Per analizzare meglio lo stato del sistema e della cpu usiamo il comando <strong>vmstat</strong>.
+
 Digitiamo il comando: <code>vmstat 1</code>
 
 <pre>

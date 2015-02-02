@@ -37,4 +37,4 @@ nameserver 212.216.172.62 #dns secondario della rete<br />
 `
 
 Riavviare la rete:  
-`sudo /etc/init.d/networking restart`
+`sudo ifdown eth0 && sudo ifup eth0`

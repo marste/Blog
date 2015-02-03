@@ -16,4 +16,4 @@ tags:
 
 Example:
 
-	`find / -name "server.conf"`
+`find / -name "server.conf"`

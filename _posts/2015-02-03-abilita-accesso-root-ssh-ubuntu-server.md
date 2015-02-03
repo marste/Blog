@@ -14,20 +14,20 @@ tags:
   - ubuntu
 ---
 
-Cambia la password dell'utente di root con il comando:
+Cambia la password dell'utente di root con il comando:   
 <code>sudo passwd root</code>
 
-Edita il file seguente:
+Edita il file seguente:   
 <code>sudo nano /etc/ssh/sshd_config</code>
 
-Commenta la seguente riga:
+Commenta la seguente riga:   
 <code># PermitRootLogin without-password</code>
 
-Aggiungi questa riga:
+Aggiungi questa riga:   
 <code>PermitRootLogin yes</code>
 
 Riavvia il servizio SSH
 
-<code>sudo service ssh reload</code>
-oppure
+<code>sudo service ssh reload</code>   
+oppure   
 <code>sudo service ssh restart</code>

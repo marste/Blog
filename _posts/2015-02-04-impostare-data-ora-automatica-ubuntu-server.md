@@ -24,12 +24,11 @@ Edita il seguente file:
 
 Assicurasi di aver all'interno del file i servers dal quale prendere l'ora esatta.
 
-<code>
-server 0.ubuntu.pool.ntp.org
+
+<pre><code>server 0.ubuntu.pool.ntp.org
 server 1.ubuntu.pool.ntp.org
 server 2.ubuntu.pool.ntp.org
-server 3.ubuntu.pool.ntp.org
-</code>
+server 3.ubuntu.pool.ntp.org</code></pre>
 
 Riavvia il servizio:   
 <code>sudo service ntp restart</code>

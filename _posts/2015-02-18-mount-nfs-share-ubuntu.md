@@ -1,20 +1,8 @@
 ---
-id: 3265
 title: Mount NFS Share su Ubuntu
 author: Stefano Marzorati
 layout: post
-guid: http://marzorati.co/?p=3265
 permalink: /mount-nfs-share-ubuntu/
-authorsure_include_css:
-  - 
-video_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-dsq_thread_id:
-  - 3526142991
 categories:
   - Linux
 tags:

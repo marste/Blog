@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 id: 3265
 title: Mount NFS Share su Ubuntu
 author: Stefano Marzorati
@@ -15,6 +16,12 @@ quote_attribution:
   - 
 dsq_thread_id:
   - 3526142991
+=======
+title: Mount NFS Share su Ubuntu
+author: Stefano Marzorati
+layout: post
+permalink: /mount-nfs-share-ubuntu/
+>>>>>>> d24c85a1e8fea529adab7e44ff33fff1b4888511
 categories:
   - Linux
 tags:
@@ -41,4 +48,8 @@ Se vuoi rendere il mount persistente anche dopo un riavvio del server, modifica 
 `/etc/fstab`
 
 e aggiungi:  
+<<<<<<< HEAD
 `192.168.101.10:/vol/archiver  /mnt/nfs  nfs   soft,intr,rsize=8192,wsize=8192`
+=======
+`192.168.101.10:/vol/archiver  /mnt/nfs  nfs   soft,intr,rsize=8192,wsize=8192`
+>>>>>>> d24c85a1e8fea529adab7e44ff33fff1b4888511

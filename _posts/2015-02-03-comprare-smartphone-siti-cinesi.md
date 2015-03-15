@@ -16,6 +16,7 @@ tags:
 
 Ecco una lista di siti ritenuti affidabili, dove acquistare smartphone Android (esempio: Elephone, Meizu, Lenovo, THL, UMI) provenienti dalla Cina:
 
+<a href="http://www.grossoshop.net" target="_blank">http://www.grossoshop.net</a>
 <a href="http://www.aliexpress.com" target="_blank">http://www.aliexpress.com</a>   
 <a href="http://en.efox-shop.com" target="_blank">http://en.efox-shop.com</a>   
 <a href="http://www.gearbest.com" target="_blank">http://www.gearbest.com</a>   

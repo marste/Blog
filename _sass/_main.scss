@@ -261,7 +261,9 @@ abbr {
 }
 
 pre, code {
-  font-family: Menlo, Monaco, "Courier New", monospace
+  font-family: Menlo, Monaco, monospace
+  background: none repeat scroll 0% 0% #F0F8FF;
+  font-size: 16px;
 }
 
 code {

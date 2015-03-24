@@ -21,4 +21,4 @@ tags:
   - nikon
   - obiettivo
 ---
-<a href="http://imaging.nikon.com/lineup/lens/simulator/index.htm" target="_blank"><img class="size-full wp-image-2500 aligncenter" alt="Capture" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107881/Capture_wl77gx.png" width="712" height="528" /></a>
+<a href="http://imaging.nikon.com/lineup/lens/simulator/index.htm" target="_blank"><img class="size-full wp-image-2500 aligncenter" alt="Capture" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107881/Capture_wl77gx.png" /></a>

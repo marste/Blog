@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assistenza Computers
-permalink: /assistenza-computers/
+title: Assistenza Computer
+permalink: /assistenza-computer/
 ---
 <ul>
 <li>Hai bisogno di <strong>assistenza</strong> per i tuoi <strong>computers</strong>?</li>

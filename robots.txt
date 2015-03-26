@@ -4,4 +4,4 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: http://tech.marzorati.co/sitemap.xml
+Sitemap: http://s.marzorati.co/sitemap.xml

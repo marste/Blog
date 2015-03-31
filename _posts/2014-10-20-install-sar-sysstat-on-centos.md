@@ -31,11 +31,11 @@ tags:
 
 Di default ci sono questi processi schedulati:   
 
-<code># Run system activity accounting tool every 10 minutes</code>
-<code>*/10 * * * * root /usr/lib64/sa/sa1 1 1</code>
-<code># 0 * * * * root /usr/lib64/sa/sa1 600 6 &</code>
-<code># Generate a daily summary of process accounting at 23:53</code>
-<code>53 23 * * * root /usr/lib64/sa/sa2 -A</code>
+<code># Run system activity accounting tool every 10 minutes</code>   
+<code>*/10 * * * * root /usr/lib64/sa/sa1 1 1</code>   
+<code># 0 * * * * root /usr/lib64/sa/sa1 600 6 &</code>   
+<code># Generate a daily summary of process accounting at 23:53</code>   
+<code>53 23 * * * root /usr/lib64/sa/sa2 -A</code>   
 
 **Di default i logs saranno salvati in:**  
 `/var/log/sa/`

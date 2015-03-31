@@ -34,8 +34,8 @@ Esempio di esportazione:
 Esempio di importazione:  
   `mysql -u utente --password=password nome_database < /tmp/nome_db.sql`
 
-Esportazione con compressione:
+Esportazione con compressione:   
   `mysqldump -u utente -p nome_database | gzip > /tmp/nome_db.sql.gz`
 
-Importazione con compressione:
+Importazione con compressione:   
   `gunzip < /tmp/nome_db.sql.gz | mysql -u utente -p nome_database`

@@ -29,7 +29,7 @@ tags:
 **Schedulazione:**  
 `cat /etc/cron.d/sysstat`
 
-Di default ci sono questi processi schedulati:  
+Di default ci sono questi processi schedulati:   
 <code><pre># Run system activity accounting tool every 10 minutes
 */10 * * * * root /usr/lib64/sa/sa1 1 1
 0 * * * * root /usr/lib64/sa/sa1 600 6 &#038;

@@ -31,7 +31,7 @@ tags:
 
 Di default ci sono questi processi schedulati:  
 `# Run system activity accounting tool every 10 minutes<br />
-*/10 * * * * root /usr/lib64/sa/sa1 1 1<br />
+# */10 * * * * root /usr/lib64/sa/sa1 1 1<br />
 # 0 * * * * root /usr/lib64/sa/sa1 600 6 &#038;<br />
 # Generate a daily summary of process accounting at 23:53<br />
 53 23 * * * root /usr/lib64/sa/sa2 -A`

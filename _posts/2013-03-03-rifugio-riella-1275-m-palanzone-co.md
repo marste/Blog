@@ -31,6 +31,6 @@ Dal parcheggio risaliamo alla Colma a piedi (15 minuti) e da qua saliamo per il 
 Tempo per arrivare al rifugio: 1h 30m.  
 Mangiamo al rifugio, due polente uncie (molto buona), due stinchi (molto buoni), una birra moretti da 66cl e due caffè. Totale 43 euro.
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107878/rifugio_riella_palanzone_gj6lvx.jpg" alt="Rifugio Riella - Palanzone" width="700" height="525" class="aligncenter size-full wp-image-2590" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107878/rifugio_riella_palanzone_gj6lvx.jpg" alt="Rifugio Riella - Palanzone" class="aligncenter size-full wp-image-2590" />][1]
 
  [1]: http://res.cloudinary.com/marzorati-co/image/upload/v1408107878/rifugio_riella_palanzone_gj6lvx.jpg

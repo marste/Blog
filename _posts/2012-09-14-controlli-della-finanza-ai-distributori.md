@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Varie
 ---
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108012/finanza_che_dorme1_olnric.png" alt="finanza_che_dorme" width="266" height="178" class="aligncenter size-full wp-image-1196" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108012/finanza_che_dorme1_olnric.png" alt="finanza_che_dorme" class="aligncenter size-full wp-image-1196" />][1]
 
 [Risposta a mia email sul Corriere della Sera][2]
 

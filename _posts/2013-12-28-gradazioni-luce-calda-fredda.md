@@ -18,7 +18,7 @@ tags:
   - lampadine
   - luce
 ---
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107873/luce_colore_kelvin_rr1mqj.png" alt="luce_colore_kelvin" width="577" height="65" class="aligncenter size-full wp-image-2639" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107873/luce_colore_kelvin_rr1mqj.png" alt="luce_colore_kelvin" class="aligncenter size-full wp-image-2639" />][1]
 
 **Fino a 3.000° K** &#8211; Luce calda e bianco caldo
 

@@ -22,6 +22,6 @@ tags:
   - vulcani
 format: image
 ---
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108007/vulcani_g9kwca.png" alt="vulcani attivi" width="509" height="764" class="aligncenter size-full wp-image-1819" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108007/vulcani_g9kwca.png" alt="vulcani attivi" class="aligncenter size-full wp-image-1819" />][1]
 
  [1]: http://res.cloudinary.com/marzorati-co/image/upload/v1408108007/vulcani_g9kwca.png

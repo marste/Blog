@@ -12,6 +12,6 @@ dsq_thread_id:
 categories:
   - Varie
 ---
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108014/lettera_py6lxw.png" alt="Segnalazione alla Finanza" width="431" height="391" class="aligncenter size-full wp-image-1190" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108014/lettera_py6lxw.png" alt="Segnalazione alla Finanza" class="aligncenter size-full wp-image-1190" />][1]
 
  [1]: http://res.cloudinary.com/marzorati-co/image/upload/v1408108014/lettera_py6lxw.png

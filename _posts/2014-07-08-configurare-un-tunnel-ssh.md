@@ -22,20 +22,20 @@ Prima di tutto abbiamo bisogno di <a href="http://www.chiark.greenend.org.uk/~sg
 
 Creiamo la connessione al server a cui vogliamo collegarci in remoto:
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107869/tunnel_ssh_1_bm7hce.jpg" alt="tunnel_ssh_1" width="456" height="435" class="aligncenter size-full wp-image-2889" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107869/tunnel_ssh_1_bm7hce.jpg" alt="tunnel_ssh_1" class="aligncenter size-full wp-image-2889" />][1]
 
 Andiamo sotto **Connection** &#8211; **SSH** &#8211; **Tunnels** e aggiungiamo la **Source Port** a **5900** e la **Destination** con lo stesso indirizzo del server, ma con la **porta 5901**.
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107868/tunnel_ssh_2_m2vqpw.jpg" alt="tunnel_ssh_2" width="456" height="435" class="aligncenter size-full wp-image-2890" />][2]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107868/tunnel_ssh_2_m2vqpw.jpg" alt="tunnel_ssh_2" class="aligncenter size-full wp-image-2890" />][2]
 
 Se vogliamo, salviamo la connessione e la facciamo partire.  
 Ci logghiamo con user e password sul server:
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107867/tunnel_ssh_4_rkmpqr.jpg" alt="tunnel_ssh_4" width="666" height="413" class="aligncenter size-full wp-image-2891" />][3]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107867/tunnel_ssh_4_rkmpqr.jpg" alt="tunnel_ssh_4" class="aligncenter size-full wp-image-2891" />][3]
 
 A questo punto lanciamo vncviewer e digitiamo come VNC Server: **localhost**
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107866/tunnel_ssh_3_mmsnxb.jpg" alt="tunnel_ssh_3" width="400" height="198" class="aligncenter size-full wp-image-2892" />][4]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107866/tunnel_ssh_3_mmsnxb.jpg" alt="tunnel_ssh_3" class="aligncenter size-full wp-image-2892" />][4]
 
 Se è stato fatto tutto correttamente si aprirà il desktop del server remoto.
 

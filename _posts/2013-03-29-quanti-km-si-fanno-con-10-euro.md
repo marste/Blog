@@ -20,7 +20,7 @@ categories:
 ---
 A confronto auto a benzina, gasolio, metano e gpl
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108010/km_10_euro_vruxlb.jpg" alt="km_10_euro" width="823" height="617" class="aligncenter size-full wp-image-1485" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108010/km_10_euro_vruxlb.jpg" alt="km_10_euro" class="aligncenter size-full wp-image-1485" />][1]
 
 Fonte: Corriere della Sera del 2008
 

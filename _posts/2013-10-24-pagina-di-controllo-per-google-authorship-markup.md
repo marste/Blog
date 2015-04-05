@@ -36,6 +36,6 @@ Dovrebbe permette a loro di contattarvi se vi sono dei problemi con il vostro co
 
 Oppure aggiungere queste righe nel file **single.php**:
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107879/Capture_oy4i8r.png" alt="Capture" width="627" height="124" class="alignnone size-full wp-image-2564" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107879/Capture_oy4i8r.png" alt="Capture" class="alignnone size-full wp-image-2564" />][1]
 
  [1]: http://res.cloudinary.com/marzorati-co/image/upload/v1408107879/Capture_oy4i8r.png

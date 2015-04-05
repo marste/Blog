@@ -24,7 +24,7 @@ Esempio:
 
 `youtube-dl https://www.youtube.com/watch?v=VkyC6b5gJyw <strong>-f 136</strong>`
 
-[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107870/youtube-comparision_wyuuli.png" alt="youtube-comparision" width="698" height="206" class="aligncenter size-full wp-image-2774" />][1]
+[<img src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107870/youtube-comparision_wyuuli.png" alt="youtube-comparision" class="aligncenter size-full wp-image-2774" />][1]
 
 La tabella aggiornata è stata presa <a href="http://en.wikipedia.org/wiki/YouTube" target="_blank">qua</a>
 

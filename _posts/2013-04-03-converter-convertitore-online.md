@@ -20,7 +20,7 @@ categories:
   - Windows
 format: image
 ---
-[<img class="aligncenter size-full wp-image-1489" alt="Online Converter" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108009/screenshot12-12-2011-14-45-5419-03-2012-16-19-4207-02-2013-17-01-5003-04-2013-16-27-30_rjbg1a.png" width="610" height="466" />][1]
+[<img class="aligncenter size-full wp-image-1489" alt="Online Converter" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408108009/screenshot12-12-2011-14-45-5419-03-2012-16-19-4207-02-2013-17-01-5003-04-2013-16-27-30_rjbg1a.png" />][1]
 
 <div id="dc_vk_code" style="display:none;">
 </div>

@@ -25,4 +25,4 @@ categories:
 tags:
   - gimp
 ---
-[youtube http://www.youtube.com/watch?v=5DANHWbNAOY&w=500&h=304]
+http://www.youtube.com/watch?v=5DANHWbNAOY&w=500&h=304

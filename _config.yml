@@ -4,10 +4,10 @@ email:       stefano@marzorati.co
 author:      Stefano Marzorati
 description: "Addicted to new technology and lead away by innovation."
 baseurl:     ""
-url:         "http://s.marzorati.co"
+url:         "http://marzorati.co"
 
 # Google analytics
-google_analytics: UA-61524891-1
+google_analytics: UA-38247823-1
 
 # Optional features
 animated:           true

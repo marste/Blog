@@ -5,7 +5,7 @@ layout: post
 permalink: /dove-comprare-xiaomi-venditore-cinese/
 categories:
   - Varie
-  tags:
+tags:
   - xiaomi
   - redmi2
   - comprare

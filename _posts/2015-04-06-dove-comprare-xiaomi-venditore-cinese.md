@@ -12,10 +12,10 @@ tags:
   - cina
   - cinese
 ---
-Settimana scorsa ho deciso di acquistare uno smartphone Xiaomi, più precisamente il <u>RedMI2</u> seconda versione e cioè con <u>2GB di RAM e 16GB di ROM</u>, ancora non presente sul mercato europeo.
+Settimana scorsa ho deciso di acquistare uno smartphone Xiaomi, più precisamente il **RedMI2** seconda versione e cioè con **2GB di RAM e 16GB di ROM**, ancora non presente sul mercato europeo.
 Il telefono è unlocked e monta la ROM MIUI 6 versione internazionale, per cui non temete, all'accensione troverete tutto in inglese con già il Play Store installato.
-Monta una <u>CPU Qualcomm MSM8916 Quad Core</u>, ha una <u>batteria da 2200mah</u>, funziona con le reti <u>GSM 900/1800/1900MHz</u>, con le reti <u>3G WCDMA 850/1900/2100MHz</u> e con le reti <u>4G FDD LTE 1800/2600MHz</u>.
-Lo schermo è da <u>4.7 pollici</u> con una <u>risoluzione HD di 1280x720</u>, ha una <u>fotocamera da 8MP</u>, può ospitare <u>2 SIM</u> e ha queste dimensioni: 134 x 67.2 x 9.4mm.
+Monta una **CPU Qualcomm MSM8916 Quad Core**, ha una **batteria da 2200mah**, funziona con le reti **GSM 900/1800/1900MHz**, con le reti **3G WCDMA 850/1900/2100MHz** e con le reti **4G FDD LTE 1800/2600MHz**.
+Lo schermo è da **4.7 pollici** con una **risoluzione HD di 1280x720**, ha una **fotocamera da 8MP**, può ospitare **2 SIM** e ha queste dimensioni: 134 x 67.2 x 9.4mm.
 
 L'acquisto l'ho fatto su [aliexpress](http://www.aliexpress.com/store/311331) nello store di **HongKong Goldway**   
 

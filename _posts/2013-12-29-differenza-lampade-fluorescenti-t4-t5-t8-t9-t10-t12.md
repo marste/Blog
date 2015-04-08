@@ -18,6 +18,8 @@ tags:
   - lampade
   - misure
 ---
+![fluorescenti](https://www.swe.siemens.com/italy/web/IndustryGreenProgram/greenindustria/risparmioenergia/Illuminazione/PublishingImages/Osram-lampade%20fluorescenti.jpg)   
+
 La differenza sta nella misura del diametro della lampada.
 
 Ecco le misure:

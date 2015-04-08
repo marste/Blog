@@ -28,4 +28,4 @@ Se lo volete fare a mano, aprite regedit:
 `- Aggiungi la stringa: Quick Search Box`  
 `- Con valore: C:\Batch\Quick Search Box\GoogleQuickSearchBox.exe /autorun`
 
- [1]: http://marzorati.co/wp-content/uploads/2014/02/Quick-Search-Box.zip
+ [1]: http://marzorati.co/download/Quick-Search-Box.zip

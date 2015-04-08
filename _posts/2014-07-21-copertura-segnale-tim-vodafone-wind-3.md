@@ -19,5 +19,4 @@ tags:
   - vodafone
   - wind
 ---
-![opensignal](https://lh6.ggpht.com/5Vlpsx8ZjkfLeLHpiMI79vx7bjU0ca3plMMHLHH0FDTVZisOFFP1RAZCpCe6MWtN9w=w300)   
-<a href="http://opensignal.com/" target="_blank">http://opensignal.com/</a>
+[![opensignal](https://lh6.ggpht.com/5Vlpsx8ZjkfLeLHpiMI79vx7bjU0ca3plMMHLHH0FDTVZisOFFP1RAZCpCe6MWtN9w=w300)](http://opensignal.com/)

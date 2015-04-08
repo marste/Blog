@@ -11,7 +11,7 @@ tags:
   - gratis
   - rinnovare
 ---
-
+![whatsapp](http://www.ramrent.com/wp-content/uploads/whatsapp.png)   
 * Scaricare <a href="http://wassapp.software.informer.com/1.1/" target="_blank">Wassapp</a> sul computer.
 * Spegnere il telefono o metterlo in modalità aereo prima del rinnovo.
 * Una volta lanciato Wassapp inserire il Paese e il numero di telefono con il prefisso.

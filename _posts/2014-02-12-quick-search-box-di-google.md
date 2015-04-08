@@ -24,8 +24,8 @@ Se volete farlo avviare all&#8217;avvio, ecco un esempio da aggiungere al regist
 `reg.exe add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v "Quick Search Box" /t REG_SZ /d "C:\Batch\Quick Search Box\GoogleQuickSearchBox.exe /autorun"`
 
 Se lo volete fare a mano, aprite regedit:  
-`- HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`  
-`- Aggiungi la stringa: Quick Search Box`  
-`- Con valore: C:\Batch\Quick Search Box\GoogleQuickSearchBox.exe /autorun`
+- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`  
+- Aggiungi la stringa: `Quick Search Box`  
+- Con valore: `C:\Batch\Quick Search Box\GoogleQuickSearchBox.exe /autorun`
 
  [1]: http://marzorati.co/download/Quick-Search-Box.zip

@@ -26,6 +26,7 @@ tags:
   - mobile
   - telefonia
 ---
+![network](http://www.clipartbest.com/cliparts/Rid/Kgk/RidKgkXBT.jpeg)   
 **4G**: LTE FDD-LTE 800/1800/2600 MHz &#8211; (B3=1800 MHz e B7=2600 MHz)  
 **3G**: HSDPA WCDMA 2100 MHz  
 **2G**: GSM 900/1800 MHz

@@ -23,4 +23,6 @@ Finalmente ho trovato il rimedio per farlo tornare bello bianco.
 
 Circa una volta ogni 15 giorni, deposito sul fondo del lavello un dito d'<strong>acqua</strong> (ho provato sia calda che fredda ed è indifferente) <strong>con un po' di candeggina</strong>.
 La lascio per qualche ora (2-3-4 ore) e vedrete che sarà nuovamente bianco.
-Se è rimasta qualche macchia di quelle citate prima, ho scoperto che passando in senso rotatorio una spugnetta con del <strong>CIF Crema</strong>, questo prodotto farà sparire anche le macchie più ostinate.
+Se è rimasta qualche macchia di quelle citate prima, ho scoperto che passando in senso rotatorio una spugnetta con del <strong>CIF Crema</strong>, questo prodotto farà sparire anche le macchie più ostinate.   
+
+![cif-crema](http://www.baspesa.it/759-large_default/cif-crema-limone.jpg)

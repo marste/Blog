@@ -3,13 +3,6 @@ title: Come bloccare i programmi con le Group Policy di Windows
 author: Stefano Marzorati
 layout: post
 permalink: /come-bloccare-programmi-group-policy-windows/
-  - 
-video_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
 categories:
   - Windows
 tags:

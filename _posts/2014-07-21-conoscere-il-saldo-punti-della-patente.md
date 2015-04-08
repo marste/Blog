@@ -19,6 +19,7 @@ tags:
   - saldo
 ---
 ![punti-patente](http://www.lindifferenziato.com/wp-content/uploads/2015/01/Patente-a-punti.jpg)   
+
 Basta telefonare al numero **848 782 782** da un telefono di rete fissa.   
 
 Vi risponderà un messaggio registrato del Servizio informazioni patente a punti.   

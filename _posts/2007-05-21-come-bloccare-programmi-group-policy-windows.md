@@ -12,7 +12,7 @@ tags:
   - programmi
   - Windows
 ---
-<img class="aligncenter" src="https://farm9.staticflickr.com/8790/16890882869_b931243b9d_o.jpg" />  
+![title](https://farm9.staticflickr.com/8790/16890882869_b931243b9d_o.jpg)  
 <img class="aligncenter" src="https://farm9.staticflickr.com/8779/16456946343_2fdbf9b604_o.jpg" />
 
 **Procedimento**  

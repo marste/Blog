@@ -33,6 +33,8 @@ tags:
   - robocopy
   - script
 ---
+![robocopy](http://comptb.cects.com/wp-content/uploads/2014/01/robocopy_output.jpg)   
+
 <!-- HTML generated using hilite.me -->
 
 <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;">
@@ -194,4 +196,4 @@ exit
 In allegato, lo script di esempio:  
 [Script Backup Incrementale][1]
 
- [1]: http://marzorati.co/wp-content/uploads/2013/10/backup1.doc
+ [1]: http://marzorati.co/download/backup.doc

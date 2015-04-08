@@ -13,7 +13,9 @@ tags:
   - comuni
   - commandline
 ---
+
 ![github](https://lh5.googleusercontent.com/-y3eDXI2CMns/T2U5R9nANoI/AAAAAAAAD8U/vTeJoJXlShU/s256/GithubLogo.png)   
+
 Se dovete caricare dei nuovi files da command line su GitHub, ecco i comandi principali per uploadarli:   
 
 `git status`   

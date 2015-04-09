@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assistenza Computer
+title: Assistenza PC Computer
 permalink: /assistenza-computer/
 ---
 <ul>

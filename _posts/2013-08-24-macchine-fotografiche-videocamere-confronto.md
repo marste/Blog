@@ -27,6 +27,8 @@ tags:
   - macchine
   - videocamera
 ---
+![digital-cameras](http://cdn-4.nikon-cdn.com/en_INC/o/4vyYhAPnYjx8ovFzOcqDlzuDTL8/Overview/Secondary-2a-Compact.jpg)   
+
 <a href="http://snapsort.com/compare" title="Macchine Fotografiche a confronto" target="_blank">http://snapsort.com/compare</a>
 
 <a href="http://www.dpreview.com" target="_blank">http://www.dpreview.com</a>

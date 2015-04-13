@@ -47,7 +47,6 @@ Al piano di sotto è presente anche l&#8217;agriturismo Rusconi che però risult
  [2]: http://res.cloudinary.com/marzorati-co/image/upload/v1408107874/san_tomaso_2_tfc8xy.png
 
  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- marzorati -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2779664131593194"

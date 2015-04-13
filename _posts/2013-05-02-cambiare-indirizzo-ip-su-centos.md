@@ -23,8 +23,7 @@ editare il file inerente alla scheda di rete da modificare, esempio: ifcfg-eth2 
 
 Esempio di file:
 
-`<br />
-# Broadcom Corporation NetXtreme BCM5704S Gigabit Ethernet<br />
+`Broadcom Corporation NetXtreme BCM5704S Gigabit Ethernet<br />
 DEVICE=eth2<br />
 BOOTPROTO=static<br />
 HWADDR=00:14:5E:4B:57:E0<br />

@@ -1,10 +1,10 @@
 ---
 id: 61
-title: Rss reader
+title: Rss reader per Ubuntu
 author: Stefano Marzorati
 layout: post
 guid: http://ubbunti.wordpress.com/2011/03/05/rss-reader
-permalink: /rss-reader/
+permalink: /rss-reader-ubuntu/
 blogger_blog:
   - ubbunti.blogspot.com
   - ubbunti.blogspot.com

@@ -17,6 +17,6 @@ tags:
   - italiani
   - lista
 ---
-<a href="http://www.istat.it/it/files/2011/01/tutti-i-file_-01_01_2014.zip?title=Codici+comuni%2C+province+e+regioni+-+19%2Fdic%2F2013+-+Tutti+i+file.zip" target="_blank">http://www.istat.it/it/files/2011/01/tutti-i-file_-01_01_2014.zip?title=Codici+comuni%2C+province+e+regioni+-+19%2Fdic%2F2013+-+Tutti+i+file.zip</a>
+<a href="http://www.istat.it/it/files/2011/01/Tutti-i-file_30_01_2015.zip?title=Codici+delle+unit%C3%A0+amministrative+-+12%2Ffeb%2F2015+-+Tutti+i+file.zip" target="_blank">Elenco dei comuni italiani</a>
 
 <a href="http://www.istat.it/it/archivio/6789" target="_blank">http://www.istat.it/it/archivio/6789</a>

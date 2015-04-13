@@ -19,17 +19,18 @@ categories:
   - Linux
   - Windows
 ---
-Esempio:  
-<code>HTML><br />
-<HEAD><br />
-<TITLE>Redirect...</TITLE><br />
-<meta http-equiv="refresh" content="0; url=http://marzorati.co/"><br />
-</HEAD><br />
-<BODY><br />
-Redirect in progress...<br />
-</BODY><br />
-</HTML><br />
-</code>
+Esempio:   
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #007700">&lt;HTML&gt;</span>
+<span style="color: #007700">&lt;HEAD&gt;</span>
+<span style="color: #007700">&lt;TITLE&gt;</span>Redirect...<span style="color: #007700">&lt;/TITLE&gt;</span>
+<span style="color: #007700">&lt;meta</span> <span style="color: #0000CC">http-equiv=</span><span style="background-color: #fff0f0">&quot;refresh&quot;</span> <span style="color: #0000CC">content=</span><span style="background-color: #fff0f0">&quot;0; url=http://marzorati.co/&quot;</span><span style="color: #007700">&gt;</span>
+<span style="color: #007700">&lt;/HEAD&gt;</span>
+<span style="color: #007700">&lt;BODY&gt;</span>
+Redirect in progress...
+<span style="color: #007700">&lt;/BODY&gt;</span>
+<span style="color: #007700">&lt;/HTML&gt;</span>
+</pre></div>
+
 
 <div id="dc_vk_code" style="display:none;">
 </div>

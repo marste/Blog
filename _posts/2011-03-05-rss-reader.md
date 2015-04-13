@@ -1,6 +1,6 @@
 ---
 id: 61
-title: newsbeuter: rss reader per Ubuntu
+title: Rss reader per Ubuntu
 author: Stefano Marzorati
 layout: post
 guid: http://ubbunti.wordpress.com/2011/03/05/rss-reader

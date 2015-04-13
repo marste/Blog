@@ -1,6 +1,6 @@
 ---
 id: 2680
-title: Download lista comuni italiani
+title: Download lista comuni italiani 2015
 author: Stefano Marzorati
 layout: post
 guid: http://marzorati.co/?p=2680
@@ -19,4 +19,5 @@ tags:
 ---
 <a href="http://www.istat.it/it/files/2011/01/Tutti-i-file_30_01_2015.zip?title=Codici+delle+unit%C3%A0+amministrative+-+12%2Ffeb%2F2015+-+Tutti+i+file.zip" target="_blank">Elenco dei comuni italiani</a>
 
-<a href="http://www.istat.it/it/archivio/6789" target="_blank">http://www.istat.it/it/archivio/6789</a>
+Fonte:   
+<a href="http://www.istat.it/it/archivio/6789" target="_blank">istat.it</a>

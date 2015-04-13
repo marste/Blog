@@ -22,14 +22,14 @@ tags:
   - news
   - televideo
 ---
-[televideo](http://www.televideo.rai.it/televideo/pub/rss101.xml)   
+[http://www.televideo.rai.it/televideo/pub/rss101.xml](http://www.televideo.rai.it/televideo/pub/rss101.xml)   
 
-[ansa-lombardia](http://www.ansa.it/lombardia/notizie/lombardia_rss.xml)   
+[http://www.ansa.it/lombardia/notizie/lombardia_rss.xml](http://www.ansa.it/lombardia/notizie/lombardia_rss.xml)   
 
-[repubblica](http://www.repubblica.it/rss/homepage/rss2.0.xml)   
+[http://www.repubblica.it/rss/homepage/rss2.0.xml](http://www.repubblica.it/rss/homepage/rss2.0.xml)   
 
-[huffingtonpost](http://www.huffingtonpost.it/feeds/verticals/italy/index.xml)   
+[http://www.huffingtonpost.it/feeds/verticals/italy/index.xml](http://www.huffingtonpost.it/feeds/verticals/italy/index.xml)   
 
-[lastampa](http://www.lastampa.it/rss.xml)   
+[http://www.lastampa.it/rss.xml](http://www.lastampa.it/rss.xml)   
 
-[agi](http://agi.feedsportal.com/c/34339/f/625409/index.rss)
+[http://agi.feedsportal.com/c/34339/f/625409/index.rss](http://agi.feedsportal.com/c/34339/f/625409/index.rss)

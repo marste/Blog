@@ -242,12 +242,3 @@ Non abbiate paura, il sito è solo in lingua tedesca, ma rispondono tranquillame
 
  [1]: http://www.uniquejewelry.de "uniquejewelry"
  
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2779664131593194"
-     data-ad-slot="2588551865"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -83,13 +83,3 @@ exit
 Se ti occorre convertire il file mp4 in avi per vederlo eventualmente su una Smart TV, puoi usare:
 
 `ffmpeg -i c:\video.mp4 -acodec mp3 -vcodec libx264 -preset ultrafast c:\video.avi`
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2779664131593194"
-     data-ad-slot="2588551865"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -43,3 +43,13 @@ Un-Zip Password: symantec
 1. Extract the file to a new folder in a convenient location, such as the Desktop, using the un-zip password provided above.  
 2. Browse to the new folder and execute the utility by double clicking ‘CleanWipe.exe’  
 3. Follow the on-screen instructions.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2779664131593194"
+     data-ad-slot="2588551865"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

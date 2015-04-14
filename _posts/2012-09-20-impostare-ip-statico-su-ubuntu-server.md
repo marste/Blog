@@ -38,3 +38,13 @@ nameserver 212.216.172.62 #dns secondario della rete<br />
 
 Riavviare la rete:  
 `sudo ifdown eth0 && sudo ifup eth0`
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2779664131593194"
+     data-ad-slot="2588551865"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

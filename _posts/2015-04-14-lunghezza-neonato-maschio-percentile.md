@@ -12,7 +12,7 @@ tags:
   - maschio
   - grafico
 ---
-Dal **World Health Organization**, ecco i grafici per il lunghezza/altezza di bambini tra gli 0 mesi e i 5 anni:   
+Da **World Health Organization**, ecco i grafici per il lunghezza/altezza di bambini tra gli 0 mesi e i 5 anni:   
 
 ![lunghezza-percentile](https://farm9.staticflickr.com/8761/17143870971_4b3d9b3a28_o.jpg)   
 ![altezza-percentile](https://farm8.staticflickr.com/7707/16958314129_db3abe0342_o.jpg)   

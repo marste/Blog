@@ -12,7 +12,7 @@ tags:
   - femmina
   - grafico
 ---
-Dal World Health Organization, ecco i grafici per il peso di bimbe tra gli 0 mesi e i 5 anni:   
+Dal **World Health Organization**, ecco i grafici per il peso di bimbe tra gli 0 mesi e i 5 anni:   
 
 ![peso-percentile](https://farm9.staticflickr.com/8791/17144510545_92f2729c6c_o.jpg)   
 ![peso-percentile](https://farm9.staticflickr.com/8764/17143870011_8159ece5df_o.jpg)   

@@ -49,3 +49,13 @@ Per avere una idea di quanti metri cubi di metano occorrono per riscaldare 1000 
 <a href="http://sangiorgio16.wordpress.com/quanti-mc-di-metano-occorrono-per-riscaldare-1mc-di-acqua/" target="_blank">Conti di Piero Gessaga</a>
 
  [1]: https://farm8.staticflickr.com/7565/16204761906_a364a96cc3_o.png
+ 
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2779664131593194"
+     data-ad-slot="2588551865"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

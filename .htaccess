@@ -1,3 +1,4 @@
+ErrorDocument 400 /search/
 RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]

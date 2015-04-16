@@ -11,6 +11,7 @@ tags:
   - redirect
   - index
   - php
+  - apache
 ---
 
 Se volete dirottare tutto il traffico del vostro sito internet verso un altro indirizzo, potete farlo con un file [index.html](http://marzorati.co/redirect-page-index/) oppure se il vostro server legge il codice php, con un file index.php   

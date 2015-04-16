@@ -1,8 +1,9 @@
+ErrorDocument 404 http://marzorati.co/404/
+
 RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
-//Custom 404 errors
-ErrorDocument 404 /search/
- 
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /search/ [L]

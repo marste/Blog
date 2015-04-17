@@ -1,6 +1,6 @@
 ---
 id: 2585
-title: 'Rifugio Castiglioni &#8211; Alpe Devero (VB)'
+title: 'Rifugio Castiglioni 1640 m &#8211; Alpe Devero (VB)'
 author: Stefano Marzorati
 layout: post
 guid: http://marzorati.co/?p=2585

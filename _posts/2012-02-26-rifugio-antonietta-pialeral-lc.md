@@ -1,6 +1,6 @@
 ---
 id: 2587
-title: 'Rifugio Antonietta &#8211; Pialeral (LC)'
+title: 'Rifugio Antonietta 1400 m &#8211; Pialeral (LC)'
 author: Stefano Marzorati
 layout: post
 guid: http://marzorati.co/?p=2587

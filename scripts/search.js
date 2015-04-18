@@ -2,7 +2,7 @@
  * A simple JSON search
  * Requires jQuery (v 1.7+)
  *
- * @author  Mat Hayward - Erskine Design
+ * @author  Mat Hayward - Erskine Design - https://github.com/mathaywarduk/jekyll-search
  * @version  0.1
  */
 

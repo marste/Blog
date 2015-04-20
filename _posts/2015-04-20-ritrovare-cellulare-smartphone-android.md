@@ -11,6 +11,7 @@ tags:
   - smartphone
   - android
   - perso
+  - google
 ---
 Se avete smarrito o vi è stato rubato il vostro telefono Android, potete vedere su Google Maps dove si trova.   
 Ovviamente il telefono deve avere ancora l'applicazione di Google installata e deve essere attivo sul telefono ancora il vostro account.   

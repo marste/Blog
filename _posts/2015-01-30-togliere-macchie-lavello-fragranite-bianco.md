@@ -17,7 +17,7 @@ tags:
 Se possedete un lavello della cucina in <strong>fragranite bianco</strong>, vi sarete accorti che si macchia facilmente con i residui di cibo.
 Solitamente capita che rimangano delle piccole <strong>macchie arancioni</strong>, tipo ruggine, che non si riescono ad eliminare facilmente.   
 
-![fragranite-bianco](http://blog.bagnoitaliano.it/wp-content/uploads/Catalogo-Plados-2012-4.jpg)   
+<img style="float: right" src="http://blog.bagnoitaliano.it/wp-content/uploads/Catalogo-Plados-2012-4.jpg">   
 
 Finalmente ho trovato il rimedio per farlo tornare bello bianco.
 

@@ -2,6 +2,13 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: *
-Allow: /
+Disallow: /tag/
+Disallow: /page/
+Disallow: /category/
+Disallow: /2011/
+Disallow: /2012/
+Disallow: /2013/
+Disallow: /2014/
+Disallow: /2013/
 
 Sitemap: http://marzorati.co/sitemap.xml

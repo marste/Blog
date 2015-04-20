@@ -5,6 +5,7 @@ User-agent: *
 Disallow: /tag/
 Disallow: /page/
 Disallow: /category/
+Disallow: /author/
 Disallow: /2011/
 Disallow: /2012/
 Disallow: /2013/

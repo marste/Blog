@@ -569,21 +569,16 @@ Copyright (c) 2014 Daniel Eden
           animation-name: fadeInDown;
 }
 
-.video-responsive{
+.video{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
 }
-.video-responsive iframe{
+.video iframe{
     left:0;
     top:0;
     height:100%;
     width:100%;
     position:absolute;
-}
-.center-image
-{
-    margin: 0 auto;
-    display: block;
 }

@@ -13,7 +13,7 @@ tags:
   - comuni
   - commandline
 ---
-![github](http://www.molecularecologist.com/wp-content/uploads/2013/11/github-logo.jpg)   
+![github](http://www.molecularecologist.com/wp-content/uploads/2013/11/github-logo.jpg){: .center-image .responsive-image }	  
 
 Se dovete caricare dei nuovi files da command line su GitHub, ecco i comandi principali per uploadarli:   
 

@@ -30,7 +30,7 @@ tags:
   - vento
 ---
 <div class="video">
-    <iframe width="420" height="315" src="//www.youtube.com/embed/2GxWs54v2d0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube.com/embed/2GxWs54v2d0" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 Links:

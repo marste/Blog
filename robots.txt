@@ -11,5 +11,6 @@ Disallow: /2012/
 Disallow: /2013/
 Disallow: /2014/
 Disallow: /2013/
+Disallow: /www.sexyteens.hol.es/post46584
 
 Sitemap: http://marzorati.co/sitemap.xml

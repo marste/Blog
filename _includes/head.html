@@ -34,7 +34,7 @@
 	{% if page.categories %}{% for category in page.categories limit:1 %}<meta property="article:section" content="{{ category }}">{% endfor %}{% endif %}
     {% if page.tags %}
 		{% for tag in page.tags %}
-		<meta property="article:tag" content="{{ tag }}">
+	<meta property="article:tag" content="{{ tag }}">
 		{% endfor %}
 	{% endif %}
 		

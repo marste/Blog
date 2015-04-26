@@ -29,9 +29,9 @@
     <meta property="og:site_name" content="{{ site.title }}">
 	{% if page.categories %}{% for category in page.categories limit:1 %}<meta property="{{ category }}" content="article:section">{% endfor %}{% endif %}
     {% if page.tags %}
-	 {% for tag in page.tags %}
-	 <meta property="article:tag" content="{{ tag }}" >
-	 {% endfor %}
+	{% for tag in page.tags %}
+	<meta property="article:tag" content="{{ tag }}" >
+	{% endfor %}
 	{% endif %}
 	{% if page.twitter_card_image %}<meta name="twitter:image" content="{{ site.url }}/assets/{{ page.twitter_card_image }}" />{% endif %}
 	

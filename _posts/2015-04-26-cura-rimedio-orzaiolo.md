@@ -11,11 +11,11 @@ tags:
   - naturale
   - orzaiolo
 ---
-Se spesso sotto l'occhio vi compare l'orzaiolo, che non è altro che un'infezione di alcune ghiandole dell'occhio.   
+Se spesso sotto l'occhio vi compare l'orzaiolo, che non è altro che un'infezione di alcune ghiandole dell'occhio,   
 
 ![orzaiolo](http://static.tantasalute.it/tantasalute/fotogallery/979X0/1221/alterazione-della-palpebra.jpg)   
 
-Vi consiglio di non ricorrere a medicinali, ma fare esclusivamente degli impacchi tiepidi di acqua e sale per sgonfiarli.
+vi consiglio di non ricorrere a medicinali, ma fare esclusivamente degli impacchi tiepidi di acqua e sale per sgonfiarli.
 
   - Fai bollire acqua e ci metti una manciata di sale
   - Lascia che l'acqua diventi tiepida e imbevi del cotone e applicalo sulle palpebre

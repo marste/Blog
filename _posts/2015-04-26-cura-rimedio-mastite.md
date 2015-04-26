@@ -12,6 +12,7 @@ tags:
   - mammario
   - mastite
   - cavolo
+  - naturale
   - cappuccio
 ---
 ![mastite](http://comefare.donnamoderna.com/wp-content/uploads/2013/10/Plant-to-Treat-Mastitis-Breast-Infections.jpg)   

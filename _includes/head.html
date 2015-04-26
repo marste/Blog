@@ -34,10 +34,9 @@
 	{% endif %}
     {% if page.tags %}
 	{% for tag in page.tags %}
-	<meta property="article:tag" content="{{ tag }}" >
+	<meta property="article:tag" content="{{ tag }}">
 	{% endfor %}
 	{% endif %}
-	{% if page.twitter_card_image %}<meta name="twitter:image" content="{{ site.url }}/assets/{{ page.twitter_card_image }}" />{% endif %}
 	
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">

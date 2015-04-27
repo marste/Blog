@@ -1,6 +1,6 @@
 ---
 title: Come curare l'orzaiolo
-date: 2015-04-26 15:00:00 +08:00
+date: 2015-04-26 15:00:00 -07:00
 author: Stefano Marzorati
 layout: post
 permalink: /curare-rimedio-orzaiolo/

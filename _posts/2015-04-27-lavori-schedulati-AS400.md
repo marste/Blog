@@ -12,6 +12,4 @@ tags:
   - lavori
   - comando
 ---
-Il comando per vedere i lavori schedulati è il seguente:   
-
-<code>WRKJOBSCDE</code>
+Il comando per vedere i lavori schedulati è il seguente: <code>WRKJOBSCDE</code>

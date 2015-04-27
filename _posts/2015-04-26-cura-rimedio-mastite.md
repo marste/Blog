@@ -1,5 +1,6 @@
 ---
 title: Come curare l'ingorgo mammario
+date: 2015-04-26 16:00:00
 author: Stefano Marzorati
 layout: post
 permalink: /curare-rimedio-mastite/

@@ -1,5 +1,5 @@
 ---
-title: Come curare la mastite
+title: Come curare l'ingorgo mammario
 author: Stefano Marzorati
 layout: post
 permalink: /curare-rimedio-mastite/

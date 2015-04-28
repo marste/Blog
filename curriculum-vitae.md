@@ -36,6 +36,7 @@ permalink: /curriculum-vitae/
 * IBM AS/400
 * Sistemi Editoriali (Adobe, Woodwing)
 * IBM Lotus Domino
+* Microsoft Exchange
 * VPN (OpenVPN)
 * Server FTP
 * Appliance Symantec Antivirus-Antispam

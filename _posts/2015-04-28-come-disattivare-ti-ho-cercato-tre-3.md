@@ -13,6 +13,8 @@ tags:
   - tre
   - cercato
 ---
+![tre-italia](http://www.mobileos.it/wp-content/uploads/2015/01/tre-italia.jpg)   
+
 Il servizio di 3 che ti avvisa se qualcuno ti ha cercato quando non eri raggiungibile è diventato a pagamento.
 Se vuoi disattivare questo servizio, puoi farlo in due modi:   
 

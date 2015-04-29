@@ -16,15 +16,15 @@ tags:
 ---
 Da PowerShell digitare:   
 
-<code>$LiveCred = Get-Credential</code>   
+  - <code>$LiveCred = Get-Credential</code>   
 
-<code>$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://ps.outlook.com/powershell/ -Credential $LiveCred -Authentication Basic -AllowRedirection</code>   
+  - <code>$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://ps.outlook.com/powershell/ -Credential $LiveCred -Authentication Basic -AllowRedirection</code>   
 
-<code>Import-PSSession $Session</code>   
+  - <code>Import-PSSession $Session</code>   
 
-<code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -BlockedFileTypes @{Remove = ".xml"}</code>   
-<code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -AllowedFileTypes @{Add = ".xml"}</code>   
-<code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -BlockedMimeTypes @{Remove = "text/xml", "application/xml"}</code>   
-<code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -AllowedMimeTypes @{Add = "text/xml", "application/xml"}</code>   
+  - <code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -BlockedFileTypes @{Remove = ".xml"}</code>   
+  - <code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -AllowedFileTypes @{Add = ".xml"}</code>   
+  - <code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -BlockedMimeTypes @{Remove = "text/xml", "application/xml"}</code>   
+  - <code>Get-OwaMailboxPolicy | Set-OwaMailboxPolicy -AllowedMimeTypes @{Add = "text/xml", "application/xml"}</code>   
 
 Le modifiche potranno anche metterci 24 ore prima di essere effettive.   

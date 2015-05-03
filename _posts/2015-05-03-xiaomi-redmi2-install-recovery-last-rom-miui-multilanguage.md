@@ -1,5 +1,5 @@
 ---
-title: Xiaomi RedMi2: install recovery and last ROM MIUI
+title: Xiaomi RedMi2 - Install recovery and last ROM MIUI
 date: 2015-05-03 23:00:00 -07:00
 author: Stefano Marzorati
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: Xiaomi RedMi2: installare recovery e ultima ROM MIUI
+title: Xiaomi RedMi2 - Installare recovery e ultima ROM MIUI
 date: 2015-05-03 22:30:00 -07:00
 author: Stefano Marzorati
 layout: post

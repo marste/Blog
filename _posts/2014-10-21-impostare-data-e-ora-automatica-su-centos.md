@@ -20,23 +20,25 @@ tags:
   - setup
 ---
 Installa il servizio ntp:  
-`yum install ntp`
+<code>yum install ntp</code>
 
 Edita il file:  
-`/etc/ntp/step-tickers`
+<code>/etc/ntp/step-tickers</code>
 
 Aggiungendo i servers ntp che vuoi, ad esempio:
 
-`0.pool.ntp.org   
+<code>
+0.pool.ntp.org   
 1.pool.ntp.org   
-2.pool.ntp.org`
+2.pool.ntp.org
+</code>
 
-Fai in modo che il servizio si avvii automaticamente al boot:
+Fai in modo che il servizio si avvii automaticamente al boot:   
 
-`chkconfig ntpd on`
+<code>chkconfig ntpd on</code>
 
 Avvia il servizio:  
-`service ntpd start`
+<code>service ntpd start</code>   
 
 Controlla la data e l&#8217;ora:  
-`date`
+<code>date</code>

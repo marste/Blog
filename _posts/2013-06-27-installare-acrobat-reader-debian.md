@@ -25,11 +25,10 @@ tags:
   - reader
   - repository
 ---
-Aggiungi in: /etc/apt/sources.list
+Aggiungi in: /etc/apt/sources.list   
 
-`deb http://www.deb-multimedia.org sid main non-free   
-deb-src http://www.deb-multimedia.org sid main`
+`deb http://www.deb-multimedia.org sid main non-free`   
+`deb-src http://www.deb-multimedia.org sid main`
 
 `sudo apt-get install deb-multimedia-keyring`
-
 `sudo apt-get install acroread mozilla-acroread`

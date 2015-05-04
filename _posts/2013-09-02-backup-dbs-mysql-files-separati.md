@@ -23,17 +23,17 @@ tags:
   - mysqldump
   - separati
 ---
-`#!/bin/bash`
+	`#!/bin/bash`
 
-``TIMESTAMP=$(date +"%F")   
-BACKUP_DIR="/home/backup/$TIMESTAMP"   
-MYSQL_USER="root"   
-MYSQL_PASSWORD="password"   
-MYSQL=/usr/bin/mysql   
-MYSQLDUMP=/usr/bin/mysqldump   
-mkdir -p $BACKUP_DIR   
-databases=`$MYSQL -u$MYSQL_USER -p$MYSQL_PASSWORD -e "SHOW DATABASES;" | grep -Ev "(Database|information_schema|mysql|performance_schema)"`   
-for db in $databases; do   
-echo $db   
-$MYSQLDUMP --force --opt --user=$MYSQL_USER -p$MYSQL_PASSWORD --databases $db | gzip > "$BACKUP_DIR/$db.gz"   
-done``
+	TIMESTAMP=$(date +"%F")   
+	BACKUP_DIR="/home/backup/$TIMESTAMP"   
+	MYSQL_USER="root"   
+	MYSQL_PASSWORD="password"   
+	MYSQL=/usr/bin/mysql   
+	MYSQLDUMP=/usr/bin/mysqldump   
+	mkdir -p $BACKUP_DIR   
+	databases=`$MYSQL -u$MYSQL_USER -p$MYSQL_PASSWORD -e "SHOW DATABASES;" | grep -Ev "(Database|information_schema|mysql|performance_schema)"   
+	for db in $databases; do   
+	echo $db   
+	$MYSQLDUMP --force --opt --user=$MYSQL_USER -p$MYSQL_PASSWORD --databases $db | gzip > "$BACKUP_DIR/$db.gz"   
+	done

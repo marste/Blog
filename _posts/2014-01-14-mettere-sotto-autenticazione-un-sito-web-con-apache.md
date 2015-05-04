@@ -34,6 +34,6 @@ Poi editate il file .htaccess del vostro sito e all&#8217;inizio del file scrive
 	AuthUserFile /www/html/website/.htpasswd   
 	AuthType Basic   
 	AuthName "Sito Demo"   
-	Require valid-user`
+	Require valid-user
 
 Ora il vostro sito è protetto da password.

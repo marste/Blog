@@ -28,8 +28,8 @@ tags:
 Mandare una mail all&#8217;indirizzo: <check-auth@verifier.port25.com>  
 Riceverete una mail con il risultato, simile a questo:   
 
-	The Port25 Solutions, Inc. team</p>
-	<p>==========================================================   
+	The Port25 Solutions, Inc. team
+	==========================================================   
 	Summary of Results   
 	==========================================================   
 	SPF check:          neutral   

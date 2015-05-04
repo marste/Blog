@@ -16,7 +16,7 @@ tags:
   - script
   - Windows
 ---
-`@ECHO OFF   
+@ECHO OFF   
 CLS   
 :LOOP   
 ECHO 1) Radio Planet   
@@ -139,4 +139,4 @@ GOTO Again
 PAUSE   
 CLS   
 GOTO Loop   
-:End`
+:End

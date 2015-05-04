@@ -26,16 +26,14 @@ tags:
   - spf
 ---
 Mandare una mail all&#8217;indirizzo: <check-auth@verifier.port25.com>  
-Riceverete una mail con il risultato, simile a questo:
+Riceverete una mail con il risultato, simile a questo:   
 
-`   
-The Port25 Solutions, Inc. team</p>
-<p>==========================================================   
-Summary of Results   
-==========================================================   
-SPF check:          neutral   
-DomainKeys check:   neutral   
-DKIM check:         neutral   
-Sender-ID check:    neutral   
-SpamAssassin check: ham   
-`
+	The Port25 Solutions, Inc. team</p>
+	<p>==========================================================   
+	Summary of Results   
+	==========================================================   
+	SPF check:          neutral   
+	DomainKeys check:   neutral   
+	DKIM check:         neutral   
+	Sender-ID check:    neutral   
+	SpamAssassin check: ham   

@@ -20,13 +20,14 @@ tags:
   - CRIME
   - virtualhost
 ---
-La configurazione ideale per Apache è:
-
-`SSLEngine			On   
+La configurazione ideale per Apache è:   
+<code>
+SSLEngine			On   
   SSLProxyEngine		On   
   SSLProtocol			All -SSLv2 -SSLv3   
   SSLCipherSuite		ECDHE-RSA-AES128-SHA256:AES128-GCM-SHA256:RC4:HIGH:!MD5:!aNULL:!EDH   
   SSLCompression Off   
   SSLCertificateFile 	/etc/httpd/ssl/publickey_2014.crt   
   SSLCertificateKeyFile 	/etc/httpd/ssl/privatekey_2014.key   
-  SSLCertificateChainFile	/etc/httpd/ssl/intermediate_2014.crt`
+  SSLCertificateChainFile	/etc/httpd/ssl/intermediate_2014.crt
+</code>  

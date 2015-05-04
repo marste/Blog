@@ -21,7 +21,6 @@ tags:
 Aggiungi al file di configurazione di postfix **/etc/postfix/main.cf** le seguenti righe:
 
 <code>
-# RELAY MAPPINGS PER DOMAIN   
 transport_maps = hash:/etc/postfix/transport
 </code>
 

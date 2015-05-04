@@ -20,8 +20,9 @@ tags:
   - top
   - ultimi
 ---
-Esempio:
-
-`SELECT TOP 100 *   
+Esempio:   
+<code>
+SELECT TOP 100 *   
 FROM "database"."tabella"."tabella"   
-ORDER BY colonnachevuoi DESC`
+ORDER BY colonnachevuoi DESC
+</code>

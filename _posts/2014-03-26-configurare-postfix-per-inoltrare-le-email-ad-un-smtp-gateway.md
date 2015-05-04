@@ -33,7 +33,7 @@ oppure se voglio che tutte le email vengano inoltrate verso un certo smtp:
 
 <code>*          smtp:192.168.101.71:25</code>
 
-Lancia questi comandi:
+Lancia questi comandi:   
 
 <code>postmap hash:/etc/postfix/transport</code>  
 <code>postfix reload</code>

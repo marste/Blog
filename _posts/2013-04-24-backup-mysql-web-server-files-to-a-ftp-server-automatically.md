@@ -77,8 +77,8 @@ categories:
 Poi lo scheduli con il cron:  
 `13 0 * * * /home/admin/bin/ftpbackup.sh >/dev/null 2>&1`
 
-Backup script generator:
+Backup script generator:   
 
-http://bash.cyberciti.biz/backup/wizard-ftp-script.php
+[http://bash.cyberciti.biz/backup/wizard-ftp-script.php](http://bash.cyberciti.biz/backup/wizard-ftp-script.php)   
 
-via http://www.cyberciti.biz/tips/how-to-backup-mysql-databases-web-server-files-to-a-ftp-server-automatically.html
+[via](http://www.cyberciti.biz/tips/how-to-backup-mysql-databases-web-server-files-to-a-ftp-server-automatically.html)

@@ -26,7 +26,7 @@ tags:
   - Linux
   - reboot
 ---
-**Reboot :**  
+**Reboot :**   
 `echo 1 > /proc/sys/kernel/sysrq`  
 `echo b > /proc/sysrq-trigger`
 
@@ -35,12 +35,12 @@ tags:
 `echo o > /proc/sysrq-trigger`
 
 Per riavviare in sicurezza:  
-`   
-Alt+Sysrq+R   
-Alt+Sysrq+E   
-Alt+Sysrq+I   
-Alt+Sysrq+S   
-Alt+Sysrq+U   
-Alt+Sysrq+B   
-`  
+   
+	Alt+Sysrq+R   
+	Alt+Sysrq+E   
+	Alt+Sysrq+I   
+	Alt+Sysrq+S   
+	Alt+Sysrq+U   
+	Alt+Sysrq+B   
+  
 Ricordati: REISUB

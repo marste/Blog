@@ -24,10 +24,10 @@ Modificare il file:
 
 e aggiungere alla seguente riga, gli indirizzi email delle persone che dovranno leggere la posta inviata all&#8217;utente root
 
-<code>
+`
 # Person who should get root's mail   
 root:		support@email.com, user@marzorati.co
-</code>
+`
 
 Poi digitare il comando seguente per aggiornare il db:  
 <code>newaliases</code>

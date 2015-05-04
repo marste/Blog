@@ -18,17 +18,19 @@ tags:
   - mail
   - root
 ---
-Modificare il file:
+Modificare il file:   
 
-`/etc/aliases`
+<code>/etc/aliases</code>   
 
 e aggiungere alla seguente riga, gli indirizzi email delle persone che dovranno leggere la posta inviata all&#8217;utente root
 
-`# Person who should get root's mail   
-root:		support@email.com, user@marzorati.co`
+<code>
+# Person who should get root's mail   
+root:		support@email.com, user@marzorati.co
+</code>
 
 Poi digitare il comando seguente per aggiornare il db:  
-`newaliases`
+<code>newaliases</code>
 
 Per effettuare un test, digita:  
-`echo "Testing message" | mail -s "Testing from server" root@localhost`
+<code>echo "Testing message" | mail -s "Testing from server" root@localhost</code>

@@ -23,7 +23,7 @@ tags:
   - mysqldump
   - separati
 ---
-	`#!/bin/bash`
+	#!/bin/bash
 
 	TIMESTAMP=$(date +"%F")   
 	BACKUP_DIR="/home/backup/$TIMESTAMP"   

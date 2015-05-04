@@ -20,20 +20,22 @@ tags:
 ---
 Aggiungi al file di configurazione di postfix **/etc/postfix/main.cf** le seguenti righe:
 
-`# RELAY MAPPINGS PER DOMAIN   
-transport_maps = hash:/etc/postfix/transport`
+<code>
+# RELAY MAPPINGS PER DOMAIN   
+transport_maps = hash:/etc/postfix/transport
+</code>
 
 Se vuoi ad esempio che tutte le email che hanno dominio gmail.com, vengano spedite con l&#8217;smtp **192.168.101.71**, edita il file **/etc/postfix/transport** aggiungendo la regola:
 
-`gmail.com          smtp:192.168.101.71:25`
+<code>gmail.com          smtp:192.168.101.71:25</code>
 
-oppure se voglio che tutte le email vengano inoltrate verso un certo smtp:
+oppure se voglio che tutte le email vengano inoltrate verso un certo smtp:   
 
-`*          smtp:192.168.101.71:25`
+<code>*          smtp:192.168.101.71:25</code>
 
 Lancia questi comandi:
 
-`postmap hash:/etc/postfix/transport`  
-`postfix reload`
+<code>postmap hash:/etc/postfix/transport</code>  
+<code>postfix reload</code>
 
 Se cambi le regole nel file transport, occorre rilanciare questi due ultimi comandi in modo da rigenerare il file transport.db

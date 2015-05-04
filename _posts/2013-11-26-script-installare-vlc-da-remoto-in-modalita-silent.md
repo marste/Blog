@@ -21,5 +21,5 @@ tags:
   - silent
   - vlc
 ---
-`xcopy "\\Server\VLC\vlc-2.1.1-win32.exe" "\\%1\C$\Temp\*.*" /r/i/c/h/k/e   
-psexec \\%1 -s -d "C:\Temp\vlc-2.1.1-win32.exe" /L=1033 /S`
+`xcopy "\\Server\VLC\vlc-2.1.1-win32.exe" "\\%1\C$\Temp\*.*" /r/i/c/h/k/e`   
+`psexec \\%1 -s -d "C:\Temp\vlc-2.1.1-win32.exe" /L=1033 /S`

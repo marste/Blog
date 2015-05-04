@@ -16,6 +16,7 @@ tags:
   - script
   - Windows
 ---
+<code>
 @ECHO OFF   
 CLS   
 :LOOP   
@@ -140,3 +141,4 @@ PAUSE
 CLS   
 GOTO Loop   
 :End
+</code>

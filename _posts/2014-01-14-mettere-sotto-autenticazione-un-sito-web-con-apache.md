@@ -24,16 +24,16 @@ Per prima cosa digitare da terminal il seguente comando che creerà la password 
 
 Verrà chiesta due volte la password che si vuole dare all&#8217;utente e avrete il seguente risultato:
 
-`New password:   
-Re-type new password:   
-Adding password for user test   
-`
+	New password:   
+	Re-type new password:   
+	Adding password for user test   
+
 
 Poi editate il file .htaccess del vostro sito e all&#8217;inizio del file scrivete queste quattro righe:
 
-`AuthUserFile /www/html/website/.htpasswd   
-AuthType Basic   
-AuthName "Sito Demo"   
-Require valid-user`
+	AuthUserFile /www/html/website/.htpasswd   
+	AuthType Basic   
+	AuthName "Sito Demo"   
+	Require valid-user`
 
 Ora il vostro sito è protetto da password.

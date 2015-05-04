@@ -36,7 +36,7 @@ Se invece vuoi montare delle share Windows, occorre editare il file:
 E ad esempio aggiungere queste righe per montare delle share:
 
 `storageserver           -fstype=cifs,file_mode=0644,dir_mode=0755,username=administrator,password=password ://storageserver/BackupMysql`  
-`webserver               -fstype=cifs,ro,file_mode=0644,dir_mode=0755,username=administrator,password=password ://webserver/c\$<br />
+`webserver               -fstype=cifs,ro,file_mode=0644,dir_mode=0755,username=administrator,password=password ://webserver/c\$   
 `  
 `servizi_pdf             -fstype=cifs,username=arcserve,password=password,iocharset=utf8,file_mode=0777,dir_mode=0777 ://netapp/Servizi_PDF`
 

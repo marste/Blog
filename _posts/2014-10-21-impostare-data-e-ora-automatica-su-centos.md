@@ -27,8 +27,8 @@ Edita il file:
 
 Aggiungendo i servers ntp che vuoi, ad esempio:
 
-`0.pool.ntp.org<br />
-1.pool.ntp.org<br />
+`0.pool.ntp.org   
+1.pool.ntp.org   
 2.pool.ntp.org`
 
 Fai in modo che il servizio si avvii automaticamente al boot:

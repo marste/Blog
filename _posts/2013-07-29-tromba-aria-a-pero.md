@@ -31,8 +31,8 @@ tags:
 ---
 <div class="video">
     <iframe src="//www.youtube.com/embed/2GxWs54v2d0" frameborder="0" allowfullscreen></iframe>
-</div>
-<br>
+</div>   
+
 Links:
 
 <a href="http://www.youreporternews.it/2013/tromba-daria-a-pero-milano-crollano-alberi-su-auto-in-presa-diretta/" target="_blank">YouReporter</a>  

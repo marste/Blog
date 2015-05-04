@@ -25,7 +25,7 @@ Installa lftp:
 Accedi al server ftp:  
 `lftp ftp.marzorati.co`  
 `lftp ftp.marzorati.co:~> user stefano`  
-`Password:<br />
+`Password:   
 lftp stefano@ftp.marzorati.co:~>`
 
 Invia files da locale a remoto:  

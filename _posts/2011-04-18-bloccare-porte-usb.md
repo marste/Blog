@@ -21,6 +21,6 @@ tags:
 ---
 `sudo gedit /etc/modprobe.d/blacklist.conf`  
 inserire:  
-`# Blocco accesso USB</span><br />
+`# Blocco accesso USB</span>   
 <span style="font-family:monospace;">blacklist usb_storage`  
 <a href="http://www.edmondweblog.com/index.php/2011/04/18/sicurezza-bloccare-porte-usb/" target="_blank">via</a>

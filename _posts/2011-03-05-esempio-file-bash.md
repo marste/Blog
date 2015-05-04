@@ -22,6 +22,6 @@ dsq_thread_id:
 categories:
   - Linux
 ---
-`#!/bin/bash<br />
-echo Hello World<br />
+`#!/bin/bash   
+echo Hello World   
 sleep 5`

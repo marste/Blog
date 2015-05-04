@@ -19,5 +19,5 @@ tags:
 <p>USER username</p>
 <p>PASS password</p>
 <p>LIST</p>
-<p>QUIT<br />
+<p>QUIT   
 `

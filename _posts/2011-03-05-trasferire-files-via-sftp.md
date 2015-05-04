@@ -24,7 +24,7 @@ categories:
 tags:
   - ftp
 ---
-<span style="font-size:130%;">sftp user@nomepc<br /> get fileremoto pathlocale</span>
+<span style="font-size:130%;">sftp user@nomepc    get fileremoto pathlocale</span>
 
 oppure
 

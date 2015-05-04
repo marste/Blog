@@ -22,8 +22,8 @@ tags:
 ---
 `<a href="https://bitbucket.org/vkolev/gsharkdown/downloads" target="_blank">http://gsharkdown.bultux.org/download.html</a>`  
 oppure  
-`sudo add-apt-repository ppa:ferramroberto/gsharkdown</span><br />
-<span style="font-family:monospace;">sudo apt-get update</span><br />
+`sudo add-apt-repository ppa:ferramroberto/gsharkdown</span>   
+<span style="font-family:monospace;">sudo apt-get update</span>   
 <span style="font-family:monospace;">sudo apt-get install gsharkdown`
 
 <div id="dc_vk_code" style="display:none;">

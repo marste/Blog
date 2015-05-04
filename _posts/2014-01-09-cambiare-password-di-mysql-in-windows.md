@@ -23,8 +23,8 @@ Stoppare MySQL
 
 Scrivi un file di testo con Notepad o altro con queste istruzioni:
 
-`UPDATE mysql.user SET Password=PASSWORD(”NuovaPassword”) WHERE User=’root’;<br />
-FLUSH PRIVILEGES;<br />
+`UPDATE mysql.user SET Password=PASSWORD(”NuovaPassword”) WHERE User=’root’;   
+FLUSH PRIVILEGES;   
 `
 
 Ovviamente “NuovaPassword” è la nuova password scelta per MySQL.  

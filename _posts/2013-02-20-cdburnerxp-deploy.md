@@ -22,7 +22,7 @@ tags:
   - deploy
   - remote
 ---
-`psexec \%1 -s -d "C:ProgrammiCDBurnerXPunins000.exe" /VERYSILENT<br />
-sleep 15<br />
-xcopy "\ServerSoftwareWindowsUtilityCDBurnerXPcdbxp_setup_4.5.0.3685.exe" "\%1C$Temp*.*" /r/i/c/h/k/e<br />
+`psexec \%1 -s -d "C:ProgrammiCDBurnerXPunins000.exe" /VERYSILENT   
+sleep 15   
+xcopy "\ServerSoftwareWindowsUtilityCDBurnerXPcdbxp_setup_4.5.0.3685.exe" "\%1C$Temp*.*" /r/i/c/h/k/e   
 psexec \%1 -s -d "C:Tempcdbxp_setup_4.5.0.3685.exe" /VERYSILENT`

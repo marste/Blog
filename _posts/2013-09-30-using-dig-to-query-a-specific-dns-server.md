@@ -30,21 +30,21 @@ tags:
 Esempio:  
 `dig marzorati.co NS @8.8.8.8`  
 Risultato:  
-`; <<>> DiG 9.3.2 <<>> marzorati.co NS @8.8.8.8<br />
-; (1 server found)<br />
-;; global options: printcmd<br />
-;; Got answer:<br />
+`; <<>> DiG 9.3.2 <<>> marzorati.co NS @8.8.8.8   
+; (1 server found)   
+;; global options: printcmd   
+;; Got answer:   
 ;; ->>HEADER< ;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0,`
 
-` ADDITIONAL: 0<br />
-;; QUESTION SECTION:<br />
+` ADDITIONAL: 0   
+;; QUESTION SECTION:   
 ;marzorati.co. IN NS`
 
-`;; ANSWER SECTION:<br />
-marzorati.co. 21600 IN NS ns01.000webhost.com.<br />
+`;; ANSWER SECTION:   
+marzorati.co. 21600 IN NS ns01.000webhost.com.   
 marzorati.co. 21600 IN NS ns02.000webhost.com.`
 
-`;; Query time: 125 msec<br />
-;; SERVER: 8.8.8.8#53(8.8.8.8)<br />
-;; WHEN: Thu Oct 17 15:25:44 2013<br />
+`;; Query time: 125 msec   
+;; SERVER: 8.8.8.8#53(8.8.8.8)   
+;; WHEN: Thu Oct 17 15:25:44 2013   
 ;; MSG SIZE rcvd: 82`

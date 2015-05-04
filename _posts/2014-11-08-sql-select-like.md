@@ -19,6 +19,6 @@ tags:
 ---
 Esempio:
 
-`SELECT *<br />
-FROM "database"."tabella"<br />
+`SELECT *   
+FROM "database"."tabella"   
 WHERE "nome_colonna" LIKE '%20141107%'`

@@ -27,7 +27,7 @@ tags:
 ---
 Aggiungi in: /etc/apt/sources.list
 
-`deb http://www.deb-multimedia.org sid main non-free<br />
+`deb http://www.deb-multimedia.org sid main non-free   
 deb-src http://www.deb-multimedia.org sid main`
 
 `sudo apt-get install deb-multimedia-keyring`

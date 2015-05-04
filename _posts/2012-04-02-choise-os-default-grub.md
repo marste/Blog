@@ -23,7 +23,7 @@ tags:
 Editare il file grub:  
 `sudo gedit /etc/default/grub`  
 Cambiare la riga sottostante scegliendo come da immagine:  
-`GRUB_DEFAULT=0 </span><span style="font-family:monospace;"><br />
+`GRUB_DEFAULT=0 </span><span style="font-family:monospace;">   
 GRUB_DEFAULT=5`  
 [<img class="aligncenter size-medium wp-image-1146" title="Grub_00" src="http://res.cloudinary.com/marzorati-co/image/upload/h_225,w_300/v1408108015/grub_001_n05iq5.png" alt="" />][1]
 

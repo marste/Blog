@@ -15,7 +15,7 @@ tags:
   - fonts
   - ubuntu
 ---
-`wget http://font.ubuntu.com/download/ubuntu-font-family-0.80.zip</span><br />
-<span style="font-family:monospace;">unzippalo</span><br />
-<span style="font-family:monospace;">sudo mv ubuntu-font-family-0.80/ /usr/share/fonts/ubuntu</span><br />
+`wget http://font.ubuntu.com/download/ubuntu-font-family-0.80.zip</span>   
+<span style="font-family:monospace;">unzippalo</span>   
+<span style="font-family:monospace;">sudo mv ubuntu-font-family-0.80/ /usr/share/fonts/ubuntu</span>   
 <span style="font-family:monospace;">sudo fc-cache -f -v`

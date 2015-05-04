@@ -20,7 +20,7 @@ tags:
 ---
 Aggiungi al file di configurazione di postfix **/etc/postfix/main.cf** le seguenti righe:
 
-`# RELAY MAPPINGS PER DOMAIN<br />
+`# RELAY MAPPINGS PER DOMAIN   
 transport_maps = hash:/etc/postfix/transport`
 
 Se vuoi ad esempio che tutte le email che hanno dominio gmail.com, vengano spedite con l&#8217;smtp **192.168.101.71**, edita il file **/etc/postfix/transport** aggiungendo la regola:

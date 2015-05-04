@@ -28,14 +28,14 @@ tags:
 Mandare una mail all&#8217;indirizzo: <check-auth@verifier.port25.com>  
 Riceverete una mail con il risultato, simile a questo:
 
-`<br />
+`   
 The Port25 Solutions, Inc. team</p>
-<p>==========================================================<br />
-Summary of Results<br />
-==========================================================<br />
-SPF check:          neutral<br />
-DomainKeys check:   neutral<br />
-DKIM check:         neutral<br />
-Sender-ID check:    neutral<br />
-SpamAssassin check: ham<br />
+<p>==========================================================   
+Summary of Results   
+==========================================================   
+SPF check:          neutral   
+DomainKeys check:   neutral   
+DKIM check:         neutral   
+Sender-ID check:    neutral   
+SpamAssassin check: ham   
 `

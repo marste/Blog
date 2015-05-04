@@ -24,9 +24,9 @@ tags:
   - player
   - remote
 ---
-`xcopy "\ServerSoftwareWindowsUtilityFlash Playerinstall_flash_player_11_active_x.exe" "\%1C$Temp" /r/i/c/h/k/e<br />
-sleep 3<br />
-pskill iexplore.exe \%1<br />
+`xcopy "\ServerSoftwareWindowsUtilityFlash Playerinstall_flash_player_11_active_x.exe" "\%1C$Temp" /r/i/c/h/k/e   
+sleep 3   
+pskill iexplore.exe \%1   
 psexec.exe \%1 -s "C:Tempinstall_flash_player_11_active_x.exe" /install`
 
 <a href="http://www.adobe.com/products/flashplayer/distribution3.html" target="_blank">http://www.adobe.com/products/flashplayer/distribution3.html</a>

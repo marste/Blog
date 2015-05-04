@@ -35,12 +35,12 @@ tags:
 `echo o > /proc/sysrq-trigger`
 
 Per riavviare in sicurezza:  
-`<br />
-Alt+Sysrq+R<br />
-Alt+Sysrq+E<br />
-Alt+Sysrq+I<br />
-Alt+Sysrq+S<br />
-Alt+Sysrq+U<br />
-Alt+Sysrq+B<br />
+`   
+Alt+Sysrq+R   
+Alt+Sysrq+E   
+Alt+Sysrq+I   
+Alt+Sysrq+S   
+Alt+Sysrq+U   
+Alt+Sysrq+B   
 `  
 Ricordati: REISUB

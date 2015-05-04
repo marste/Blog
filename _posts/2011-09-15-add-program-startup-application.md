@@ -21,5 +21,5 @@ tags:
   - startup
 ---
 Prendiamo l&#8217;esempio di voler aggiungere Empathy nella lista delle &#8220;Startup Applications&#8221;  
-`sudo cp /usr/share/applications/empathy.desktop /etc/xdg/autostart</span><br />
+`sudo cp /usr/share/applications/empathy.desktop /etc/xdg/autostart</span>   
 <span style="font-family:monospace;">sudo chmod a+r /etc/xdg/autostart/empathy.desktop`

@@ -28,7 +28,7 @@ tags:
 Utilizzando Chrome, premere F12 e visualizzare il video, esempio:
 
 <p style="text-align: center;">
-  <a href="http://ondemand.mtv.it/serie-tv/mario-una-serie-di-maccio-capatonda/s01/mario-una-serie-di-maccio-capatonda-s01e01" target="_blank">http://ondemand.mtv.it/serie-tv/mario-una-serie-di-maccio-capatonda/s01/mario-una-serie-di-maccio-capatonda-s01e01</a><br /> <a href="http://res.cloudinary.com/marzorati-co/image/upload/v1408107884/chrome1_h76amk.png"><img class="alignnone size-full wp-image-2442" alt="chrome" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107884/chrome1_h76amk.png" /></a>
+  <a href="http://ondemand.mtv.it/serie-tv/mario-una-serie-di-maccio-capatonda/s01/mario-una-serie-di-maccio-capatonda-s01e01" target="_blank">http://ondemand.mtv.it/serie-tv/mario-una-serie-di-maccio-capatonda/s01/mario-una-serie-di-maccio-capatonda-s01e01</a>    <a href="http://res.cloudinary.com/marzorati-co/image/upload/v1408107884/chrome1_h76amk.png"><img class="alignnone size-full wp-image-2442" alt="chrome" src="http://res.cloudinary.com/marzorati-co/image/upload/v1408107884/chrome1_h76amk.png" /></a>
 </p>
 
 Guarda la sezione &#8220;**Network**&#8220;, come si vede nell&#8217;immagine sopra e trova il file  

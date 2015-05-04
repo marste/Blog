@@ -18,21 +18,21 @@ dsq_thread_id:
 categories:
   - Linux
 ---
-`<br />
-#!/bin/sh<br />
-USERNAME="tmp"<br />
-PASSWORD="tmp"<br />
+`   
+#!/bin/sh   
+USERNAME="tmp"   
+PASSWORD="tmp"   
 SERVER="192.168.101.8"</p>
-<p># local directory to pickup *.tar.gz file<br />
+<p># local directory to pickup *.tar.gz file   
 LOCALDIR="/var/backups/snapshots"</p>
-<p># remote server directory to upload backup<br />
+<p># remote server directory to upload backup   
 BACKUPDIR="/prova"</p>
-<p># login to remote server<br />
-ftp -n -i $SERVER <<EOF<br />
-user $USERNAME $PASSWORD<br />
-cd $BACKUPDIR<br />
-lcd $LOCALDIR<br />
-mput *.tar.gz<br />
-quit<br />
-EOF<br />
+<p># login to remote server   
+ftp -n -i $SERVER <<EOF   
+user $USERNAME $PASSWORD   
+cd $BACKUPDIR   
+lcd $LOCALDIR   
+mput *.tar.gz   
+quit   
+EOF   
 `

@@ -22,6 +22,6 @@ tags:
 ---
 Esempio:
 
-`SELECT TOP 100 *<br />
-FROM "database"."tabella"."tabella"<br />
+`SELECT TOP 100 *   
+FROM "database"."tabella"."tabella"   
 ORDER BY colonnachevuoi DESC`

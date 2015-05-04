@@ -24,7 +24,7 @@ Modificare il file:
 
 e aggiungere alla seguente riga, gli indirizzi email delle persone che dovranno leggere la posta inviata all&#8217;utente root
 
-`# Person who should get root's mail<br />
+`# Person who should get root's mail   
 root:		support@email.com, user@marzorati.co`
 
 Poi digitare il comando seguente per aggiornare il db:  

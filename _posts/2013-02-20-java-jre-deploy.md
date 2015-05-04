@@ -37,6 +37,6 @@ qui troverai la directory contenente il file .msi
 
 Qui di seguito lo script per l&#8217;installazione da remoto:
 
-`xcopy "\\Server\Java\JavaJRE\jre1.7.0_45\*" "\\%1\C$\Temp\jre1.7.0_45\*.*" /r/i/c/h/k/e<br />
-sleep 3<br />
+`xcopy "\\Server\Java\JavaJRE\jre1.7.0_45\*" "\\%1\C$\Temp\jre1.7.0_45\*.*" /r/i/c/h/k/e   
+sleep 3   
 psexec \\%1 -s -d msiexec /i  "C:\Temp\jre1.7.0_45\jre1.7.0_45.msi" /qn /norestart`

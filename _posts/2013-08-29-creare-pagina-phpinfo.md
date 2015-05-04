@@ -26,7 +26,7 @@ tags:
   - php
   - phpinfo
 ---
-`<?php<br />
-// Show all information, defaults to INFO_ALL<br />
-phpinfo();<br />
+`<?php   
+// Show all information, defaults to INFO_ALL   
+phpinfo();   
 ?>`

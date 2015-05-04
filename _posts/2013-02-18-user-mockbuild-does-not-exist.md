@@ -19,7 +19,7 @@ categories:
   - Linux
 ---
 Problema:  
-`warning: user mockbuild does not exist - using root<br />
+`warning: user mockbuild does not exist - using root   
 warning: group mockbuild does not exist - using root`
 
 Risoluzione:  

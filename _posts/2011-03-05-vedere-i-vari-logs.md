@@ -60,12 +60,12 @@ tags:
 
 => **/var/log/apport.log** : Application crash report / log file
 
-<span style="font-weight:bold;"><br /> </span>
+<span style="font-weight:bold;">    </span>
 
 <span style="font-size:130%;">Comandi da terminal</span>
 
-`tail -f /var/log/apport.log<br />
-more /var/log/xorg.0.log<br />
-cat /var/log/mysql.err<br />
-less /var/log/messages<br />
+`tail -f /var/log/apport.log   
+more /var/log/xorg.0.log   
+cat /var/log/mysql.err   
+less /var/log/messages   
 grep -i fail /var/log/boot`

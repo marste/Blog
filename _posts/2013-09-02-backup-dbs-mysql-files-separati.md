@@ -25,15 +25,15 @@ tags:
 ---
 `#!/bin/bash`
 
-``TIMESTAMP=$(date +"%F")<br />
-BACKUP_DIR="/home/backup/$TIMESTAMP"<br />
-MYSQL_USER="root"<br />
-MYSQL_PASSWORD="password"<br />
-MYSQL=/usr/bin/mysql<br />
-MYSQLDUMP=/usr/bin/mysqldump<br />
-mkdir -p $BACKUP_DIR<br />
-databases=`$MYSQL -u$MYSQL_USER -p$MYSQL_PASSWORD -e "SHOW DATABASES;" | grep -Ev "(Database|information_schema|mysql|performance_schema)"`<br />
-for db in $databases; do<br />
-echo $db<br />
-$MYSQLDUMP --force --opt --user=$MYSQL_USER -p$MYSQL_PASSWORD --databases $db | gzip > "$BACKUP_DIR/$db.gz"<br />
+``TIMESTAMP=$(date +"%F")   
+BACKUP_DIR="/home/backup/$TIMESTAMP"   
+MYSQL_USER="root"   
+MYSQL_PASSWORD="password"   
+MYSQL=/usr/bin/mysql   
+MYSQLDUMP=/usr/bin/mysqldump   
+mkdir -p $BACKUP_DIR   
+databases=`$MYSQL -u$MYSQL_USER -p$MYSQL_PASSWORD -e "SHOW DATABASES;" | grep -Ev "(Database|information_schema|mysql|performance_schema)"`   
+for db in $databases; do   
+echo $db   
+$MYSQLDUMP --force --opt --user=$MYSQL_USER -p$MYSQL_PASSWORD --databases $db | gzip > "$BACKUP_DIR/$db.gz"   
 done``

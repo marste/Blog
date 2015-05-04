@@ -21,5 +21,5 @@ categories:
 Scarica il file .msi da:  
 <a href="https://www.google.com/intl/en/chrome/business/browser/admin/" target="_blank">https://www.google.com/intl/en/chrome/business/browser/admin/</a>
 
-`xcopy "\Server\Software\Windows\Utility\Chrome\Google\ChromeStandaloneEnterprise.msi" "\%1C$Temp*.*" /r/i/c/h/k/e<br />
+`xcopy "\Server\Software\Windows\Utility\Chrome\Google\ChromeStandaloneEnterprise.msi" "\%1C$Temp*.*" /r/i/c/h/k/e   
 psexec \%1 -s -d msiexec /i  "C:\Temp\GoogleChromeStandaloneEnterprise.msi" /qn`

@@ -19,8 +19,8 @@ Esempio:
 `Registra_Radio_Titolo_Minuti.cmd http://sj128.hnux.com Jazz 60`  
 (registra da http://sj128.hnux.com che ha titolo &#8220;Jazz&#8221; per 60 minuti)
 
-`for /F "tokens=2-4 delims=/ " %%i in ('date /t') do set DATEFORMATTED=%%k%%i%%j<br />
-start "%2" /min "C:ProgrammiMPlayermplayer.exe" %1 -dumpstream<br />
-set /a SECONDS=%3 * 60<br />
-wait %SECONDS%<br />
+`for /F "tokens=2-4 delims=/ " %%i in ('date /t') do set DATEFORMATTED=%%k%%i%%j   
+start "%2" /min "C:ProgrammiMPlayermplayer.exe" %1 -dumpstream   
+set /a SECONDS=%3 * 60   
+wait %SECONDS%   
 close %2`

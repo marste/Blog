@@ -29,5 +29,5 @@ Download from:
 <a href="http://www.skype.com/go/getskype-msi" target="_blank">http://www.skype.com/go/getskype-msi</a>
 
 Script:  
-`xcopy "\\Server\Skype\SkypeSetup.msi" "\\%1C$\Temp*.*" /r/i/c/h/k/e<br />
+`xcopy "\\Server\Skype\SkypeSetup.msi" "\\%1C$\Temp*.*" /r/i/c/h/k/e   
 psexec \\%1 -s -d msiexec /i  "C:\Temp\SkypeSetup.msi" /qn /norestart`

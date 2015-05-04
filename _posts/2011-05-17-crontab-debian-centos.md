@@ -39,5 +39,5 @@ Per creare un nuovo task:
 `crontab -e`
 
 Esempio:  
-`# elimina le mail in coda con errore mailer-daemon ogni 2 minuti<br />
+`# elimina le mail in coda con errore mailer-daemon ogni 2 minuti   
 */2 * * * * /bin/pulisci.sh`

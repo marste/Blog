@@ -28,7 +28,7 @@ tags:
 
 Esempio:
 
-`#!/bin/bash<br />
+`#!/bin/bash   
 disper -S -r 1360x768`
 
 <http://maketecheasier.com/change-linux-displays-on-the-fly-with-disper/2010/12/22>

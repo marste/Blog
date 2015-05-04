@@ -23,5 +23,5 @@ categories:
 `C:Documents and SettingsUtenteImpostazioni localiTemp;._msige61`
 
 Script:  
-`xcopy "\ServerUtilityGoogleEarth*.*" "\%1C$TempGoogleEarth*.*" /r/i/c/h/k/e<br />
+`xcopy "\ServerUtilityGoogleEarth*.*" "\%1C$TempGoogleEarth*.*" /r/i/c/h/k/e   
 psexec \%1 -s -d msiexec /i  "C:TempGoogleEarthGoogle Earth.msi" /qn /norestart`

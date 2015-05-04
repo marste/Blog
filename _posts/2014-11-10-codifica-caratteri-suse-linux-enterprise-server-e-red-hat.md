@@ -33,9 +33,9 @@ Pertanto questi sono i passi da seguire:
 
 &#8211; editare il file `/etc/sysconfig/language` e modificare i seguenti parametri come segue:
 
-`RC_LANG="it_IT.ISO-8859-15"<br />
-RC_LC_ALL="it_IT.ISO-8859-15"<br />
-ROOT_USES_LANG="yes"<br />
+`RC_LANG="it_IT.ISO-8859-15"   
+RC_LC_ALL="it_IT.ISO-8859-15"   
+ROOT_USES_LANG="yes"   
 AUTO_DETECT_UTF8="no"`
 
 &#8211; se non esiste il file `/root/.bashrc`, copiare il file `/etc/skel/.bashrc` in /root/.bashrc  

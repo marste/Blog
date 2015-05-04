@@ -32,7 +32,7 @@ tags:
 (diventa root)  
 `sudo -s`  
 `apt-get -s remove linux-image-2.6.35-22-generic`  
-`apt-get remove  --purge linux-image-2.6.35-22-generic<br />
+`apt-get remove  --purge linux-image-2.6.35-22-generic   
 `
 
 Per il kernel 3.x:  

@@ -22,18 +22,18 @@ Eseguire il benchmark del sito http://yourwebsite.com, lanciando 10 connessioni 
 Questo simula 30 utenti simultanei, tutti richiedono pagine casuali da un elenco di URL (tratte dal file sitemap.txt ), con un ritardo di 5 secondi dopo ogni pagina (per simulare la lettura della pagina da parte dell’utente). Questo è stato impostato per essere eseguito per 10 minuti.  
 `siege -c 30 -i -t 10m -d 5 -f sitemap.txt`  
 E’ possibile impostare le opzioni nel file di configurazione /$HOME/.siegerc come ad esempio:  
-`/root/.siegercerbose = true<br />
-show-logfile = true<br />
-logging = true<br />
-protocol = HTTP/1.1<br />
-chunked = true<br />
-cache = false<br />
-connection = close<br />
-concurrent = 15<br />
-delay = 1<br />
-accept-encoding = gzip<br />
-spinner = true<br />
-internet = true<br />
+`/root/.siegercerbose = true   
+show-logfile = true   
+logging = true   
+protocol = HTTP/1.1   
+chunked = true   
+cache = false   
+connection = close   
+concurrent = 15   
+delay = 1   
+accept-encoding = gzip   
+spinner = true   
+internet = true   
 benchmark = true`
 
 <a href="http://linuxaria.com/article/put-your-site-under-siege?lang=it" target="_blank">Fonte</a>

@@ -27,8 +27,8 @@ ed editare il file &#8220;**root**&#8221;
 
 Esempio:
 
-`# elimina i files di cache di mysql ogni 8 ore<br />
+`# elimina i files di cache di mysql ogni 8 ore   
 00 */8 * * * find /mnt/cluster/var/www/html/cms-*/cache/mysql -type f -name "*.cache" -exec rm -f {} ;`
 
-`# elimina le directory con estensione .dir ogni 8 ore<br />
+`# elimina le directory con estensione .dir ogni 8 ore   
 00 */8 * * * find /mnt/cluster/var/www/html/cms-*/cache/mysql -type d -name "*.dir" -exec rm -rf {} ;`

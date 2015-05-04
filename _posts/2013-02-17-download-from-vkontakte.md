@@ -24,6 +24,6 @@ tags:
   - music
   - vkontakte
 ---
-`sudo add-apt-repository ppa:yuberion/pulsar</span><br />
-<span style="font-family:monospace;">sudo apt-get update</span><br />
+`sudo add-apt-repository ppa:yuberion/pulsar</span>   
+<span style="font-family:monospace;">sudo apt-get update</span>   
 <span style="font-family:monospace;">sudo apt-get install pulsar`

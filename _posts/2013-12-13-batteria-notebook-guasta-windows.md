@@ -24,8 +24,8 @@ Per avere un rapporto dettagliato sull&#8217;efficienza energetica (**Power Effi
 
 Ti verrà dato un resoconto simile:
 
-`Energy efficiency problems were found.<br />
-12 Errors<br />
-15 Warnings<br />
-17 Informational<br />
+`Energy efficiency problems were found.   
+12 Errors   
+15 Warnings   
+17 Informational   
 See C:\energy-report.html for more details.`

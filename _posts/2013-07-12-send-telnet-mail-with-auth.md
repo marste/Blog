@@ -30,7 +30,7 @@ Esempio:
 `auth login`  
 incollare la username in formato base64  
 `ZWRpc3BvcnRAdmgkZW8tbWFnYXppbmUuaXQ=`  
-(http://www.motobit.com/util/base64-decoder-encoder.asp)  
+[http://www.motobit.com/util/base64-decoder-encoder.asp](http://www.motobit.com/util/base64-decoder-encoder.asp)   
 incollare la password sempre in formato base64  
 `ZWRpc4BvcnQ=`  
 `mail from: `  

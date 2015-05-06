@@ -22,4 +22,4 @@ dsq_thread_id:
 categories:
   - Linux
 ---
-<span style="font-size:130%;">Istruzioni <a href="http://www.webupd8.org/2009/07/integrate-google-calendar-into-your.html">qua</a>    </span>
+Istruzioni <a href="http://www.webupd8.org/2009/07/integrate-google-calendar-into-your.html">qua</a>

@@ -25,15 +25,17 @@ tags:
   - kernel
   - rimuovere
 ---
-(vedi che kernel stai usando)  
-`uname -r `  
-(lista dei kernel nel grub)  
-`ls /boot/ | grep initrd `  
-(diventa root)  
-`sudo -s`  
-`apt-get -s remove linux-image-2.6.35-22-generic`  
-`apt-get remove  --purge linux-image-2.6.35-22-generic   
-`
+  - vedi che kernel stai usando   
+`uname -r`  
 
-Per il kernel 3.x:  
-``sudo apt-get remove $(dpkg -l|awk '/^ii  linux-image-/{print $2}'|sed 's/linux-image-//'|awk -v v=`uname -r` 'v>$0'|sed 's/-generic//'|awk '{printf("linux-headers-%snlinux-headers-%s-genericnlinux-image-%s-genericn",$0,$0,$0)}')``
+  - lista dei kernel nel grub  
+`ls /boot/ | grep initrd`   
+
+  - diventa root   
+`sudo -s`   
+`apt-get -s remove linux-image-2.6.35-22-generic`   
+`apt-get remove  --purge linux-image-2.6.35-22-generic`   
+
+Per il kernel 3.x:   
+
+	sudo apt-get remove $(dpkg -l|awk '/^ii  linux-image-/{print $2}'|sed 's/linux-image-//'|awk -v v=`uname -r` 'v>$0'|sed 's/-generic//'|awk '{printf("linux-headers-%snlinux-headers-%s-genericnlinux-image-%s-genericn",$0,$0,$0)}')

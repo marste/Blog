@@ -12,6 +12,6 @@ tagazine-media:
 categories:
   - Linux
 ---
-`Se esiste questo file: `cat /proc/acpi/info`   
+Se esiste questo file: `cat /proc/acpi/info`   
 
 Allora puoi spegnere l'lcd con questo comando: `xset dpms force off`

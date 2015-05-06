@@ -26,16 +26,16 @@ tags:
 ---
   - Copiamo la lista dei pacchetti installati sul nostro sistema:
 
-`mkdir ~/backup`  
-`dpkg --get-selections > ~/backup/lista_pacchetti`  
+	`mkdir ~/backup`  
+	`dpkg --get-selections > ~/backup/lista_pacchetti`  
 
   - Copiamo i repository del nostro sistema:   
 
-`cat /etc/apt/sources.list /etc/apt/sources.list.d/* > ~/backup/sources.list`   
+	`cat /etc/apt/sources.list /etc/apt/sources.list.d/* > ~/backup/sources.list`   
 
   - Copiamo la cartella backup (presente nella nostra home) da qualche parte (anche una chiavetta USB andrà benissimo) oppure, opzionalmente, copiamo tutta la nostra home directory (se abbiamo bisogno di copiare anche i nostri dati).
 
-##Restore   
+###Restore   
 
   - Installiamo il sistema operativo (chiaramente della stessa versione di quello sorgente) sul nostro pc di destinazione e, cosa fondamentale, colleghiamolo a internet.   
 
@@ -49,7 +49,7 @@ tags:
 
 A questo punto non ci resta che ripristinare tutti i pacchetti che avevamo installato sulla nostra macchina, utilizzando il file lista_pacchetti creato in precedenza. Anche questa è un’operazione pressochè immediata, in quanto abbiamo bisogno di un solo comando da terminale, cioè:   
 
-`dpkg --set-selections ~/backup/lista_pacchetti`   
-`sudo apt-get dselect-upgrade`   
+	`dpkg --set-selections ~/backup/lista_pacchetti`   
+	`sudo apt-get dselect-upgrade`   
 
 Aspettiamo il completamento dell’operazione ed avremo terminato! Ecco qui un bel sistema operativo clonato… con meno di un’ora di lavoro (di cui circa 40 minuti servono per installare il nuovo sistema operativo)

@@ -15,7 +15,7 @@ tags:
 ---
 Prima di iniziare l'installazione, un aggiornamento di sistema è consigliato:   
 
-`sudo apt-get update`
+`sudo apt-get update`   
 `sudo apt-get dist-upgrade`
 
 Installare OpenDKIM e le sue dipendenze:   
@@ -134,7 +134,7 @@ Copiare la chiave e aggiungere un record TXT alle voci DNS del dominio:
 
 Riavvia:   
 	
-`sudo service postfix restart`
+`sudo service postfix restart`   
 `sudo service opendkim restart`
 
 La configurazione può essere testato con l'invio di una e-mail vuota a <check-auth@verifier.port25.com> e nella risposta verrà ricevuto il risultato.

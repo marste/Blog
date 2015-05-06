@@ -138,3 +138,5 @@ Riavvia:
 `sudo service opendkim restart`
 
 La configurazione può essere testato con l'invio di una e-mail vuota a <check-auth@verifier.port25.com> e nella risposta verrà ricevuto il risultato.
+
+*[https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-dkim-with-postfix-on-debian-wheezy](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-dkim-with-postfix-on-debian-wheezy)*

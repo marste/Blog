@@ -1,10 +1,10 @@
 ---
 id: 78
-title: Vedere i vari logs
+title: Vedere i vari logs su Linux
 author: Stefano Marzorati
 layout: post
 guid: http://ubbunti.wordpress.com/2011/03/05/vedere-i-vari-logs
-permalink: /vedere-i-vari-logs/
+permalink: /vedere-i-vari-logs-linux/
 blogger_blog:
   - ubbunti.blogspot.com
   - ubbunti.blogspot.com
@@ -60,12 +60,10 @@ tags:
 
 => **/var/log/apport.log** : Application crash report / log file
 
-<span style="font-weight:bold;">    </span>
+###Comandi da terminal:   
 
-<span style="font-size:130%;">Comandi da terminal</span>
-
-`tail -f /var/log/apport.log   
-more /var/log/xorg.0.log   
-cat /var/log/mysql.err   
-less /var/log/messages   
-grep -i fail /var/log/boot`
+	tail -f /var/log/apport.log   
+	more /var/log/xorg.0.log   
+	cat /var/log/mysql.err   
+	less /var/log/messages   
+	grep -i fail /var/log/boot

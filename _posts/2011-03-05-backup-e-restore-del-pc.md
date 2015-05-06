@@ -43,9 +43,9 @@ tags:
 
   - Copiamo il nostro nuovo file sources.list (quello creato in precedenza) nel posto in cui deve essere sul nuovo sistema, creiamo un backup (non si sa mai) di quello vecchio e aggiorniamo la lista pacchetti, ossia:   
   
-	sudo mv /etc/apt/sources.list /etc/apt/sources.list.old
-	sudo cp ~/backup/sources.list /etc/apt/sources.list
-	sudo apt-get update</code>   
+	`sudo mv /etc/apt/sources.list /etc/apt/sources.list.old`   
+	`sudo cp ~/backup/sources.list /etc/apt/sources.list`   
+	`sudo apt-get update`   
 
 A questo punto non ci resta che ripristinare tutti i pacchetti che avevamo installato sulla nostra macchina, utilizzando il file lista_pacchetti creato in precedenza. Anche questa è un’operazione pressochè immediata, in quanto abbiamo bisogno di un solo comando da terminale, cioè:   
 

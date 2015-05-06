@@ -24,8 +24,7 @@ categories:
 tags:
   - ftp
 ---
-<span style="font-size:130%;">sftp user@nomepc    get fileremoto pathlocale</span>
+`sftp user@nomepc`   
+`get fileremoto pathlocale`   
+`put filelocale pathremoto`
 
-oppure
-
-put filelocale pathremoto

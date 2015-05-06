@@ -24,30 +24,30 @@ tags:
   - restore
   - ubuntu
 ---
-**Copiamo la lista dei pacchetti installati sul nostro sistema:**
+  - Copiamo la lista dei pacchetti installati sul nostro sistema:
 
 `mkdir ~/backup`  
 `dpkg --get-selections > ~/backup/lista_pacchetti`  
 
-**Copiamo i repository del nostro sistema**:   
+  - Copiamo i repository del nostro sistema:   
 
 `cat /etc/apt/sources.list /etc/apt/sources.list.d/* > ~/backup/sources.list`   
 
-**Copiamo la cartella backup **(presente nella nostra home) **da qualche parte **(anche **una chiavetta USB andrà benissimo**) oppure, opzionalmente, copiamo **tutta la nostra home directory **(se abbiamo bisogno di copiare anche i nostri dati).
+  - Copiamo la cartella backup (presente nella nostra home) da qualche parte (anche una chiavetta USB andrà benissimo) oppure, opzionalmente, copiamo tutta la nostra home directory (se abbiamo bisogno di copiare anche i nostri dati).
 
 ##Restore   
 
-**Installiamo il sistema operativo **(chiaramente della stessa versione di quello sorgente) **sul nostro pc di destinazione **e, cosa fondamentale, **colleghiamolo a internet**.   
+  - Installiamo il sistema operativo (chiaramente della stessa versione di quello sorgente) sul nostro pc di destinazione e, cosa fondamentale, colleghiamolo a internet.   
 
-**Copiamo **la cartella **backup**, che avevamo salvato prima, **dentro la nostra nuova home directory**; oppure, se avevamo deciso di copiare tutta la home,** copiamo **(ed eventualmente sovrascriviamo**) i files presenti nella home vecchia all’interno della nuova home.   
+  - Copiamo la cartella backup, che avevamo salvato prima, dentro la nostra nuova home directory; oppure, se avevamo deciso di copiare tutta la home, copiamo (ed eventualmente sovrascriviamo) i files presenti nella home vecchia all’interno della nuova home.   
 
-**Copiamo **il nostro nuovo file **sources.list **(quello creato in precedenza) **nel posto in cui deve essere sul nuovo sistema**, creiamo un backup (non si sa mai) di quello vecchio e aggiorniamo la lista pacchetti, ossia:   
+  - Copiamo il nostro nuovo file sources.list (quello creato in precedenza) nel posto in cui deve essere sul nuovo sistema, creiamo un backup (non si sa mai) di quello vecchio e aggiorniamo la lista pacchetti, ossia:   
   
 	sudo mv /etc/apt/sources.list /etc/apt/sources.list.old
 	sudo cp ~/backup/sources.list /etc/apt/sources.list
 	sudo apt-get update</code>   
 
-A questo punto **non ci resta che ripristinare **tutti i pacchetti che **avevamo installato sulla nostra macchina**, utilizzando il file lista_pacchetti creato in precedenza. Anche questa è **un’operazione pressochè immediata**, in quanto abbiamo bisogno di **un solo comando da terminale**, cioè:   
+A questo punto non ci resta che ripristinare tutti i pacchetti che avevamo installato sulla nostra macchina, utilizzando il file lista_pacchetti creato in precedenza. Anche questa è un’operazione pressochè immediata, in quanto abbiamo bisogno di un solo comando da terminale, cioè:   
 
 `dpkg --set-selections ~/backup/lista_pacchetti`   
 `sudo apt-get dselect-upgrade`   

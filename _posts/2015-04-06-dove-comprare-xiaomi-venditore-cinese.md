@@ -28,3 +28,8 @@ Ecco le prime immagini del mio nuovo smartphone!
 ![Xiaomi](https://farm9.staticflickr.com/8805/16434692594_166b6638e5_o.jpg)
 ![RedMI2](https://farm9.staticflickr.com/8717/16869339978_b407995df7_o.jpg)
 ![RedMI2](https://farm8.staticflickr.com/7652/17031145886_ed773c5372_o.jpg)
+
+UPDATE:   
+Attenzione alla ROM preinstallata da questi venditori.   
+Consiglio vivamente di installare da zero una nuova ROM internazionale.   
+Io ho fatto [così](http://marzorati.co/xiaomi-redmi2-installare-recovery-ultima-rom-miui/)

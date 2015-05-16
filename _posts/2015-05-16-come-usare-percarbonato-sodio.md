@@ -14,6 +14,8 @@ tags:
   - igienizzante
   - lavatrice
 ---
+[percarbonato-di-sodio](http://www.ideegreen.it/wp-content/uploads/2014/08/percarbonato-di-sodio.jpg)   
+
 **Caratteristiche generali**
 
 Il percarborato di sodio additivo smacchiante in polvere può essere utilizzato sia in lavatrice che come pretrattante su macchie difficili come frutta, erba, etc..   

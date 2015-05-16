@@ -14,7 +14,7 @@ tags:
   - igienizzante
   - lavatrice
 ---
-[percarbonato-di-sodio](http://www.ideegreen.it/wp-content/uploads/2014/08/percarbonato-di-sodio.jpg)   
+![percarbonato-di-sodio](http://www.ideegreen.it/wp-content/uploads/2014/08/percarbonato-di-sodio.jpg)   
 
 **Caratteristiche generali**
 

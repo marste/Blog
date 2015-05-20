@@ -19,7 +19,7 @@ tags:
   - ricezione
 ---
 Da -121 a -107 dBm = ricezione debole  
-Da -107 a -98 dBm = ricezione sufficente  
+Da -107 a -98 dBm = ricezione sufficiente  
 Da -98 a -87 dBm = ricezione buona  
 Da -87 a -76 dBm = ricezione ottima  
 Da -76 dBm in sù = ricezione perfetta

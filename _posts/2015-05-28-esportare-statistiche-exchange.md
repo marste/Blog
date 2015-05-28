@@ -24,35 +24,35 @@ Se avete bisogno di sapere la versione di Outlook in usodai vostri utenti, potet
 
 Se avete bisogno di avere altre informazioni, potete usare anche le seguenti opzioni:   
 
-`AdapterSpeed   
-ClientIPAddress   
-ClientMode   
-ClientName   
-ClientVersion   
-CodePage   
-CurrentOpenAttachments   
-CurrentOpenFolders   
-CurrentOpenMessages   
-FolderOperationCount   
-FullMailboxDirectoryName   
-FullUserDirectoryName   
-HostAddress   
-LastAccessTime   
-Latency   
-LocaleID   
-LogonTime   
-MACAddress   
-MessagingOperationCount   
-OtherOperationCount   
-ProgressOperationCount   
-RPCCallsSucceeded   
-StreamOperationCount   
-TableOperationCount   
-TotalOperationCount   
-TransferOperationCount   
-UserName   
-Windows2000Account   
-ServerName   
-StorageGroupName   
-DatabaseName   
-Identity`
+	AdapterSpeed   
+	ClientIPAddress   
+	ClientMode   
+	ClientName   
+	ClientVersion   
+	CodePage   
+	CurrentOpenAttachments   
+	CurrentOpenFolders   
+	CurrentOpenMessages   
+	FolderOperationCount   
+	FullMailboxDirectoryName   
+	FullUserDirectoryName   
+	HostAddress   
+	LastAccessTime   
+	Latency   
+	LocaleID   
+	LogonTime   
+	MACAddress   
+	MessagingOperationCount   
+	OtherOperationCount   
+	ProgressOperationCount   
+	RPCCallsSucceeded   
+	StreamOperationCount   
+	TableOperationCount   
+	TotalOperationCount   
+	TransferOperationCount   
+	UserName   
+	Windows2000Account   
+	ServerName   
+	StorageGroupName   
+	DatabaseName   
+	Identity

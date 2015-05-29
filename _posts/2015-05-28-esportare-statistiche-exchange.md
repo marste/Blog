@@ -5,7 +5,7 @@ author: Stefano Marzorati
 layout: post
 permalink: /get-logonstatistics-esportare-statistiche-exchange-shell/
 categories:
-  - Casa
+  - Software
 tags:
   - get-logonstatistics
   - esportare

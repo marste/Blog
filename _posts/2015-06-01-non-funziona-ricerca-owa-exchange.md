@@ -35,7 +35,7 @@ Per abilitare la ricerca:
 
 	Set-MailboxDatabase <name> -indexenabled:$true
 
-Per resettare l'indice su un database:   
+Per resettare l'indice su un database (il file ResetSearchIndex.ps1 si trova in `C:\Program Files\Microsoft\Exchange Server\V14\Scripts`):   
 
 	ResetSearchIndex.ps1 "Mailbox Database"   
 

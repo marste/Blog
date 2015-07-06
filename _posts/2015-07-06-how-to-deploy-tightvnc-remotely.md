@@ -1,5 +1,5 @@
 ---
-title: How to deploy Tightvnc remotely
+title: How to deploy TightVNC remotely
 date: 2015-07-06 10:15:00 -07:00
 author: Stefano Marzorati
 layout: post

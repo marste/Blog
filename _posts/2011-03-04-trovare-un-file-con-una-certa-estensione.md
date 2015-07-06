@@ -28,4 +28,4 @@ tags:
 ---
 Esempio:
 
-`find . -name "*.cache"`
+`find / . -name "*.cache"`

@@ -15,16 +15,15 @@ categories:
 `sudo nano /etc/network/interfaces`
 
 e dentro modificare come segue:  
-`auto lo   
-iface lo inet loopback   
-`
+	auto lo   
+	iface lo inet loopback   
 
-`auto eth0   
-iface eth0 inet static   
-address 192.168.1.2 #mettere qui l’IP desiderato   
-netmask 255.255.255.0 #la netmask della rete   
-gateway 192.168.1.1 #il gateway della rete   
-`
+
+	auto eth0   
+	iface eth0 inet static   
+	address 192.168.1.2 #mettere qui l’IP desiderato   
+	netmask 255.255.255.0 #la netmask della rete   
+	gateway 192.168.1.1 #il gateway della rete   
 
 poi
 
@@ -32,9 +31,9 @@ poi
 
 e dentro modificare come segue:
 
-`nameserver 212.216.112.112 #dns primario della rete   
-nameserver 212.216.172.62 #dns secondario della rete   
-`
+	nameserver 212.216.112.112 #dns primario della rete   
+	nameserver 212.216.172.62 #dns secondario della rete   
+
 
 Riavviare la rete:  
 `sudo ifdown eth0 && sudo ifup eth0`

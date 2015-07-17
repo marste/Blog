@@ -34,5 +34,5 @@ tags:
 	$Reboot=Read-host -Prompt "Do you want to restart the computer? (Y / N)"
 	If(($Reboot-eq"Y")-or($Reboot-eq"y"))
 	{
-	restart-computer -computername $TargetComp
+	restart-computer -computername $TargetComp -Force
 	}

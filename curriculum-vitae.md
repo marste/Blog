@@ -7,7 +7,8 @@ permalink: /curriculum-vitae/
 
 **ICT System Administrator – Tempo indeterminato**
 
-*Edisport Editoriale S.p.A. - Pero (MI)*
+*Edisport Editoriale S.p.A. - Pero (MI)*   
+![motociclismo](http://marzorati.co/images/motociclismo.png) ![automobilismo](http://marzorati.co/images/automobilismo.png) ![runnersworld](http://marzorati.co/images/runners.png) 
 
 **Principali competenze ed attività tecniche**
 
@@ -64,7 +65,8 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**
 
-*IRPE S.p.A. - sede di Milano*
+*IRPE S.p.A. - sede di Milano*   
+![irpe](http://marzorati.co/images/irpe.jpg) ![carrefour](http://marzorati.co/images/carrefour.png)  
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di n° 9 servers Lotus Domino in cluster con funzione di “mail-server” e “application-server” per un bacino di 5000 utenze, presso: Carrefour Italia S.p.A..
 * Collaborazione costante con fornitori software e con i servizi interni di Carrefour S.p.A. (personale italiano ed estero).
@@ -78,7 +80,8 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**
 
-*WIIT S.p.A. - Milano (MI)*
+*WIIT S.p.A. - Milano (MI)*   
+![wiit](http://marzorati.co/images/wiit.jpg)   
 
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 

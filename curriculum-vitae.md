@@ -78,9 +78,7 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**   
 ![wiit](http://marzorati.co/images/wiit.jpg)   
-
 *WIIT S.p.A. - Milano (MI)*   
-
 
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 
@@ -91,7 +89,6 @@ ___
 **IT Consultant – Tempo indeterminato**
 ![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
-
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.

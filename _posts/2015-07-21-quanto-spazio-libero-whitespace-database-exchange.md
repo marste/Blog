@@ -1,5 +1,5 @@
 ---
-title: Quanto spazio libero (whitespace) c'è su ogni mio database exchange?
+title: Quanto spazio libero (whitespace) c'è su ogni mio database Exchange?
 date: 2015-07-21 10:45:00 -07:00
 author: Stefano Marzorati
 layout: post

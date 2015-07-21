@@ -1,6 +1,6 @@
 ---
 title: Esporta lista delle dimensioni delle cassette postali in Exchange 2007/2010
-date: 2015-07-21 10:53:00 -07:00
+date: 2015-07-21 10:21:00 -07:00
 author: Stefano Marzorati
 layout: post
 permalink: /esporta-lista-dimensioni-cassette-postali-exchange-2007-2010/

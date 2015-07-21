@@ -86,7 +86,7 @@ ___
 
 [04/2000 – 02/2004]
 
-**IT Consultant – Tempo indeterminato**
+**IT Consultant – Tempo indeterminato**   
 ![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
 

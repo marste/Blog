@@ -88,8 +88,8 @@ ___
 
 **IT Consultant – Tempo indeterminato**
 
-*TC Sistema S.p.A. - Garbagnate Milanese*
-
+*TC Sistema S.p.A. - Garbagnate Milanese*   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
@@ -101,7 +101,8 @@ ___
 
 **Hardware Engineer – Tempo indeterminato**
 
-*TC Sistema S.p.A. - Garbagnate Milanese* ![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)
+*TC Sistema S.p.A. - Garbagnate Milanese*   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
 

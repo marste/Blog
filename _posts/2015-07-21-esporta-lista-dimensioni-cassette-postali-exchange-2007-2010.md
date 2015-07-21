@@ -1,5 +1,5 @@
 ---
-title: Tracciare email su Exchange da shell
+title: Esporta lista delle dimensioni delle cassette postali in Exchange 2007/2010
 date: 2015-07-21 10:53:00 -07:00
 author: Stefano Marzorati
 layout: post

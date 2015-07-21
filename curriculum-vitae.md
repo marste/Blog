@@ -65,8 +65,8 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**
 
-*IRPE S.p.A. - sede di Milano*   
-![irpe](http://marzorati.co/images/irpe.jpg) ![carrefour](http://marzorati.co/images/carrefour.png)  
+![irpe](http://marzorati.co/images/irpe.jpg) ![carrefour](http://marzorati.co/images/carrefour.png)  *IRPE S.p.A. - sede di Milano*   
+
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di n° 9 servers Lotus Domino in cluster con funzione di “mail-server” e “application-server” per un bacino di 5000 utenze, presso: Carrefour Italia S.p.A..
 * Collaborazione costante con fornitori software e con i servizi interni di Carrefour S.p.A. (personale italiano ed estero).
@@ -80,8 +80,8 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**
 
-*WIIT S.p.A. - Milano (MI)*   
-![wiit](http://marzorati.co/images/wiit.jpg)   
+![wiit](http://marzorati.co/images/wiit.jpg)  *WIIT S.p.A. - Milano (MI)*   
+
 
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 
@@ -91,8 +91,8 @@ ___
 
 **IT Consultant – Tempo indeterminato**
 
-*TC Sistema S.p.A. - Garbagnate Milanese*   
-![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)  *TC Sistema S.p.A. - Garbagnate Milanese*   
+
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
@@ -104,8 +104,8 @@ ___
 
 **Hardware Engineer – Tempo indeterminato**
 
-*TC Sistema S.p.A. - Garbagnate Milanese*   
-![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)  *TC Sistema S.p.A. - Garbagnate Milanese*   
+
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
 

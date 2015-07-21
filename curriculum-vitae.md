@@ -101,7 +101,7 @@ ___
 
 **Hardware Engineer – Tempo indeterminato**
 
-*TC Sistema S.p.A. - Garbagnate Milanese*
+*TC Sistema S.p.A. - Garbagnate Milanese* ![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
 

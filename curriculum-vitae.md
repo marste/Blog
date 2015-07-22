@@ -6,7 +6,8 @@ permalink: /curriculum-vitae/
 [01/2007 – Attuale]
 
 **ICT System Administrator – Tempo indeterminato**   
-*Edisport Editoriale S.p.A. - Pero (MI)*   
+*[Edisport Editoriale S.p.A.](http://www.edisport.it/) - Pero (MI)*   
+(Casa Editrice nata nel 1914 con la fondazione della rivista "Motociclismo")
 
 **Principali competenze ed attività tecniche**
 

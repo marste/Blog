@@ -6,8 +6,8 @@ permalink: /curriculum-vitae/
 [01/2007 – Attuale]
 
 **ICT System Administrator – Tempo indeterminato**   
-![motociclismo](http://marzorati.co/images/motociclismo.png) ![automobilismo](http://marzorati.co/images/automobilismo.png) ![runnersworld](http://marzorati.co/images/runners.png)   
 *Edisport Editoriale S.p.A. - Pero (MI)*   
+![edisport](http://marzorati.co/images/edisport.jpg)   
 
 **Principali competenze ed attività tecniche**
 
@@ -63,8 +63,8 @@ ___
 [12/2004 – 01/2007]
 
 **IT Senior Consultant – Tempo indeterminato**   
-![irpe](http://marzorati.co/images/irpe.jpg) ![carrefour](http://marzorati.co/images/carrefour.png)   
 *IRPE S.p.A. - sede di Milano*   
+![irpe](http://marzorati.co/images/irpe.jpg)   
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di n° 9 servers Lotus Domino in cluster con funzione di “mail-server” e “application-server” per un bacino di 5000 utenze, presso: Carrefour Italia S.p.A..
 * Collaborazione costante con fornitori software e con i servizi interni di Carrefour S.p.A. (personale italiano ed estero).
@@ -77,8 +77,8 @@ ___
 [02/2004 – 12/2004]
 
 **IT Senior Consultant – Tempo indeterminato**   
-![wiit](http://marzorati.co/images/wiit.jpg)   
 *WIIT S.p.A. - Milano (MI)*   
+![wiit](http://marzorati.co/images/wiit.png)   
 
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 
@@ -87,8 +87,8 @@ ___
 [04/2000 – 02/2004]
 
 **IT Consultant – Tempo indeterminato**   
-![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
@@ -99,8 +99,8 @@ ___
 [09/1997 – 04/2000]
 
 **Hardware Engineer – Tempo indeterminato**   
-![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
+![tc_sistema](http://marzorati.co/images/tc_sistema.jpg)   
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
 

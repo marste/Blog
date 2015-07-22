@@ -64,6 +64,7 @@ ___
 
 **IT Senior Consultant – Tempo indeterminato**   
 *IRPE S.p.A. - sede di Milano*   
+(Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza)
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di n° 9 servers Lotus Domino in cluster con funzione di “mail-server” e “application-server” per un bacino di 5000 utenze, presso: Carrefour Italia S.p.A..
 * Collaborazione costante con fornitori software e con i servizi interni di Carrefour S.p.A. (personale italiano ed estero).
@@ -76,8 +77,8 @@ ___
 [02/2004 – 12/2004]
 
 **IT Senior Consultant – Tempo indeterminato**   
-*WIIT S.p.A. - Milano (MI)*   
-
+*[WIIT S.p.A.](http://www.wiit.it/) - Milano (MI)*   
+(Azienda ICT per la fornitura di servizi di outsourcing)
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 
 ___
@@ -86,6 +87,7 @@ ___
 
 **IT Consultant – Tempo indeterminato**   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
+(Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza)   
 
 * Sistemista di rete specializzato nell’installazione ed amministrazione di server Lotus Domino.
 * Docente di corsi Lotus Domino Administrator.
@@ -97,6 +99,7 @@ ___
 
 **Hardware Engineer – Tempo indeterminato**   
 *TC Sistema S.p.A. - Garbagnate Milanese*   
+(Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza)   
 
 * Tecnico Hardware specializzato in installazione, riparazione e manutenzione di PC, stampanti locali o di rete, servers (tecnico interno esterno presso clienti)
 

@@ -6,7 +6,7 @@ permalink: /curriculum-vitae/
 [01/2007 – Attuale]
 
 **ICT System Administrator – Tempo indeterminato**   
-*[Edisport Editoriale S.p.A.](http://www.edisport.it/) - Pero (MI)*   
+*<a href="http://www.edisport.it/" target="_blank">Edisport Editoriale S.p.A.</a> - Pero (MI)*   
 (Casa Editrice nata nel 1914 con la fondazione della rivista "Motociclismo")
 
 **Principali competenze ed attività tecniche**
@@ -77,7 +77,7 @@ ___
 [02/2004 – 12/2004]
 
 **IT Senior Consultant – Tempo indeterminato**   
-*[WIIT S.p.A.](http://www.wiit.it/) - Milano (MI)*   
+*<a href="http://www.wiit.it/" target="_blank">WIIT S.p.A.</a> - Milano (MI)*   
 (Azienda ICT per la fornitura di servizi di outsourcing)
 * Sistemista di rete specializzato nell’installazione, amministrazione e presidio di servers Lotus Domino presso: Mediaset, Medusa Film e Alcantara con reperibilità 24h.
 

@@ -1,6 +1,6 @@
 ---
 title: Come posso sapere quale webserver un sito web sta utilizzando?
-date: 2015-07-23 23:45:00 -07:00
+date: 2015-07-23 23:00:00 -07:00
 author: Stefano Marzorati
 layout: post
 permalink: /can-detect-what-webserver-website-using/

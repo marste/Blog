@@ -15,4 +15,4 @@ dsq_thread_id:
 categories:
   - Linux
 ---
-``tar cvzf /var/backups/backup_`date +%d-%m-%Y`.tar.gz /var/backups/snapshots``
+	tar cvzf /tmp/backup_`date +%d-%m-%Y`.tar.gz /var/www/html/site

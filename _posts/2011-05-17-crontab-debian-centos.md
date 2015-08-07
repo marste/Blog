@@ -20,24 +20,26 @@ tags:
   - crontab
   - debian
 ---
-Avviare servizio cron su Debian:  
-`/etc/init.d/cron start` oppure `service cron start`
+Avviare servizio cron su Debian:   
+	/etc/init.d/cron start
+oppure   
+	service cron start
 
-Avviare servizio cron su CentOS:  
-`/etc/init.d/crond start`
+Avviare servizio cron su CentOS:   
+	/etc/init.d/crond start
 
-Avviare cron al boot su CentOS:  
-`chkconfig crond on`
+Avviare cron al boot su CentOS:   
+	chkconfig crond on
 
-Avviare cron al boot su Debian:  
-`update-rc.d cron defaults`
+Avviare cron al boot su Debian:   
+	update-rc.d cron defaults
 
-Oppure installi rcconf (gui da terminal):  
-`apt-get install rcconf`
+Oppure installi rcconf (gui da terminal):   
+	apt-get install rcconf
 
-Per creare un nuovo task:  
-`crontab -e`
+Per creare un nuovo task:   
+crontab -e
 
 Esempio:  
-`# elimina le mail in coda con errore mailer-daemon ogni 2 minuti   
-*/2 * * * * /bin/pulisci.sh`
+# elimina le mail in coda con errore mailer-daemon ogni 2 minuti   
+	*/2 * * * * /bin/pulisci.sh

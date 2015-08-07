@@ -52,4 +52,3 @@ Add below line to the end and save it:
 Mount share:   	
 
 	mount -a
-	

@@ -30,7 +30,7 @@ layout: default
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-{% assign random = site.related_posts %}
+{% assign random = site.collections | modulo: site.posts.size %}
 <div>Random post: <a href="{{ site.posts[random].url }}">{{ site.posts[random].title }}</a></div>
 
 {% if site.show_post_footers %}

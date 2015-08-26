@@ -1,5 +1,5 @@
 ---
-title: How to mount CIFS share permanently on Ubuntu
+title: Masha e Orso, musiche e canzoni in italiano
 date: 2015-08-26 23:00:00 -07:00
 author: Stefano Marzorati
 layout: post

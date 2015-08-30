@@ -8,32 +8,16 @@
         <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}&amp;t={{page.title}}" class="fa fa-facebook" target="_blank"></a>
 		&nbsp;&nbsp;  
         <a href="javascript:window.print()" class="fa fa-print"></a>
-<p>
-</p>		
-		
-	{% assign n_posts = 0 %}
-{% for post in site.posts %}
-    {%if post.id == page.id %}{% continue %}{% endif %}
-    {% for this_tag in page.tags %}
-        {% if post.tags contains this_tag%}
-            {% if n_posts == 0 %}{{include.heading}}<ul>{% endif %}
-            <li>{% include post_node.liquid post=post element="h3" %}</li>
-            {% assign n_posts = n_posts | plus: 1 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
-    {%if n_posts > 5 %}{% break %}{% endif %}
-{% endfor %}
-{% if n_posts > 0 %}</ul>{% endif %}	
-		
-		
-  <img src="/images/me.jpeg" alt="Stefano Marzorati" class="avatar" />
-  <p>
-    <a href="http://marzorati.co">Stefano Marzorati</a> - Addicted to new technology and lead away by innovation.
-	<br>
-	<br>
-	<a href="#top" class="site-nav right" data-scroll-to-target>&#8593; Back to top</a>
-  </p>
+	<p>
+	</p>		
+			
+		<img src="/images/me.jpeg" alt="Stefano Marzorati" class="avatar" />
+		<p>
+		<a href="http://marzorati.co">Stefano Marzorati</a> - Addicted to new technology and lead away by innovation.
+		<br>
+		<br>
+		<a href="#top" class="site-nav right" data-scroll-to-target>&#8593; Back to top</a>
+	</p>
    
   
 </div>

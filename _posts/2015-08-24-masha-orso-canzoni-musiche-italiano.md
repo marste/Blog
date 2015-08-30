@@ -15,6 +15,7 @@ tags:
   - italiano
   - cartone
   - animato
+  - mp3
 ---
 Se siete in cerca di tutte le canzoni di **Masha e Orso**, eccole estratte dai video per i vostri bimbi:   
 

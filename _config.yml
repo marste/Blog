@@ -1,10 +1,11 @@
 # Site settings
 title:       Stefano Marzorati
-#email:       stefano@marzorati.co
+email:       stefano@marzorati.co
 author:      Stefano Marzorati
 description: "Addicted to new technology and lead away by innovation."
 baseurl:     ""
 url:         "http://marzorati.co"
+date_format: "%-d %b, %Y"
 
 # Google analytics
 google_analytics: UA-38247823-1

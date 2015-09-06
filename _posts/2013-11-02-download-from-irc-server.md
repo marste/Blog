@@ -14,7 +14,7 @@ tags:
   - musica
   - software
 ---
-![irc-irssi](http://www.irssi.org/images/irssi_puttycyg_100.png)   
+![irc-irssi](https://smuxi.im/screenshots/smuxi-0.9-linux-stfl-main-window.png)   
 
 **Server:** <a href="irc://irc.rootworld.net" target="_blank">irc.rootworld.net</a>  
 **Channel:** atollo-friends  

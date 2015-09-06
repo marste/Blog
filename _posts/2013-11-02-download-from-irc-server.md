@@ -2,19 +2,11 @@
 id: 2492
 title: Download from IRC Server
 author: Stefano Marzorati
+date: 2015-09-06 23:00:00 -07:00
 layout: post
-guid: http://marzorati.co/?p=2492
 permalink: /download-from-irc-server/
-layout_key:
-  - 
-post_slider_check_key:
-  - 0
-dsq_thread_id:
-  - 1930483441
-dsq_needs_sync:
-  - 1
 categories:
-  - Varie
+  - Download
 tags:
   - download
   - film
@@ -29,14 +21,14 @@ tags:
 **List:** <a href="http://listaatollo.altervista.org/lista/" target="_blank">http://listaatollo.altervista.org/lista/</a>  
 **Velocità:** +650 KB/S   
 
-**Server:** <a href="irc://irc.OpenJoke.org" target="_blank">irc.OpenJoke.org</a>  
-**Channel:** 0dayz  
-**List:** <a href="http://listaspaziosat.dvrdns.org/index.php" target="_blank">http://listaspaziosat.dvrdns.org/index.php</a>  
+**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
+**Channel:** untouchables  
+**List:** <a href="http://untouchableslist.altervista.org/" target="_blank">http://untouchableslist.altervista.org/</a>  
 **Velocità:** +650 KB/S   
 
-**Server:** <a href="irc://irc.OpenJoke.org" target="_blank">irc.OpenJoke.org</a>  
-**Channel:** BrAnCoDiVx  
-**List:** <a href="http://www.brancolista.org/jOTw" target="_blank">http://www.brancolista.org/jOTw</a>  
+**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
+**Channel:** multisala  
+**List:** <a href="http://www.multisalachannel.com/" target="_blank">http://www.multisalachannel.com/</a>  
 **Velocità:** 600 KB/S   
 
 **Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  

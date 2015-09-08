@@ -1,5 +1,4 @@
 ---
-id: 2492
 title: Download from IRC Server
 author: Stefano Marzorati
 date: 2015-09-06 23:00:00 -07:00

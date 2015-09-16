@@ -1,5 +1,5 @@
 ---
-title: Linux: Prevent Desktop Icons from being Deleted
+title: Linux, prevent desktop icons from being deleted
 author: Stefano Marzorati
 date: 2015-09-16 14:50:00 -07:00
 layout: post

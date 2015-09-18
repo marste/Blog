@@ -17,8 +17,8 @@ tags:
 ---
 La configurazione è stata effettuata su questi modelli:   
 
-ProCurve Switch 2510G-48 (J9280A)
-ProCurve Switch 2610-48-PWR (J9089A)
+**ProCurve Switch 2510G-48 (J9280A)**   
+**ProCurve Switch 2610-48-PWR (J9089A)**   
 
 Da telnet digitate i seguenti comandi:   
 
@@ -33,8 +33,8 @@ Da telnet digitate i seguenti comandi:
 
 La configurazione è stata effettuata su questi modelli:   
 	
-ProCurve Switch 2520-8-PoE (J9137A)   
-HP Switch E2620-24-PPoEP (J9624A)
+**ProCurve Switch 2520-8-PoE (J9137A)**   
+**HP Switch E2620-24-PPoEP (J9624A)**   
 
 	config
 	timesync sntp

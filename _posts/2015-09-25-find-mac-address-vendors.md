@@ -14,5 +14,4 @@ tags:
 ---
 Se state cercando il produttore di una certa scheda di rete, io mi affido a questo sito:   
 	
-[http://www.macvendors.com/](http://www.macvendors.com/)
-<a href="http://www.google.com" target="_blank">Google</a>
+<a href="http://www.macvendors.com/" target="_blank">http://www.macvendors.com/</a>

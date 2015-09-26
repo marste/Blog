@@ -42,7 +42,7 @@ A questo punto, trovo della documentazione sul forum [http://en.miui.com](http:/
 
   - Ho scaricato da Google Play l'app "Flashify" per poter installare la recovery
   - Ho scaricato la [Philz Touch Recovery](https://javteam.wordpress.com/download/xiaomi-redmi-2)
-  - Ho tentato di installare questa [ROM](http://htcfanboys.com/download/acid/?action=list&folder=75939)
+  - Ho tentato di installare questa [ROM](https://www.androidfilehost.com/?fid=24052804347822070)
 
 L'installazione terminava con questo errore:   
 **This package is for HM2014813 device; this is a HM2014811**
@@ -55,7 +55,7 @@ Alla fine son riuscito a installare tutto seguendo questi passi:
 
   - Ho scaricato da Google Play l'app "Flashify" per poter installare la recovery
   - Ho scaricato questa [CWM Recovery](https://userscloud.com/rvnlozcfbp0m)
-  - Ho scaricato l'ultimissima ROM **MIUI 6** per questo modello dal sito [http://htcfanboys.com/download/acid/?action=list&folder=75939](http://htcfanboys.com/download/acid/?action=list&folder=75939)
+  - Ho scaricato l'ultimissima ROM **MIUI 6** per questo modello dal sito [~~http://htcfanboys.com/download/acid/?action=list&folder=75939~~](http://htcfanboys.com/download/acid/?action=list&folder=75939) oppure [https://www.androidfilehost.com/?fid=24052804347822070](https://www.androidfilehost.com/?fid=24052804347822070) [http://xiaomi.eu/community/threads/5-9-24.28459/](http://xiaomi.eu/community/threads/5-9-24.28459/)
   - Il telefono è partito con la nuova versione di MIUI 6
   - Sono rientrato in modalità recovery ufficiale MIUI dalle opzioni di System Update
   - Ho eseguito un wipe completo di cache e data

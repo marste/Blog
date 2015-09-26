@@ -14,7 +14,7 @@ tags:
   - conflitto
 ---
 Se monitorando la rete scoprite che c'è un device che ha come IP l'indirizzo 192.168.0.10, che magari va in conflitto con qualche altro PC o Server, il problema legato a dei PC Acer collegati alla vostra rete.   
-I PC Acer di default hanno abilitato da BIOS l'ASF (Alert Standard Format) che è una tecnologia di <del>gestione</del> client remoto a cui viene associato di default questo IP.   
+I PC Acer di default hanno abilitato da BIOS l'ASF (Alert Standard Format) che è una tecnologia di gestione client remoto a cui viene associato di default questo IP.   
 
 Per disabilitarlo, basta accedere al BIOS:
 

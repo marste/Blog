@@ -31,7 +31,7 @@ tags:
 9. Beginner
 10. Savedisk
 11. Seleziona il disco di origine (sdax)   
-____________________________________________
+_______________
 
 ***Per ripristino immagine:***   
 

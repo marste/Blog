@@ -3,7 +3,6 @@ title: Clonezilla salvare e ripristinare immagine su hard disk usb
 author: Stefano Marzorati
 layout: post
 permalink: /clonezilla-salvare-e-ripristinare-immagine-su-hard-disk-usb/
-  - 
 categories:
   - Linux
   - Windows
@@ -31,7 +30,7 @@ tags:
 8. lascia la / se vuoi salvare l'immagine nella root del disco usb
 9. Beginner
 10. Savedisk
-11. Seleziona il disco di origine (sdax)
+11. Seleziona il disco di origine (sdax)   
 ___
 
 ***Per ripristino immagine:***   

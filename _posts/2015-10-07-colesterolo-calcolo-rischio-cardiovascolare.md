@@ -14,7 +14,7 @@ tags:
   - HDL
   - LDL
 ---
-Se volete calcolare l'indice di rischio cardiovascolare, basta semplicemente fare una divisione matematica tra il colesterolo totale e il colesterolo HDL (buono)   
+Se volete calcolare l'indice di rischio cardiovascolare, basta semplicemente fare una divisione matematica tra il colesterolo totale e il colesterolo HDL (buono).   
 In base al risultato ottenuto, potrete capire il vostro rischio confrontando i valori riportati nella tabella sottostante:   
 
 <style type="text/css">

@@ -54,7 +54,7 @@ I began to have doubts about which model I really, but fortunately the model was
 In the end I managed to install all by following these steps:   
 
   - I downloaded from the Google Play app "Flashify" in order to install the recovery
-  - I downloaded this [CWM Recovery](http://marzorati.co/download/CWM_Recovery.zip/)
+  - I downloaded this [CWM Recovery](http://marzorati.co/download/CWM_Recovery.zip)
   - I downloaded the latest ROM **MIUI 7** for this model from the site [<del>http://htcfanboys.com/download/acid/?action=list&folder=75939</del>](http://htcfanboys.com/download/acid/?action=list&folder=75939) or [https://www.androidfilehost.com/?fid=24052804347822070](https://www.androidfilehost.com/?fid=24052804347822070) [http://xiaomi.eu/community/threads/5-9-24.28459/](http://xiaomi.eu/community/threads/5-9-24.28459/)
   - The phone started with the new version of MIUI 7
   - I'm back in Official MIUI recovery mode from the options of System Update

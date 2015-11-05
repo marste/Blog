@@ -1,9 +1,9 @@
 ---
-title: Scaricare video online gratis
+title: Download video online gratis
 date: 2015-04-28 15:29:00 -07:00
 author: Stefano Marzorati
 layout: post
-permalink: /scaricare-video-online-gratis/
+permalink: /download-video-online-gratis/
 categories:
   - Software
 tags:

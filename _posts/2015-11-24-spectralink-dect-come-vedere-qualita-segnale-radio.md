@@ -16,7 +16,7 @@ tags:
   - radio
 ---
 Per vedere la qualità del segnale radio ricevuto da un telefono potete semplicemente analizzarlo con un dect.   
-Digitate il codice <nowiki>*</nowiki>99989<nowiki>*</nowiki>, attendete qualche secondo e vedrete comparire sullo schermo delle informazioni.   
+Digitate il codice &#42;99989&#42;, attendete qualche secondo e vedrete comparire sullo schermo delle informazioni.   
 Guardate l'ultima riga, i primi due caratteri in esadecimale corrispondono all'antenna a cui si è collegati. (Ad esempio 0C = 12)   
 Poi ci sono due numeri che si riferiscono alla qualità della voce ricevuta dalla base station o dal ripetitore.   
 Livello ottimale è di 64 e non deve essere inferiore a 52.   

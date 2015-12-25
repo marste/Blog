@@ -28,7 +28,7 @@ tags:
 	border: 1px solid #ccc;
 }
 .tableizer-table th {
-	background-color: #104E8B; 
+	background-color: #8C1089; 
 	color: #FFF;
 	font-weight: bold;
 }
@@ -110,7 +110,7 @@ tags:
 	border: 1px solid #ccc;
 }
 .tableizer-table th {
-	background-color: #104E8B; 
+	background-color: #CD0202; 
 	color: #FFF;
 	font-weight: bold;
 }

@@ -19,4 +19,8 @@ tags:
 ---
 Ti basterà fare un copia/incolla delle celle di excel per avere il codice html.
 
-<a href="http://tableizer.journalistopia.com/tableizer.php" target="_blank">http://tableizer.journalistopia.com/tableizer.php</a>
+<a href="http://tableizer.journalistopia.com/tableizer.php" target="_blank">http://tableizer.journalistopia.com/tableizer.php</a>   
+
+oppure  
+ 
+<a href="http://www.tablesgenerator.com/html_tables" target="_blank">http://www.tablesgenerator.com/html_tables</a> 

@@ -28,7 +28,7 @@ tags:
 	border: 1px solid #ccc;
 }
 .tableizer-table th {
-	background-color: #8C1089; 
+	background-color: #104E8B; 
 	color: #FFF;
 	font-weight: bold;
 }
@@ -55,21 +55,6 @@ tags:
 
 **UOMO**   
 
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #104E8B; 
-	color: #FFF;
-	font-weight: bold;
-}
 </style><table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>cm</th><th>IT</th><th>UK</th><th>US</th></tr>
  <tr><td>25</td><td>39</td><td>5,5</td><td>6</td></tr>
@@ -99,21 +84,6 @@ tags:
 
 **BAMBINO**   
 
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #CD0202; 
-	color: #FFF;
-	font-weight: bold;
-}
 </style><table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>cm</th><th>IT</th><th>UK</th><th>US</th></tr>
  <tr><td>9,7</td><td>16</td><td>0,5</td><td>1</td></tr>

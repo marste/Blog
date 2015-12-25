@@ -21,6 +21,7 @@ tags:
 	table.tableizer-table {
 	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
+	text-align: center
 } 
 .tableizer-table td {
 	padding: 4px;

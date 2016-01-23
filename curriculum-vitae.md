@@ -54,6 +54,7 @@ permalink: /curriculum-vitae/
 * Delineare la strategia ICT di medio e lungo periodo
 * Gestione delle criticità
 * Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers
+
 ___
 
 [01/2007 – 05/2015]

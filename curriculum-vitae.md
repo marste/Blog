@@ -3,7 +3,60 @@ layout: page
 title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
-[01/2007 – Attuale]
+[05/2015 – Attuale]
+
+**ICT System Administrator – Tempo indeterminato**   
+
+*<b><a href="http://www.siitgroup.com/" target="_blank">S.I.I.T. S.r.l.</a></b> - Società nata nel 1951 per il confezionamento di farmaci per conto terzi, oggi partner ideale per le aziende che vogliono affidare in outsourcing lo sviluppo e la produzione di specialità medicinali, integratori alimentari.*   
+
+**Principali competenze ed attività tecniche**
+
+* Gestione di tutto l'apparato ICT
+* Gestione della sicurezza degli accessi interni ed esterni alle risorse ICT
+* Gestione della sicurezza degli accessi interni ed esterni dei vari plant industriali
+* Interfaccia sia con gli utenti interni che con consulenti esterni per quanto riguarda il monitoring dei sistemi e l'indirizzo di problematiche che potessero insorgere
+* Amministrazione delle utenze in linea con le politiche di accesso vigenti in azienda
+* Attività di ottimizzazione dei processi informatici aziendali
+* Analisi di nuove problematiche o nuovi progetti
+* Creazione e manutenzione di procedure ICT
+* Gestione e organizzazione dei database aziendali
+* Monitoraggio data recovery e prevenzione problematiche legate alla security IT
+* Coordinamento progetti
+* Monitoraggio giornaliero dei logs dei sistemi di produzione
+* Aggiornamento inventario degli assets gestiti
+
+**Installazione, configurazione e manutenzione di:**
+
+* MS Windows Client e Servers
+* Web Servers Linux (Centos – Debian - Ubuntu)
+* Firewall Sonicwall Dell
+* Sistemi di virtualizzazione: ESX, VmWare Server
+* Web servers (Linux, Apache, Mysql, PHP)
+* IBM AS/400
+* Microsoft Exchange
+* VPN
+* Server FTP
+* Appliance Symantec Antivirus-Antispam
+* Telefonia VOIP Selta
+* Telefonia DECT Spectralink
+* Data Logger a radiofrequenza
+* Lettori Barcode
+* Dos&Donts
+
+**Principali competenze ed attività trasversali:**
+
+* Coordinamento dell'attività sistemistiche e di networking
+* Attività di testing, improvement e reportistica sui progetti affrontati e sui risultati raggiunti
+* Progettazione e/o valutazione d'acquisto di hardware e software sulla base delle esigenze operative, delle dimensioni del progetto e del budget disponibile
+* Riduzione dell'incidenza dei costi di progetti IT e relativi alla telefonia
+* Superamento di piattaforme divenute obsolete con soluzioni in cloud
+* Interfaccia continua con ogni livello di utenza aziendale ed esposizione diretta alla Direzione
+* Delineare la strategia ICT di medio e lungo periodo
+* Gestione delle criticità
+* Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers
+___
+
+[01/2007 – 05/2015]
 
 **ICT System Administrator – Tempo indeterminato**   
 

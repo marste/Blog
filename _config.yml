@@ -32,15 +32,12 @@ paypal_url:
 flattr_button:
 
 # Build settings
-markdown:     kramdown
+markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     3
 sass:
   compressed: true
 gems:
-  - jekyll-paginate
   - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]

@@ -32,5 +32,5 @@ tags:
 
 **Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** puffolandia  
-**List:** <a href="http://puffolandia.oltreirc.net/" target="_blank">http://puffolandia.oltreirc.net/</a>  
+**List:** <a href="http://www.puffolista.wklm.it/" target="_blank">http://www.puffolista.wklm.it/</a>  
 **Velocità:** 250 KB/S   

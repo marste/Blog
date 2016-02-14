@@ -33,7 +33,8 @@ tags:
 	color: #FFF;
 	font-weight: bold;
 }
-</style><table class="tableizer-table">
+</style>
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>cm</th><th>IT</th><th>UK</th><th>US</th></tr>
  <tr><td>22,4</td><td>35</td><td>2,5</td><td>4</td></tr>
  <tr><td>22,7</td><td>35,5</td><td>3</td><td>4,5</td></tr>
@@ -56,7 +57,7 @@ tags:
 
 **UOMO**   
 
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>cm</th><th>IT</th><th>UK</th><th>US</th></tr>
  <tr><td>25</td><td>39</td><td>5,5</td><td>6</td></tr>
  <tr><td>25,4</td><td>39,5</td><td>6</td><td>6,5</td></tr>
@@ -85,7 +86,7 @@ tags:
 
 **BAMBINO**   
 
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>cm</th><th>IT</th><th>UK</th><th>US</th></tr>
  <tr><td>9,7</td><td>16</td><td>0,5</td><td>1</td></tr>
  <tr><td>10,4</td><td>17</td><td>1,5</td><td>2</td></tr>

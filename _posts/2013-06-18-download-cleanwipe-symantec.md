@@ -1,4 +1,4 @@
----
+---	
 title: Download CleanWipe Symantec
 author: Stefano Marzorati
 layout: post
@@ -15,5 +15,15 @@ To download the utility, open the following web page in a browser:
 Once you have downloaded the utility, please follow these instructions.
 
 1. Extract the file to a new folder in a convenient location, such as the Desktop, using the un-zip password provided above.  
-2. Browse to the new folder and execute the utility by double clicking ‘CleanWipe.exe’  
+2. Browse to the new folder and execute the utility by double clicking ***CleanWipe.exe***  
 3. Follow the on-screen instructions.
+
+You can remove:   
+
+* Symantec Endpoint Protection version 11.0 and newer
+* Symantec Network Access Control version 11.0 and newer
+* Symantec Antivirus 10 and newer
+* Symantec Client Security 3.0 and newer
+* Symantec Endpoint Protection Manager version 11.0 and newer
+* Symantec Protection Center (SEP Small Business Edition) 12.0 and newer
+* Windows LiveUpdate 2.0 and newer

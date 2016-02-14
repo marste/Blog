@@ -14,7 +14,7 @@ To download the utility, open the following web page in a browser:
 
 Once you have downloaded the utility, please follow these instructions.
 
-1. Extract the file to a new folder in a convenient location, such as the Desktop, using the un-zip password provided above.  
+1. Extract the file to a new folder in a convenient location.  
 2. Browse to the new folder and execute the utility by double clicking ***CleanWipe.exe***  
 3. Follow the on-screen instructions.
 

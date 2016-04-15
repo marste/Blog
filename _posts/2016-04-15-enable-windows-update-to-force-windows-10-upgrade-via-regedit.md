@@ -7,7 +7,7 @@ permalink: /enable-windows-update-to-force-windows-10-upgrade-via-regedit/
 categories:
   - Windows
 tags:
-  - Windows 10
+  - Windows10
   - upgrade
   - regedit
   - update

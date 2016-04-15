@@ -19,6 +19,7 @@ Apri regedit e vai in questo percorso:
 
 Troverai la voce **AllowOSUpgrade** impostala a **1**   
 Rilancia il Windows Update o dal prompt il comando   
+
 	wuauclt /detectnow
 	
 Verrà notificato l'aggiornamento a Windows 10 con il successivo download (circa 3GB) e la successiva richiesta di installazione pianificata.

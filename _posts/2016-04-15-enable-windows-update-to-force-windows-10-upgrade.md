@@ -18,7 +18,8 @@ Apri regedit e vai in questo percorso:
 	HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade
 
 Troverai la voce **AllowOSUpgrade** impostala a **1**   
-Rilancia il Windows Update o dal prompt il comando   
+
+Rilancia il Windows Update o dal prompt il comando:   
 
 	wuauclt /detectnow
 	

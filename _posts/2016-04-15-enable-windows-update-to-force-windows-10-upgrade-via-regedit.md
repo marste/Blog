@@ -3,7 +3,7 @@ title: Enable Windows Update to force Windows 10 upgrade via regedit
 date: 2016-04-15 11:00:00 -07:00
 author: Stefano Marzorati
 layout: post
-permalink: /enable-windows-update-to-force-windows-10-upgrade-via-regedit/
+permalink: /enable-windows-update-to-force-windows-10-upgrade/
 categories:
   - Windows
 tags:

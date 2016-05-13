@@ -14,6 +14,10 @@ tags:
   - cmd
   - remote
 ---
+Local PC:
+	
 	wmic os get Caption,CSDVersion /value
+	
+Remote PC:   
 	
 	psexec \\nome_pc wmic os get Caption,CSDVersion /value

@@ -16,7 +16,7 @@ tags:
   - visita
   - medica
 ---
-Se dovete prenotare la visita medica per l'accertamento dell'idoneità alla guida, presso la Commissione Medica Locale della Regione Lombardia, cliccate qua <a href="https://commissionemedicalocale.ats-milano.it/medLegOnWebCML/jsp/home.jsp" target="_blank">Portale Commissione Medica Locale</a>   
+Se dovete prenotare la visita medica per l'accertamento dell'idoneità alla guida, presso la Commissione Medica Locale della Regione Lombardia, andate sul <a href="https://commissionemedicalocale.ats-milano.it/medLegOnWebCML/jsp/home.jsp" target="_blank">Portale Commissione Medica Locale</a>   
 
 Dopo avere compilato correttamente il modulo online, riceverete una mail di conferma della richiesta di prenotazione della visita medica presso la commissione medica locale di Milano.
 

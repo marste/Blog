@@ -30,4 +30,4 @@ Clicca su **Proprietà** e seleziona **Don't allow** come da screenshot:
 ![EFS](https://farm8.staticflickr.com/7200/26775798780_813750025c_o.jpg)   
 
 Per maggiori info:   
-<center><a href="http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html" target="_blank">http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html</a></center>
+<a href="http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html" target="_blank">http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html</a>

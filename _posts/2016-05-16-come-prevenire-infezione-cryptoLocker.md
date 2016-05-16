@@ -27,7 +27,9 @@ Infatti coloro che infettano le macchine, sarebbero troppo lenti se criptassero 
 
 Clicca su **Proprietà** e seleziona **Don't allow** come da screenshot:   
 
-![EFS](https://farm8.staticflickr.com/7200/26775798780_813750025c_o.jpg)   
+<p align="center">
+  <img src="https://farm8.staticflickr.com/7200/26775798780_813750025c_o.jpg">
+</p>   
 
 Per maggiori info:   
 <a href="http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html" target="_blank">http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html</a>

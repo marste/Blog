@@ -13,6 +13,7 @@ tags:
   - criptare
   - infezione
   - prevenire
+  - prevention
 ---
 Questo accorgimento non coprirà tutti i casi degli attuali ransomware, ma almeno il 60%.   
 Molte, ma non tutte, versioni di Cryptolocker sfruttano i servizi di crittografia del sistema operativo.   

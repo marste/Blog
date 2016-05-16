@@ -25,9 +25,9 @@ Infatti coloro che infettano le macchine, sarebbero troppo lenti se criptassero 
 
 **Computer Configuration\Windows Settings\Security Settings\Public Key Policies\Encrypted Data Recovery Agents**
 
-Clicca su **Proprietà** e seleziona "Don't allow" come da screenshot:   
+Clicca su **Proprietà** e seleziona **Don't allow** come da screenshot:   
 
 ![EFS](https://farm8.staticflickr.com/7200/26775798780_813750025c_o.jpg)   
 
 Per maggiori info:   
-<a href="http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html" target="_blank">http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html</a>
+<center><a href="http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html" target="_blank">http://www.windowsecurity.com/articles-tutorials/authentication_and_encryption/Controlling-Encrypting-File-System-EFS-Group-Policy.html</a></center>

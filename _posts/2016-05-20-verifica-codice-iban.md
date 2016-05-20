@@ -17,12 +17,12 @@ tags:
 ---
 Per l'Italia il codice **IBAN** è stato fissato a 27 caratteri.   
 
-n° 2 lettere per la sigla internazionale secondo lo standard ISO 3166   
-n° 2 numeri di controllo   
-n° 1 lettera per il CIN   
-n° 5 numeri per l'ABI   
-n° 5 numeri per il CAB   
-n° 12 caratteri alfanumerici per il conto corrente   
+*   n° 2 lettere per la sigla internazionale secondo lo standard ISO 3166   
+*   n° 2 numeri di controllo   
+*   n° 1 lettera per il CIN   
+*   n° 5 numeri per l'ABI   
+*   n° 5 numeri per il CAB   
+*   n° 12 caratteri alfanumerici per il conto corrente   
 
 <p align="center">
   <img src="https://farm8.staticflickr.com/7187/26531944744_bf8efd06ba_o.png">

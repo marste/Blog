@@ -23,7 +23,7 @@ Infatti coloro che infettano le macchine, sarebbero troppo lenti se criptassero 
 
 *To access this configuration in the Default Domain Policy, follow this path once you are editing the GPO in the Group Policy Editor:*   
 
-**Computer Configuration\Windows Settings\Security Settings\Public Key Policies\Encrypted Data Recovery Agents**
+**Computer Configuration\Windows Settings\Security Settings\Public Key Policies\Encrypting File System**
 
 Clicca su **Proprietà** e seleziona **Don't allow** come da screenshot:   
 

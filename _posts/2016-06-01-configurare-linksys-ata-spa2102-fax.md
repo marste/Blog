@@ -81,4 +81,5 @@ Qua quasi tutti gli screenshots di una configurazione standard per poter inviare
 **Manual Reboot**:	732668   
 **Factory Reset**:	73738   
 **User Factory Reset**:	877778   
+
  

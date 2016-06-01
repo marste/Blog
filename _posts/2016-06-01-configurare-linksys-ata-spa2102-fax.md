@@ -17,20 +17,20 @@ tags:
 ---
 Per resettare l'ATA hai bisogno di un vecchio telefono a tastiera:   
 
-•	Plug in power adapter
-•	Plug in a phone to *Phone 1* port of the SPA-2102
-•	Dial ****
-•	You should hear *Configuration Option Menu*
-•	Dial 73738# (RESET#)
-•	Press 1 to confirm the reset
+* Plug in power adapter
+* Plug in a phone to *Phone 1* port of the SPA-2102
+* Dial * * * *
+* You should hear *Configuration Option Menu*
+* Dial 73738# (RESET#)
+* Press 1 to confirm the reset
 
 Oppure   
 
-•	Please pick up the phone that is connected to the voip adapter. 
-•	Then, regardless of if there is a dial tone, dial: * * * * (star 4 times) 
-•	Then, dial 877778# 
-•	Then hang up 
-•	This will reset the adapter back to the default configuration of DHCP 
+* Please pick up the phone that is connected to the voip adapter. 
+* Then, regardless of if there is a dial tone, dial: * * * * (star 4 times) 
+* Then, dial 877778# 
+* Then hang up 
+* This will reset the adapter back to the default configuration of DHCP 
 
 Qua quasi tutti gli screenshots di una configurazione standard per poter inviare dei fax:   
 
@@ -39,27 +39,28 @@ Qua quasi tutti gli screenshots di una configurazione standard per poter inviare
 <img src="https://c2.staticflickr.com/8/7053/26784291933_d46033a553_o.png">
 <img src="https://c2.staticflickr.com/8/7087/26784291943_f585280e88_o.png">
 <img src="https://c2.staticflickr.com/8/7054/26783520454_9711d7706f_o.png">
+</p>
 
 Dial Tone: 425@-12;10(.6/1/1,.2/.2/1)
 Busy Tone: 425@-20;10(.5/.5/1)
 FXS Port Impedance: 270+750||150nF
 
+<p align="center">
 <img src="https://c2.staticflickr.com/8/7445/26784291783_6b2322dff9_o.png">
 <img src="https://c2.staticflickr.com/8/7075/26783520314_9e33409ed0_o.png">
+</p>
 
 Network Jitter Level: very high
 Jitter Buffer Adjustment: Disable
 
+<p align="center">
 <img src="https://c2.staticflickr.com/8/7063/26784291803_28ff73c0fb_o.png">
 <img src="https://c2.staticflickr.com/8/7793/27293057182_15f34fc742_o.png">
 <img src="https://c2.staticflickr.com/8/7074/27293057112_aa6ec0bac8_o.png">
 </p>   
 
-<p align="center">
-  <img src="https://farm8.staticflickr.com/7200/26775798780_813750025c_o.jpg">
-</p>   
 
-Ecco una lista di comandi che potrebbero tornare utili:   
+**Ecco una lista di comandi che potrebbero tornare utili:**   
 
 **Enter Interactive Voice Response Menu**:	****   
 **Check net connection type**:	100#   

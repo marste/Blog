@@ -41,17 +41,17 @@ Qua quasi tutti gli screenshots di una configurazione standard per poter inviare
 <img src="https://c2.staticflickr.com/8/7054/26783520454_9711d7706f_o.png">
 </p>
 
-Dial Tone: 425@-12;10(.6/1/1,.2/.2/1)
-Busy Tone: 425@-20;10(.5/.5/1)
-FXS Port Impedance: 270+750||150nF
+Dial Tone: 425@-12;10(.6/1/1,.2/.2/1)   
+Busy Tone: 425@-20;10(.5/.5/1)   
+FXS Port Impedance: 270+750||150nF   
 
 <p align="center">
 <img src="https://c2.staticflickr.com/8/7445/26784291783_6b2322dff9_o.png">
 <img src="https://c2.staticflickr.com/8/7075/26783520314_9e33409ed0_o.png">
 </p>
 
-Network Jitter Level: very high
-Jitter Buffer Adjustment: Disable
+Network Jitter Level: very high   
+Jitter Buffer Adjustment: Disable   
 
 <p align="center">
 <img src="https://c2.staticflickr.com/8/7063/26784291803_28ff73c0fb_o.png">
@@ -60,9 +60,9 @@ Jitter Buffer Adjustment: Disable
 </p>   
 
 
-**Ecco una lista di comandi che potrebbero tornare utili:**   
+*Ecco una lista di comandi che potrebbero tornare utili:*   
 
-**Enter Interactive Voice Response Menu**:	****   
+**Enter Interactive Voice Response Menu**:	* * * *   
 **Check net connection type**:	100#   
 **Check internet IP address**:	110#   
 **Check Network Mask or Subnet Mask**:	120#   

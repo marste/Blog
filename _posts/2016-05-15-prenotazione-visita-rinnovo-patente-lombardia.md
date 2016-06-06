@@ -29,7 +29,7 @@ Il numero da contattare è: 0331925700
 
 Occorre effettuare il pagamento di due bollettini precompilati da:   
 
- * € 10,20 sul c/c 9001
- * € 16,00 sul c/c 4028
+* € 10,20 sul c/c 9001
+* € 16,00 sul c/c 4028
 
 Portare con sè una foto recente formato tessera e la patente attuale.   

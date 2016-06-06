@@ -82,4 +82,4 @@ Qua quasi tutti gli screenshots di una configurazione standard per poter inviare
 **Factory Reset**:	73738   
 **User Factory Reset**:	877778   
 
- 
+

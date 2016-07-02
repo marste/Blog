@@ -35,5 +35,8 @@ Occorre effettuare il pagamento di due bollettini precompilati da:
 Portare con sè una foto recente formato tessera 40x30 (che verrà scannerizzata e riconsegnata a voi), la patente attuale, codice fiscale e un documento d'identità valido.   
 Per persone affette da diabete: certificazione di un diabetologo di struttura pubblica e/o accreditata.   
 La visita medica oculistica ha il costo di 42 € e deve essere pagata tramite POS (Bancomat)   
-In due giorni riceverete la vostra patente per raccomandata al costo di 6,86 € per il servizio di recapito.
+In due giorni riceverete la vostra patente per raccomandata al costo di 6,86 € per il servizio di recapito.   
+
+Alla fine il rinnovo della patente vi costerà un po' meno di 80 €.   
+Se trovate qualche scuola guida che vi propone il rinnovo più o meno alla stessa cifra facendo tutto loro, optate per rinnovarla con loro.
 

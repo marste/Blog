@@ -1,5 +1,5 @@
 ---
-title: Trova l'uptime di un PC Windows Remoto
+title: Uptime di un PC Windows Remoto
 date: 2016-07-19 11:00:00 +0200
 author: Stefano Marzorati
 layout: post

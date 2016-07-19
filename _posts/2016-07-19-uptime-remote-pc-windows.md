@@ -1,6 +1,6 @@
 ---
 title: Uptime di un PC Windows Remoto
-date: 2016-07-19 11:00:00 +0200
+date: 2016-07-19 09:50:00 +0200
 author: Stefano Marzorati
 layout: post
 permalink: /uptime-pc-remoto-windows/

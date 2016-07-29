@@ -15,15 +15,15 @@ tags:
   - norton
   - tool
 ---
-Per Windows Desktops/Laptops:   
+**Per Windows Desktops/Laptops:**   
 
 <a href="ftp://ftp.symantec.com/public/english_us_canada/removal_tools/Norton_Removal_Tool.exe" target="_blank">Norton Removal Tool</a>
 
-Per Windows Servers:   
+**Per Windows Servers:**   
 
 <a href="http://marzorati.co/download/CleanWipe.zip" target="_blank">CleanWipe</a>
 
-Poi esegui questo:   
+**Poi esegui questo:**   
 
 <a href="https://ins.spn.com/CEDAR.exe" target="_blank">Cloud Endpoint Diagnostic and Removal (CEDAR)</a>
 

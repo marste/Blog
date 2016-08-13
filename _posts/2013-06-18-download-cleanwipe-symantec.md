@@ -26,4 +26,6 @@ You can remove:
 * Symantec Client Security 3.0 and newer
 * Symantec Endpoint Protection Manager version 11.0 and newer
 * Symantec Protection Center (SEP Small Business Edition) 12.0 and newer
-* Windows LiveUpdate 2.0 and newer
+* Windows LiveUpdate 2.0 and newer   
+
+In alternative watch this: <a href="http://marzorati.co/download-removal-tool-symantec/" target="_blank">Download removal tool Symantec</a>

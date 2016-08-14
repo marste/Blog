@@ -17,84 +17,72 @@ tags:
 ---
 Classificazione dei valori pressori negli adulti   
 
-<style>
-	.demo {
-		border:1px solid #C0C0C0;
-		border-collapse:collapse;
-		padding:5px;
-	}
-	.demo th {
-		border:1px solid #C0C0C0;
-		padding:5px;
-		background:#F0F0F0;
-	}
-	.demo td {
-		border:1px solid #C0C0C0;
-		text-align:center;
-		padding:5px;
-	}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="demo">
-	<caption>Classificazione</th>
-		<th>Massima (sistolica)<br></th>
-		<th>Minima (diastolica)<br></th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td>&nbsp;<span style="text-decoration: underline;">Ipotensione grave<br></span></td>
-		<td>&nbsp;&lt;80</td>
-		<td>&lt;60 <br></td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Ipotensione moderata</span></p></td>
-		<td>&nbsp;80-89</td>
-		<td>&nbsp;60-64</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Ipotensione lieve</span></p></td>
-		<td>90-99 <br></td>
-		<td>&nbsp;65-69</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Normale bassa</span></p></td>
-		<td>&nbsp;100-109</td>
-		<td>70-74 <br></td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><b><span style="text-decoration: underline;">Normale</span></b></p></td>
-		<td>&nbsp;110-119</td>
-		<td>&nbsp;75-79</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><b><span style="text-decoration: underline;">Ottimale</span></b></p></td>
-		<td>120 <br></td>
-		<td>80 <br></td>
-	</tr>
-	<tr>
-		<td>&nbsp;<span style="text-decoration: underline;">Normale</span></td>
-		<td>120-129 <br></td>
-		<td>&nbsp;80-84</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Normale alta</span></p></td>
-		<td>&nbsp;130-139</td>
-		<td>&nbsp;85-89</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Ipertensione lieve</span></p></td>
-		<td>&nbsp;140-159</td>
-		<td>90-99 <br></td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Ipertensione moderata</span></p></td>
-		<td>160-179 <br></td>
-		<td>100-109 <br></td>
-	</tr>
-	<tr>
-		<td>&nbsp;<p align="center"><span style="text-decoration: underline;">Ipertensione grave</span></p></td>
-		<td>&nbsp;&gt;180</td>
-		<td>&gt;110 <br></td>
-	</tr>
-	<tbody>
+<table class="tg">
+  <tr>
+    <th class="tg-amwm">Classificazione</th>
+    <th class="tg-amwm">Massima - Sistolica<br></th>
+    <th class="tg-amwm">Minima - Diastolica<br></th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipotensione grave</td>
+    <td class="tg-baqh">&lt;80</td>
+    <td class="tg-baqh">&lt;60</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipotensione moderata</td>
+    <td class="tg-baqh">80-89</td>
+    <td class="tg-baqh">60-64</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipotensione lieve</td>
+    <td class="tg-baqh">90-99</td>
+    <td class="tg-baqh">65-69</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Normale bassa</td>
+    <td class="tg-baqh">100-109</td>
+    <td class="tg-baqh">70-74</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Normale</td>
+    <td class="tg-baqh">110-119</td>
+    <td class="tg-baqh">75-79</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Ottimale</td>
+    <td class="tg-amwm">120</td>
+    <td class="tg-amwm">80</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Normale</td>
+    <td class="tg-baqh">120-129</td>
+    <td class="tg-baqh">80-84</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Normale alta</td>
+    <td class="tg-baqh">130-139</td>
+    <td class="tg-baqh">85-89</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipertensione lieve</td>
+    <td class="tg-baqh">140-159</td>
+    <td class="tg-baqh">90-99</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipertensione moderata</td>
+    <td class="tg-baqh">160-179</td>
+    <td class="tg-baqh">100-109</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ipertensione grave</td>
+    <td class="tg-baqh">&gt;180</td>
+    <td class="tg-baqh">&gt;110</td>
+  </tr>
 </table>

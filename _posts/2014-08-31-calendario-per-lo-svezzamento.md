@@ -1,14 +1,9 @@
 ---
-id: 3017
 title: Calendario per lo svezzamento
 author: Stefano Marzorati
 layout: post
 guid: http://marzorati.co/?p=3017
 permalink: /calendario-per-lo-svezzamento/
-authorsure_include_css:
-  - 
-dsq_thread_id:
-  - 2975993260
 categories:
   - Varie
 tags:

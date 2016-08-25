@@ -19,6 +19,8 @@ tags:
 **Channel:** atollo-friends  
 **List:** <a href="http://listaatollo.altervista.org/lista/" target="_blank">http://listaatollo.altervista.org/lista/</a>  
 **Velocità:** +650 KB/S   
+**User:** atollofriends   
+**Password:** l1st44t0ll0   
 
 **Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** untouchables  

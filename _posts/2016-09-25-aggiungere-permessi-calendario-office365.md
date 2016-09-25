@@ -15,24 +15,24 @@ tags:
 ---
 **Connettersi tramite PowerShell a Office365:**   
 
-  - $UserCredential = Get-Credential
+  - <code>$UserCredential = Get-Credential</code>
 
-  - $Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection
+  - <code>$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection</code>
 
-  - Import-PSSession $Session
+  - <code>Import-PSSession $Session</code>
 
 **Verificare gli attuali permessi sul Calendario:**   
 
-  - Get-MailboxFolderPermission g.verdi@acme.com:\Calendario
+  - <code>Get-MailboxFolderPermission g.verdi@acme.com:\Calendario</code>
 
 **Aggiungere i permessi in sola lettura all'utente m.rossi@acme.com**   
 
-  - Add-MailboxFolderPermission g.verdi@acme.com:\Calendario -User m.rossi@acme.com -AccessRights Reviewer
+  - <code>Add-MailboxFolderPermission g.verdi@acme.com:\Calendario -User m.rossi@acme.com -AccessRights Reviewer</code>
 
 **Verificare se l'operazione ha avuto esito positivo:**   
 
-  - Get-MailboxFolderPermission g.verdi@acme.com:\Calendario
+  - <code>Get-MailboxFolderPermission g.verdi@acme.com:\Calendario</code>
 
 **Chudere la sessione:**   
 
-  - Remove-PSSession $Session
+  - <code>Remove-PSSession $Session</code>

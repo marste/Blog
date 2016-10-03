@@ -27,6 +27,10 @@ tags:
 
 * <code>Get-MessageTrace -SenderAddress stefano@marzorati.co -StartDate "09/22/2016 00:00:01" -EndDate "10/03/2016 23:59:59"</code>   
 
+oppure
+
+* <code>Get-MessageTrace -RecipientAddress stefano@marzorati.co -StartDate "09/22/2016 00:00:01" -EndDate "10/03/2016 23:59:59"</code>   
+
 Attenzione: all'orario visualizzato nel risultato dovrete aggiungere +2 per questioni di Time Zone.
 
 **Chudere la sessione:**   

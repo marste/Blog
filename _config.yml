@@ -22,13 +22,13 @@ show_post_footers:  true
 # Social icons
 show_social_icons: true
 github_username: marste
-stackoverflow_id:
 twitter_username: marzorati_ste
 soundcloud_username: marste
-# google_plus_id: +StefanoMarzorati
 linkedin_username: stefanomarzorati
 instagram_username: stefanomarzorati
+# google_plus_id: +StefanoMarzorati
 # bitcoin_url:
+# stackoverflow_id:
 # paypal_url:
 # flattr_button:
 

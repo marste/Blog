@@ -18,7 +18,7 @@ tags:
   - latte
 ---
 <p align="center">
-  <img src="https://c7.staticflickr.com/9/8136/30129305982_1e31dc411b_z.jpg">
+  <img src="https://c7.staticflickr.com/9/8136/30129305982_c98022959a_o.jpg">
 </p>   
 
 **Ingredienti:**   

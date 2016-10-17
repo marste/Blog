@@ -23,7 +23,7 @@ tags:
 
 * <code>Import-PSSession $Session</code>
 
-**Comando da eseguire per effettuare un trace:**   
+**Comando da eseguire per visualizzare le informazioni che cerchiamo:**   
 
 * <code>Get-MailboxStatistics "Stefano Marzorati" | Format-List StorageLimitStatus,TotalItemSize,TotalDeletedItemSize,ItemCount,DeletedItemCount</code>   
 

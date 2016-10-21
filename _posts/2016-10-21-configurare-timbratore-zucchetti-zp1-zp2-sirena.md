@@ -18,15 +18,15 @@ tags:
 ---
 Se avete l'esigenza di far comandare una sirena o un'allarme da un lettore Zucchetti ZP1 o ZP2, ecco la procedura:
 
-Preparate un file ALARMS.TXT con l'orario in cui dovrà suonare la sirena, per quanti secondi e in quali giorni, come nell'esempio sottostante:   
+Preparate un file **ALARMS.TXT** con l'orario in cui dovrà suonare la sirena, per quanti secondi e in quali giorni, come nell'esempio sottostante:   
 
-  > 0600,1,10,01111100
-  > 1200,1,10,01111100
-  > 1400,1,10,01111100
-  > 1730,1,10,01111100
-  > 2200,1,10,01111100
+  > 0600,1,10,01111100   
+  > 1200,1,10,01111100   
+  > 1400,1,10,01111100   
+  > 1730,1,10,01111100   
+  > 2200,1,10,01111100   
 
-Sintassi: HHMM,R,TT,DLMMGVSF
+Sintassi: HHMM,R,TT,DLMMGVSF   
 
 **HHMM** = ore e minuti   
 **R** = 1 è il relè interno, 2 e 3 sono per relè esterni opzionali   

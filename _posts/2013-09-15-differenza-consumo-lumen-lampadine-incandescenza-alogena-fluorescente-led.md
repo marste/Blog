@@ -1,5 +1,4 @@
 ---
-id: 1983
 title: Differenza consumo lumen lampadine incandescenza alogena fluorescente led
 author: Stefano Marzorati
 layout: post

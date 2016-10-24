@@ -16,7 +16,7 @@ tags:
   - luminosità
   - watt
 ---
-<center>**Lampadina tradizionale incandescenza**</center>
+**<center>Lampadina tradizionale incandescenza</center>**
 
 <table width="50%" border="1">
   <tr>

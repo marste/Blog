@@ -3,17 +3,7 @@ id: 1983
 title: Differenza consumo lumen lampadine incandescenza alogena fluorescente led
 author: Stefano Marzorati
 layout: post
-guid: http://marzorati.co/?p=1983
 permalink: /differenza-consumo-lumen-lampadine-incandescenza-alogena-fluorescente-led/
-publicize_twitter_user:
-  - marzorati_ste
-  - marzorati_ste
-authorsure_include_css:
-  - 
-dsq_thread_id:
-  - 1923577660
-dsq_needs_sync:
-  - 1
 categories:
   - Varie
 tags:
@@ -366,53 +356,65 @@ tags:
     </td>
   </tr>
   
+  <tr>
   <td style="text-align:center;" width="50%">
     20 W
   </td>
   
   <td style="text-align:center;" width="50%">
     1150 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     22 W
   </td>
   
   <td style="text-align:center;" width="50%">
     1350 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     24 W
   </td>
   
   <td style="text-align:center;" width="50%">
     2150 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     26 W
   </td>
   
   <td style="text-align:center;" width="50%">
     2500 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     16 W
   </td>
   
   <td style="text-align:center;" width="50%">
     1000 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     28 W
   </td>
   
   <td style="text-align:center;" width="50%">
     2900 lumen
-  </td></tr>
+  </td>
+  </tr>
 </table>
 
 **Lampada Slim T5 Fluorescente**
@@ -468,19 +470,23 @@ tags:
     </td>
   </tr>
   
+  <tr>
   <td style="text-align:center;" width="50%">
     28 W
   </td>
   
   <td style="text-align:center;" width="50%">
     2900 lumen
-  </td></tr> 
+  </td>
+  </tr> 
   
+  <tr>
   <td style="text-align:center;" width="50%">
     35 W
   </td>
   
   <td style="text-align:center;" width="50%">
     3650 lumen
-  </td></tr>
+  </td>
+  </tr>
 </table>

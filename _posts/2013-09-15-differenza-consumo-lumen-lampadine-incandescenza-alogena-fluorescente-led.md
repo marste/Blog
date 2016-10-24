@@ -16,7 +16,7 @@ tags:
   - luminosità
   - watt
 ---
-<b><center>Lampadina tradizionale incandescenza</b></center>
+<center>**Lampadina tradizionale incandescenza**</center>
 
 <table width="50%" border="1">
   <tr>
@@ -101,8 +101,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<BR>
-<b><center>Lampadina Alogena</b></center>
+<center>**Lampadina Alogena**</center>
 
 <table width="50%" border="1">
   <tr>
@@ -175,10 +174,9 @@ tags:
     </td>
   </tr>
 </table>   
-
-
-
-**Lampadina Fluorescente Compatta**   
+<BR>
+<BR>
+<center>**Lampadina Fluorescente Compatta**</center>   
 
 <table width="50%" border="1">
   <tr>
@@ -251,10 +249,9 @@ tags:
     </td>
   </tr>
 </table>   
-
-
-
-**Lampadina Led**   
+<BR>
+<BR>
+<center>**Lampadina Led**</center>   
 
 <table width="50%" border="1">
   <tr>
@@ -307,10 +304,9 @@ tags:
     </td>
   </tr>
 </table>   
-
-
-
-**Lampada Slim T4 Fluorescente**   
+<BR>
+<BR>
+<center>**Lampada Slim T4 Fluorescente**</center>   
 
 <table width="50%" border="1">
   <tr>
@@ -423,10 +419,9 @@ tags:
   </td>
   </tr>
 </table>   
-   
-   
-   
-**Lampada Slim T5 Fluorescente**   
+<BR>
+<BR>
+<center>**Lampada Slim T5 Fluorescente**</center>   
 
 <table width="50%" border="1">
   <tr>
@@ -499,4 +494,5 @@ tags:
   </td>
   </tr>
 </table>   
-
+<BR>
+<BR>

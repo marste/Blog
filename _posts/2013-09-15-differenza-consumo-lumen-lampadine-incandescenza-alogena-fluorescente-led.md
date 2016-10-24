@@ -98,9 +98,11 @@ tags:
       2160 lumen
     </td>
   </tr>
-</table>
+</table>   
 
-**Lampadina Alogena**
+
+
+**Lampadina Alogena**   
 
 <table width="50%" border="1">
   <tr>
@@ -172,9 +174,11 @@ tags:
       1900 lumen
     </td>
   </tr>
-</table>
+</table>   
 
-**Lampadina Fluorescente Compatta**
+
+
+**Lampadina Fluorescente Compatta**   
 
 <table width="50%" border="1">
   <tr>
@@ -246,9 +250,11 @@ tags:
       1700 lumen
     </td>
   </tr>
-</table>
+</table>   
 
-**Lampadina Led**
+
+
+**Lampadina Led**   
 
 <table width="50%" border="1">
   <tr>
@@ -300,9 +306,11 @@ tags:
       806 lumen
     </td>
   </tr>
-</table>
+</table>   
 
-**Lampada Slim T4 Fluorescente**
+
+
+**Lampada Slim T4 Fluorescente**   
 
 <table width="50%" border="1">
   <tr>
@@ -414,9 +422,11 @@ tags:
     2900 lumen
   </td>
   </tr>
-</table>
+</table>   
 
-**Lampada Slim T5 Fluorescente**
+
+
+**Lampada Slim T5 Fluorescente**   
 
 <table width="50%" border="1">
   <tr>
@@ -488,4 +498,5 @@ tags:
     3650 lumen
   </td>
   </tr>
-</table>
+</table>   
+

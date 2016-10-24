@@ -101,7 +101,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<center>**Lampadina Alogena**</center>
+**<center>Lampadina Alogena</center>**
 
 <table width="50%" border="1">
   <tr>
@@ -176,7 +176,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<center>**Lampadina Fluorescente Compatta**</center>   
+**<center>Lampadina Fluorescente Compatta</center>**   
 
 <table width="50%" border="1">
   <tr>
@@ -251,7 +251,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<center>**Lampadina Led**</center>   
+**<center>Lampadina Led</center>**   
 
 <table width="50%" border="1">
   <tr>
@@ -306,7 +306,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<center>**Lampada Slim T4 Fluorescente**</center>   
+**<center>Lampada Slim T4 Fluorescente</center>**   
 
 <table width="50%" border="1">
   <tr>
@@ -421,7 +421,7 @@ tags:
 </table>   
 <BR>
 <BR>
-<center>**Lampada Slim T5 Fluorescente**</center>   
+**<center>Lampada Slim T5 Fluorescente</center>**   
 
 <table width="50%" border="1">
   <tr>
@@ -494,5 +494,4 @@ tags:
   </td>
   </tr>
 </table>   
-<BR>
 <BR>

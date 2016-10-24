@@ -16,7 +16,7 @@ tags:
   - luminosità
   - watt
 ---
-**Lampadina tradizionale incandescenza**
+<b><center>Lampadina tradizionale incandescenza</b></center>
 
 <table width="50%" border="1">
   <tr>
@@ -99,10 +99,10 @@ tags:
     </td>
   </tr>
 </table>   
-
-
-
-**Lampadina Alogena**   
+<BR>
+<BR>
+<BR>
+<b><center>Lampadina Alogena</b></center>
 
 <table width="50%" border="1">
   <tr>

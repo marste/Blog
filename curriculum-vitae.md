@@ -30,7 +30,8 @@ permalink: /curriculum-vitae/
 * MS Windows Client e Servers
 * Web Servers Linux (Centos – Debian - Ubuntu)
 * Firewall Sonicwall Dell
-* Sistemi di virtualizzazione: ESX, VmWare Server
+* Sistemi di virtualizzazione: ESX, VMWare Server
+* Office 365 - Exchange Online
 * Web servers (Linux, Apache, Mysql, PHP)
 * IBM AS/400
 * Microsoft Exchange
@@ -45,16 +46,18 @@ permalink: /curriculum-vitae/
 
 **Principali competenze ed attività trasversali:**
 
-* Coordinamento dell'attività sistemistiche e di networking
-* Attività di testing, improvement e reportistica sui progetti affrontati e sui risultati raggiunti
-* Progettazione e/o valutazione d'acquisto di hardware e software sulla base delle esigenze operative, delle dimensioni del progetto e del budget disponibile
-* Riduzione dell'incidenza dei costi di progetti IT e relativi alla telefonia
-* Superamento di piattaforme divenute obsolete con soluzioni in cloud
-* Interfaccia continua con ogni livello di utenza aziendale ed esposizione diretta alla Direzione
-* Delineare la strategia ICT di medio e lungo periodo
-* Gestione delle criticità
-* Pianificazione progettazione e gestione di attività di manutenzione proattivita di reti e servers
-
+* Assicurare l'informatizzazione della Società, nel rispetto di priorità e linee guida assegnate, contribuendo alla definizione di politiche, budget, piano di investimenti/​costi di funzione
+* Garantire la continuità dei servizi erogati, la sicurezza e l'armonia delle varie strutture hardware/​software
+* Garantire la corretta gestione della rete aziendale, del server e delle reti informatiche sia dell'Area Amministrativa sia delle funzioni connesse al business dello stabilimento (Produzione, Supply Chain, Qualità, etc.)
+* Coordinare la progettazione e l'implementazione dei nuovi servizi, con l'obiettivo di assicurare la piena integrazione con i servizi già presenti
+* Assicurare l’ottimizzazione dei processi informativi, curandone l’aggiornamento e lo sviluppo nel rispetto della legge sulla Privacy ed in coerenza con l’adeguatezza delle soluzioni alle esigenze aziendali in termini sia di rapporto costi/​benefici sia di standard qualitativi
+* Curare la creazione, ​l’aggiornamento, ​la manutenzione di sistemi applicativi diretti a funzioni specifiche nel rispetto delle priorità e linee guida date, in coerenza con il sistema generale
+* Assicurare un livello di servizio e processi informativi ottimale al costo minimale
+* Garantire la costante funzionalità della rete di comunicazione direttamente e/​o con il supporto della sua struttura, in particolare dell’help-desk
+* Assicurare la valutazione di nuovi prodotti, l’ordine e l’installazione di nuove apparecchiature e garantirne il corretto funzionamento tra di loro
+* Garantire la formazione iniziale dell’utenza e la sua costante assistenza
+* Supportare l’utenza aziendale nell’individuazione dei fabbisogni e provvedere alla verifica di congruenza delle soluzioni identificate con quelle esistenti, tenendo conto dei trend tecnologici
+* Partecipare alle trattative economiche con i fornitori con i quali mantenere costanti rapporti per recepire informazioni in merito ai trend tecnologici
 ___
 
 [01/2007 – 05/2015]

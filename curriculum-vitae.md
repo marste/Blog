@@ -57,7 +57,8 @@ permalink: /curriculum-vitae/
 * Assicurare la valutazione di nuovi prodotti, l’ordine e l’installazione di nuove apparecchiature e garantirne il corretto funzionamento tra di loro
 * Garantire la formazione iniziale dell’utenza e la sua costante assistenza
 * Supportare l’utenza aziendale nell’individuazione dei fabbisogni e provvedere alla verifica di congruenza delle soluzioni identificate con quelle esistenti, tenendo conto dei trend tecnologici
-* Partecipare alle trattative economiche con i fornitori con i quali mantenere costanti rapporti per recepire informazioni in merito ai trend tecnologici
+* Partecipare alle trattative economiche con i fornitori con i quali mantenere costanti rapporti per recepire informazioni in merito ai trend tecnologici   
+
 ___
 
 [01/2007 – 05/2015]

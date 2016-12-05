@@ -19,4 +19,8 @@ Percorso dei programmi da avviare in automatico per tutti gli utenti del PC:
 
 Percorso dei programmi da avviare in automatico per solo un utente:   
 
-<code>C:\Users\profilo_utente\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</code>
+<code>C:\Users\profilo_utente\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</code>   
+
+oppure da "Run" o "Esegui" digita:   
+
+<code>shell:startup</code>

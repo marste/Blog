@@ -1,10 +1,9 @@
 ---
 id: 2632
-title: Report affidabilità auto
+title: TUV - Report affidabilità auto
 author: Stefano Marzorati
 layout: post
-guid: http://marzorati.co/?p=2632
-permalink: /report-affidabilita-auto/
+permalink: /tuv-report-affidabilita-auto/
 authorsure_include_css:
   - 
 dsq_thread_id:

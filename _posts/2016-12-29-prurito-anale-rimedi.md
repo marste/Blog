@@ -1,5 +1,5 @@
 ---
-title: Prurito anale - Rimedi dermatite
+title: Prurito anale - Rimedi
 date: 2016-12-29 22:20:00 +0200
 author: Stefano Marzorati
 layout: post
@@ -15,7 +15,7 @@ tags:
   - perianale
   - bruciore
 ---
-Talvolta queste dermatiti perianali si cronicizzano e si automantengono perché il prurito evoca il grattamento che a sua volta alimenta il prurito... e così via.   
+Talvolta le dermatiti perianali si cronicizzano e si automantengono perché il prurito evoca il grattamento che a sua volta alimenta il prurito... e così via.   
 
 Applicare **Travocort crema** 2 volte al dì per 10 giorni   
 

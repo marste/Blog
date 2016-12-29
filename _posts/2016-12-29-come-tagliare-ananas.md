@@ -1,5 +1,5 @@
 ---
-title: Ricetta torta paesana
+title: Come tagliare l'ananas
 date: 2016-12-29 20:20:00 +0200
 author: Stefano Marzorati
 layout: post

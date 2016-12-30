@@ -1,5 +1,5 @@
 ---
-title: Prurito anale - Rimedi
+title: Prurito anale, rimedio definitivo
 date: 2016-12-29 22:20:00 +0200
 author: Stefano Marzorati
 layout: post

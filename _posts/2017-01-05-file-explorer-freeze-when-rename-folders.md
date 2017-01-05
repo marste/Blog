@@ -20,7 +20,7 @@ tags:
 ---
 Se ti capita in Windows 10 che File Explorer si blocchi (freeze or crash) quando stai cercando di rinominare una cartella, ecco la soluzione:   
 
-Vai in **Folder Options** o "Opzioni Esplora file" e nella sezione Privacy clicca sul tasto **Cancella** della descrizione **Cancella cronologia esplora file**, come vedi qua sotto:   
+Vai in **Folder Options** o **Opzioni Esplora file** e nella sezione Privacy clicca sul tasto **Cancella** della descrizione **Cancella cronologia esplora file**, come vedi qua sotto:   
 
 <p align="center">
   <img src="https://c1.staticflickr.com/1/672/31282490554_3ca66f9f0b_o.png">

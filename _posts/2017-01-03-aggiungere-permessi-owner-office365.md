@@ -23,15 +23,15 @@ tags:
 
 **Verificare gli attuali permessi:**   
 
-  - <code>Get-MailboxFolderPermission g.verdi@acme.com</code>
+  - <code>Get-MailboxPermission g.verdi@acme.com</code>
 
 **Aggiungere i permessi di owner all'utente m.rossi@acme.com**   
 
-  - <code>Add-MailboxFolderPermission -Identity g.verdi@acme.com -User m.rossi@acme.com -AccessRights Owner</code>
+  - <code>Add-MailboxPermission -Identity g.verdi@acme.com -User m.rossi@acme.com -AccessRights FullAccess</code>
 
 **Verificare se l'operazione ha avuto esito positivo:**   
 
-  - <code>Get-MailboxFolderPermission g.verdi@acme.com</code>
+  - <code>Get-MailboxPermission g.verdi@acme.com</code>
 
 **Chudere la sessione:**   
 

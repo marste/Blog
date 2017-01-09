@@ -12,6 +12,7 @@ tags:
   - owner
   - office365
   - powershell
+  - fullaccess
 ---
 **Connettersi tramite PowerShell a Office365:**   
 

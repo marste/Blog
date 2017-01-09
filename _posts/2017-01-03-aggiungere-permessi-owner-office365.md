@@ -28,7 +28,7 @@ tags:
 
 **Aggiungere i permessi di owner all'utente m.rossi@acme.com**   
 
-  - <code>Add-MailboxPermission -Identity g.verdi@acme.com -User m.rossi@acme.com -AccessRights FullAccess</code>
+  - <code>Add-MailboxPermission -Identity g.verdi@acme.com -User m.rossi@acme.com -AccessRights FullAccess -InheritanceType All</code>
 
 **Verificare se l'operazione ha avuto esito positivo:**   
 

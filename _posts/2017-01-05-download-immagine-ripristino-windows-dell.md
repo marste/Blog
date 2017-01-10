@@ -20,4 +20,4 @@ tags:
 ---
 Per la creazione di un supporto di installazione Windows per i PC Dell, ecco il link dal quale potete scaricare la ISO originale del sistema operativo:   
 
-<a href="http://www.dell.com/support/home/us/en/19/Drivers/OSISO" target="_blank">http://www.dell.com/support/home/us/en/19/Drivers/OSISO</a>
+<a href="http://www.dell.com/support/home/Drivers/OSISO" target="_blank">http://www.dell.com/support/home/Drivers/OSISO</a>

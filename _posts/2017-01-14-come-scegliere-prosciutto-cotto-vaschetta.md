@@ -15,6 +15,6 @@ tags:
 ---
 Ci sono 3 tipologie di qualità di prosciutto cotto:   
 
-* **Prosciutto cotto**: umidità molto elevata <=81% *** da evitare ***   
+* **Prosciutto cotto**: umidità molto elevata <=81% ***da evitare***   
 * **Prosciutto cotto scelto**: umidità al <=78,5% trattato con polifosfati   
 * **Prosciutto di alta qualità**: umidità <=75,5% senza proteine di soia o polifosfati   

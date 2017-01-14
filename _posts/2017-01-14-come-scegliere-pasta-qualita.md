@@ -13,9 +13,9 @@ tags:
   - secca
   - grano
 ---
-Basta guardare il contenuto in proteine sulla tabella nutrizionale.   
+Basta guardare il contenuto in **proteine** sulla tabella nutrizionale.   
 In base alla loro quantità in grammi su 100 grammi, possiamo classificare la qualità della pasta.   
 
-* **Medio**: 10,5-12,0% (10,5-12 gr)
-* **Buono**: 12,0-13,5% (12-13,5 gr)
+* **Medio**: 10,5 - 12,0% (10,5-12 gr)
+* **Buono**: 12,0 - 13,5% (12-13,5 gr)
 * **Ottimo**: ≥ 13,5% (≥ 13,5 gr)

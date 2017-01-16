@@ -1,5 +1,5 @@
 ---
-title: Come scegliere la pasta di qualità
+title: Come scegliere pasta di qualità
 date: 2017-01-14 22:52:00 +0200
 author: Stefano Marzorati
 layout: post

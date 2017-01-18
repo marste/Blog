@@ -25,7 +25,7 @@ T9 &#8211; 29mm
 T10 &#8211; 32mm  
 T12 &#8211; 38mm**
 
-<table>
+<div class="tg-wrap"><table>
   <tr>
     <th>T4</th>
     <th>12,5 mm</th>
@@ -50,4 +50,4 @@ T12 &#8211; 38mm**
     <td>T12<br></td>
     <td>38 mm</td>
   </tr>
-</table>
+</table></div>

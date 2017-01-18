@@ -24,3 +24,30 @@ T8 &#8211; 26mm
 T9 &#8211; 29mm  
 T10 &#8211; 32mm  
 T12 &#8211; 38mm**
+
+<table>
+  <tr>
+    <th>T4</th>
+    <th>12,5 mm</th>
+  </tr>
+  <tr>
+    <td>T5</td>
+    <td>16 mm</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>26 mm</td>
+  </tr>
+  <tr>
+    <td>T9</td>
+    <td>29 mm</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>32 mm</td>
+  </tr>
+  <tr>
+    <td>T12<br></td>
+    <td>38 mm</td>
+  </tr>
+</table>

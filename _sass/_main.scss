@@ -341,7 +341,7 @@ h6,
   .post-meta {
     margin: 0;
     padding: 0;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
   }
 
   .h1,
@@ -372,7 +372,7 @@ h6,
   }
 
   .small {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   table {
@@ -448,7 +448,7 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 2.8rem;
+    font-size: 1.8rem;
   }
 
   .h2,
@@ -527,8 +527,8 @@ Copyright (c) 2014 Daniel Eden
 }
 
 .animated.hinge {
-  -webkit-animation-duration: 2s;
-  animation-duration: 2s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
 }
 
 @-webkit-keyframes fadeInDown {

@@ -18,36 +18,58 @@ La differenza sta nella **misura del diametro** della lampada.
 
 Ecco le misure:
 
-**T4 &#8211; 12,5mm  
-T5 &#8211; 16mm  
-T8 &#8211; 26mm  
-T9 &#8211; 29mm  
-T10 &#8211; 32mm  
-T12 &#8211; 38mm**
+**T4 &#8211; 12,5 mm  
+T5 &#8211; 16 mm  
+T8 &#8211; 26 mm  
+T9 &#8211; 29 mm  
+T10 &#8211; 32 mm  
+T12 &#8211; 38 mm**
 
-<div class="tg-wrap"><table>
-  <tr>
-    <td>T4</td>
-    <td>12,5 mm</td>
-  </tr>
-  <tr>
-    <td>T5</td>
-    <td>16 mm</td>
-  </tr>
-  <tr>
-    <td>T8</td>
-    <td>26 mm</td>
-  </tr>
-  <tr>
-    <td>T9</td>
-    <td>29 mm</td>
-  </tr>
-  <tr>
-    <td>T10</td>
-    <td>32 mm</td>
-  </tr>
-  <tr>
-    <td>T12<br></td>
-    <td>38 mm</td>
-  </tr>
-</table></div>
+<style>
+	.demo {
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+	}
+	.demo th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+		background:#F0F0F0;
+	}
+	.demo td {
+		border:1px solid #C0C0C0;
+		padding:5px;
+	}
+</style>
+<table class="demo">
+	<caption>Table 1</caption>
+	<thead>
+	<tr>
+		<th>Tipo<br></th>
+		<th>Diametro<br></th>
+	</tr>	</thead>	<tbody>	<tr>
+		<td>&nbsp;T4</td>
+		<td>&nbsp;12,5 mm<br></td>
+	</tr>
+	<tr>
+		<td>&nbsp;T5</td>
+		<td>&nbsp;16 mm</td>
+	</tr>
+	<tr>
+		<td>&nbsp;T8</td>
+		<td>&nbsp;26 mm</td>
+	</tr>
+	<tr>
+		<td>&nbsp;T9</td>
+		<td>&nbsp;29 mm</td>
+	</tr>
+	<tr>
+		<td>&nbsp;T10</td>
+		<td>&nbsp;32 mm</td>
+	</tr>
+	<tr>
+		<td>&nbsp;T12</td>
+		<td>&nbsp;38 mm</td>
+	</tr>
+	<tbody>
+</table>

@@ -12,9 +12,11 @@ tags:
   - lampade
   - misure
 ---
-![fluorescenti](https://c1.staticflickr.com/1/430/31570880033_d982ac4076_o.jpg)   
+<p align="center">
+  <img src="https://c1.staticflickr.com/1/430/31570880033_d982ac4076_o.jpg">
+</p>
 
-La differenza sta nella misura del diametro della lampada.
+La differenza sta nella **misura del diametro** della lampada.
 
 Ecco le misure:
 

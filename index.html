@@ -5,6 +5,16 @@ layout: default
 <div class="home">
 
   <div class="posts">
+  
+  {% if post.layout == "link" %}
+      <h2 class="post-title post-title-link">
+        <a href="{{ post.origlink }}">
+          {{ post.title }}
+        </a>
+        <a href="{{ post.url }}" title="permalink: {{ post.title }} di Stefano Marzorati"><i class="fa fa-comments-o icon-commentary"></i></a>
+      </h2>
+    {% else %}
+
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">

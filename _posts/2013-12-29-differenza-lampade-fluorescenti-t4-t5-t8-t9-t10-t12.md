@@ -1,9 +1,7 @@
 ---
-id: 2645
 title: 'Differenza lampade Fluorescenti T4 - T5 - T8 - T9 - T10 - T12'
 author: Stefano Marzorati
 layout: post
-guid: http://marzorati.co/?p=2645
 permalink: /differenza-lampade-fluorescenti-t4-t5-t8-t9-t10-t12/
 categories:
   - Varie

@@ -15,4 +15,4 @@ tags:
   - remoto
 ---
 La lista di tutti i servizi installati sul PC li trovate qua:   
-<code>[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services]</code>   
+<pre><code>[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services]</code></pre>   

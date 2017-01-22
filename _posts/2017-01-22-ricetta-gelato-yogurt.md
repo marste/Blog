@@ -2,7 +2,7 @@
 title: Ricetta gelato allo yogurt
 date: 2017-01-22 13:40:00 +0200
 author: Stefano Marzorati
-published: false
+published: true
 layout: post
 permalink: /ricetta-gelato-yogurt/
 categories:

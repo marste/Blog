@@ -1,6 +1,6 @@
 ---
 title: Ricetta gelato al caffè
-date: 2017-01-22 13:40:00 +0200
+date: 2017-01-22 13:50:00 +0200
 author: Stefano Marzorati
 published: true
 layout: post

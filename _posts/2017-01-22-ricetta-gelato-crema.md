@@ -24,5 +24,5 @@ tags:
   
 **Preparazione:**   
   
-1. Sbattete a lungo i tuorli con lo zucchero, finché appariranno chiari e spumosi.   
-2. Diluite il composto con il latte e con la panna, sbattete nuovamente per amalgamare, montate gli ingredienti e preparate quindi il gelato secondo le istruzioni previste per la vostra macchina.   
+* Sbattete a lungo i tuorli con lo zucchero, finché appariranno chiari e spumosi.   
+* Diluite il composto con il latte e con la panna, sbattete nuovamente per amalgamare, montate gli ingredienti e preparate quindi il gelato secondo le istruzioni previste per la vostra macchina.   

@@ -27,5 +27,5 @@ tags:
   
 **Preparazione:**   
   
-* Sbattete le uova con lo zucchero; unite poco alla volta il cacao e il caffè solubile, quindi, sempre mescolando, diluite con il latte.   
+* Con il frullatore ad immersione frullare le uova e lo zucchero, unire a filo e continuare a frullare il latte, poi unire il cacao e il caffè.   
 * Preparate il gelato secondo le istruzioni previste per la vostra macchina.   

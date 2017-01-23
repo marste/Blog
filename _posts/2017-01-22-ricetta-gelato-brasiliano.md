@@ -19,8 +19,8 @@ tags:
 ---
 **Ingredienti:**   
 
-  - n° 1 cucchiaino di cacao amaro
-  - n° 1 cucchiaio di caffè solubile 
+  - 25 gr di cacao amaro
+  - 20 gr di caffè solubile 
   - 175 gr di zucchero
   - n° 2 uova
   - 300 gr di latte

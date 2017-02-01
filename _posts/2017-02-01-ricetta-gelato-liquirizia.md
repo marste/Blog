@@ -1,6 +1,6 @@
 ---
 title: Ricetta gelato alla liquirizia
-date: 2017-02-01 00:01:00 +0200
+date: 2017-02-01 03:01:00 +0200
 published: true
 author: Stefano Marzorati
 layout: post

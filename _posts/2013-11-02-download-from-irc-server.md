@@ -23,14 +23,14 @@ tags:
 <del>**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** untouchables  
 **List:** <a href="http://untouchableslist.altervista.org/" target="_blank">http://untouchableslist.altervista.org/</a>  
-**Velocità:** +650 KB/S   
+**Velocità:** +650 KB/S   </del>
 
-**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
+<del>**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** multisala  
 **List:** <a href="http://www.multisalachannel.com/" target="_blank">http://www.multisalachannel.com/</a>  
-**Velocità:** 600 KB/S   
+**Velocità:** 600 KB/S   </del>
 
-**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
+<del>**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** puffolandia  
 **List:** <a href="http://www.puffolista.wklm.it/" target="_blank">http://www.puffolista.wklm.it/</a>  
 **Velocità:** 250 KB/S   </del>

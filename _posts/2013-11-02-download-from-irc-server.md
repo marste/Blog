@@ -13,8 +13,6 @@ tags:
   - musica
   - software
 ---
-![irc-irssi](https://smuxi.im/screenshots/smuxi-0.9-linux-stfl-main-window.png)   
-
 **Server:** <a href="irc://irc.rootworld.net" target="_blank">irc.rootworld.net</a>  
 **Channel:** atollo-friends  
 **List:** <a href="http://listaatollo.altervista.org/lista/" target="_blank">http://listaatollo.altervista.org/lista/</a>  
@@ -22,7 +20,7 @@ tags:
 **User:** atollofriends   
 **Password:** l1st44t0ll0   
 
-**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
+<del>**Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** untouchables  
 **List:** <a href="http://untouchableslist.altervista.org/" target="_blank">http://untouchableslist.altervista.org/</a>  
 **Velocità:** +650 KB/S   
@@ -35,4 +33,4 @@ tags:
 **Server:** <a href="irc://irc.oltreirc.net" target="_blank">irc.oltreirc.net</a>  
 **Channel:** puffolandia  
 **List:** <a href="http://www.puffolista.wklm.it/" target="_blank">http://www.puffolista.wklm.it/</a>  
-**Velocità:** 250 KB/S   
+**Velocità:** 250 KB/S   </del>

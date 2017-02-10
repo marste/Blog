@@ -12,7 +12,7 @@ tags:
   - prestazioni
   - powershell/
 ---
-Il comando da digitare in PowerShell come amministratore, è la seguente:   
+Il comando da digitare in PowerShell come amministratore, è il seguente:   
 <code>Get-WmiObject -Class Win32_WinSAT</code>   
 
 L'indice di prestazioni Windows valuta i componenti chiave del sistema, in base ad una **scala da 1,0 a 7,9**   

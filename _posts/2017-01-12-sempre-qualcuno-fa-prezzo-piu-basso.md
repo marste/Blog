@@ -13,5 +13,5 @@ tags:
   - basso
 ---
 <p align="center">
-  <img src="https://c1.staticflickr.com/1/440/31423738874_8944d29f8e_o.jpg">
+  <img src="https://c1.staticflickr.com/1/440/31423738874_c344f4b5c5_o.jpg">
 </p>

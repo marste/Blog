@@ -1,0 +1,20 @@
+---
+title: I marchi di maggior valore al mondo nel 2017
+date: 2017-02-12 21:08:00 +0200
+author: Stefano Marzorati
+layout: post
+permalink: /marchi-maggior-valore-mondo-2017/
+categories:
+  - News
+tags:
+  - brands
+  - maggiore
+  - valore
+  - marchi
+  - mondo
+  - 2017
+  - paesi
+---
+<p align="center">
+  <img src="https://c1.staticflickr.com/3/2393/32022049714_e2c8d61c56_o.jpg">
+</p>

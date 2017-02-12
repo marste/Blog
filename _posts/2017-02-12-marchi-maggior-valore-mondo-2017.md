@@ -1,5 +1,5 @@
 ---
-title: I marchi di maggior valore al mondo nel 2017
+title: "I marchi di maggior valore al mondo nel 2017"
 date: 2017-02-12 21:08:00 +0200
 author: Stefano Marzorati
 layout: post

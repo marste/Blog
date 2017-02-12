@@ -16,5 +16,5 @@ tags:
   - paesi
 ---
 <p align="center">
-  <img src="https://c1.staticflickr.com/3/2393/32022049714_e2c8d61c56_o.jpg">
+  <img src="https://c1.staticflickr.com/3/2393/32022049714_619038e925_o.jpg">
 </p>

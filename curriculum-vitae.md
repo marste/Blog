@@ -5,7 +5,7 @@ permalink: /curriculum-vitae/
 ---
 [05/2015 – Attuale]
 
-**IT Manager – Tempo indeterminato**   
+**IT Manager**   
 
 *<b><a href="http://www.siitgroup.com/" target="_blank">S.I.I.T. S.r.l.</a></b> - Società nata nel 1951 per il confezionamento di farmaci per conto terzi, oggi azienda leader come partner ideale per le aziende che vogliono affidare in outsourcing lo sviluppo e la produzione di specialità medicinali, integratori alimentari.*   
 
@@ -63,7 +63,7 @@ ___
 
 [01/2007 – 05/2015]
 
-**ICT System Administrator – Tempo indeterminato**   
+**ICT System Administrator**   
 
 *<b><a href="http://www.edisport.it/" target="_blank">Edisport Editoriale S.p.A.</a></b> - Casa Editrice nata nel 1914 con la fondazione della rivista "Motociclismo"*   
 
@@ -120,7 +120,7 @@ ___
 
 [12/2004 – 01/2007]
 
-**IT Senior Consultant – Tempo indeterminato**   
+**IT Senior Consultant**   
 
 *<b>IRPE S.p.A.</b> - Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza*   
 
@@ -134,7 +134,7 @@ ___
 
 [02/2004 – 12/2004]
 
-**IT Senior Consultant – Tempo indeterminato**   
+**IT Senior Consultant**   
 
 *<b><a href="http://www.wiit.it/" target="_blank">WIIT S.p.A.</a></b> - Azienda ICT per la fornitura di servizi di outsourcing*   
 
@@ -144,7 +144,7 @@ ___
 
 [04/2000 – 02/2004]
 
-**IT Consultant – Tempo indeterminato**   
+**IT Consultant**   
 
 *<b>TC Sistema S.p.A.</b> - Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza*   
 
@@ -156,7 +156,7 @@ ___
 
 [09/1997 – 04/2000]
 
-**Hardware Engineer – Tempo indeterminato**   
+**Hardware Engineer**   
 
 *<b>TC Sistema S.p.A.</b> - Azienda ICT per la fornitura di servizi di outsourcing, consulenza, progettazione e gestione di architetture, applicazioni e sicurezza*   
 

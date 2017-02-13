@@ -3,8 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
-[05/2015 – Attuale]
-
+[05/2015 – Attuale]   
 # **IT Manager**   
 {: style="text-align: center;"}
 

@@ -6,7 +6,7 @@ permalink: /curriculum-vitae/
 [05/2015 – Attuale]
 
 # **IT Manager**   
-{: style="text-align: center; font-size: 80%;"}
+{: style="text-align: center; font-size: 50%;"}
 
 *<b><a href="http://www.siitgroup.com/" target="_blank">S.I.I.T. S.r.l.</a></b> - Società nata nel 1951 per il confezionamento di farmaci per conto terzi, oggi azienda leader come partner ideale per le aziende che vogliono affidare in outsourcing lo sviluppo e la produzione di specialità medicinali, integratori alimentari.*   
 

@@ -4,6 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 [05/2015 – Attuale]   
+
 # **IT Manager**   
 {: style="text-align: center;"}
 

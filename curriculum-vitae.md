@@ -8,7 +8,6 @@ permalink: /curriculum-vitae/
 # **IT Manager**   
 IT Manager
 {: style="color:blue; font-size: 120%; text-align: center;"}
--> text <-
 
 *<b><a href="http://www.siitgroup.com/" target="_blank">S.I.I.T. S.r.l.</a></b> - Società nata nel 1951 per il confezionamento di farmaci per conto terzi, oggi azienda leader come partner ideale per le aziende che vogliono affidare in outsourcing lo sviluppo e la produzione di specialità medicinali, integratori alimentari.*   
 

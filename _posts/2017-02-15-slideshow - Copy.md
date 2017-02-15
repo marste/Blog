@@ -16,7 +16,7 @@ tags:
   - basso
 ---
 <section data-markdown>
-![foto0](http://wallpaper-gallery.net/images/landscape/landscape-9.jpg)
+![cane](http://wallpaper-gallery.net/images/landscape/landscape-9.jpg)
 </section>
 
 <section data-markdown>

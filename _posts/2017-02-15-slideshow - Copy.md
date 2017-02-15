@@ -16,7 +16,7 @@ tags:
   - basso
 ---
 <section data-markdown>
-# Markdown Demo
+## Markdown Demo
 
     <script type="text/template">
         ![alt text](http://wallpaper-gallery.net/images/landscape/landscape-10.jpg)

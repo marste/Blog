@@ -1,5 +1,5 @@
 ---
-title: Slideshow
+title: Slideshow2
 date: 2017-02-15 11:42:00 +0200
 author: Stefano Marzorati
 layout: slide

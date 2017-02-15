@@ -1,11 +1,11 @@
 ---
-title: Slideshow3
+title: Slideshow Foto
 date: 2017-02-15 11:42:00 +0200
 author: Stefano Marzorati
 layout: slide
 theme: white
 transition: slide
-published: true
+published: false
 permalink: /slideshow/
 categories:
   - Fun
@@ -15,7 +15,7 @@ tags:
   - prezzo
   - basso
 ---
-<section data-background>
+<section data-markdown>
 ![cane](http://www.wsllpaper.com/wp-content/uploads/2014/02/rural-landscape-at-sunset.jpg)
 </section>
 

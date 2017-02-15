@@ -16,11 +16,8 @@ tags:
   - basso
 ---
 <section data-markdown>
-# Markdown Demo
-
-<section data-markdown>
     <script type="text/template">
-        ![alt text](https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg)
+        ![alt text](http://wallpaper-gallery.net/images/landscape/landscape-10.jpg)
     </script>
 </section>
 

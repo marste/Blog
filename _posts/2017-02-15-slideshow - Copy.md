@@ -15,7 +15,7 @@ tags:
   - prezzo
   - basso
 ---
-<section data-markdown>
+<section data-background>
 ![cane](http://www.wsllpaper.com/wp-content/uploads/2014/02/rural-landscape-at-sunset.jpg)
 </section>
 

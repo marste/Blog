@@ -17,9 +17,9 @@ tags:
 ---
 <section data-markdown>
 # Markdown Demo
-<p align="center">
-  <img src="https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg">
-</p>
+
+<img data-src="https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg">
+
 
 </section>
 

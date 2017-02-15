@@ -5,7 +5,7 @@ author: Stefano Marzorati
 layout: slide
 theme: black
 transition: slide
-published: false
+published: true
 permalink: /slideshow/
 categories:
   - Fun
@@ -16,11 +16,11 @@ tags:
   - basso
 ---
 <section data-markdown>
-# How to use reveal.js in Jekyll
 
-by [Luu Gia Thuy](http://luugiathuy.com) / [@luugiathuy](http://twitter.com/luugiathuy)
+<p align="center">
+  <img src="https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg">
+</p>
 
-April 6, 2015
 </section>
 
 <section data-markdown>

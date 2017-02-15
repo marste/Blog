@@ -16,11 +16,11 @@ tags:
   - basso
 ---
 <section data-markdown>
-## Esempio 1
+![foto0](http://wallpaper-gallery.net/images/landscape/landscape-9.jpg)
 </section>
 
 <section data-markdown>
-![foto](http://i.imgur.com/v8IVDka.jpg)
+![foto](http://onfocusproduction.com/wp-content/uploads/2016/08/1135940-pictures-of-landscape-hd.jpg)
 </section>
 
 <section data-markdown>

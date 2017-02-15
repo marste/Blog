@@ -16,6 +16,8 @@ tags:
   - basso
 ---
 <section data-markdown>
+# Markdown Demo
+
     <script type="text/template">
         ![alt text](http://wallpaper-gallery.net/images/landscape/landscape-10.jpg)
     </script>
@@ -23,7 +25,6 @@ tags:
 
 
 <section data-markdown>
-<a href="#" class="navigate-down">
 ## Overview
 
 [reveal.js](https://github.com/hakimel/reveal.js/) enables you to create

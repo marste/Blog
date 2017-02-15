@@ -16,36 +16,15 @@ tags:
   - basso
 ---
 <section data-markdown>
-## Markdown Demo
-
-    <script type="text/template">
-        ![alt text](http://wallpaper-gallery.net/images/landscape/landscape-10.jpg)
-    </script>
-</section>
-
-
-<section data-markdown>
-## Overview
-
-[reveal.js](https://github.com/hakimel/reveal.js/) enables you to create
-beautiful interactive slide decks using HTML. This presentation will show you
-how to integrate it with [Jekyll](http://jekyllrb.com/)
+## Esempio 1
 </section>
 
 <section data-markdown>
-## reveal.js
+## Esempio 2
+</section>
 
-Clone reveal.js to your site's root folder:
-
-```
-git clone https://github.com/hakimel/reveal.js.git
-```
-
-Or, add it as your site's submodule:
-
-```
-git submodule add https://github.com/hakimel/reveal.js.git
-```
+<section data-markdown>
+## Esempio 3
 </section>
 
 <section data-markdown>

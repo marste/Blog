@@ -3,7 +3,7 @@ title: Slideshow3
 date: 2017-02-15 11:42:00 +0200
 author: Stefano Marzorati
 layout: slide
-theme: black
+theme: white
 transition: slide
 published: true
 permalink: /slideshow/

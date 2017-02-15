@@ -18,10 +18,12 @@ tags:
 <section data-markdown>
 # Markdown Demo
 
-<img data-src="https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg">
-
-
+<section data-markdown>
+    <script type="text/template">
+        ![alt text](https://digital-photography-school.com/wp-content/uploads/flickr/2746960560_8711acfc60_o.jpg)
+    </script>
 </section>
+
 
 <section data-markdown>
 ## Overview

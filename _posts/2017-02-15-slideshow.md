@@ -21,4 +21,3 @@ tags:
 beautiful interactive slide decks using HTML. This presentation will show you
 how to integrate it with [Jekyll](http://jekyllrb.com/)
 </section>
-

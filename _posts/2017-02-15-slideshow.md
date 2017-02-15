@@ -5,7 +5,7 @@ author: Stefano Marzorati
 layout: slide
 theme: black
 transition: slide
-published: false
+published: true
 permalink: /slideshow/
 categories:
   - Fun
@@ -91,5 +91,7 @@ how to integrate it with [Jekyll](http://jekyllrb.com/)
 </section>
 
 <section data-markdown>
+<a class=”down” href=”#”>&#x25BC;</a>
 # THE END
+
 </section>

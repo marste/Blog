@@ -21,6 +21,7 @@ tags:
 
 <section data-markdown>
 # Esempio 2
+![foto](http://i.imgur.com/v8IVDka.jpg)
 </section>
 
 <section data-markdown>

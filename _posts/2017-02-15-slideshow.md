@@ -91,7 +91,7 @@ how to integrate it with [Jekyll](http://jekyllrb.com/)
 </section>
 
 <section data-markdown>
-<a class=”down” href=”#”>&#x25BC;</a>
-# THE END
+
+## THE END
 
 </section>

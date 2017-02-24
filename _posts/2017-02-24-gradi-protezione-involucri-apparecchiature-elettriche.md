@@ -1,5 +1,5 @@
 ---
-title: I gradi di protezione degli involucri per apparecchiature elettriche: IP44, IP65, IP67, etc...
+title: I gradi di protezione degli involucri per apparecchiature elettriche IP44, IP65, IP67, etc...
 date: 2017-02-24 17:15:00 +0200
 author: Stefano Marzorati
 published: true

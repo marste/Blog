@@ -10,7 +10,7 @@ tags:
   - windows10
   - indice
   - prestazioni
-  - powershell/
+  - powershell
 ---
 Il comando da digitare in PowerShell come amministratore, è il seguente:   
 <code>Get-WmiObject -Class Win32_WinSAT</code>   

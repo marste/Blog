@@ -1,9 +1,9 @@
 ---
-title: Slideshow
+title: Slideshow Foto
 date: 2017-02-15 11:42:00 +0200
 author: Stefano Marzorati
 layout: slide
-theme: black
+theme: white
 transition: slide
 published: false
 permalink: /slideshow/
@@ -16,35 +16,15 @@ tags:
   - basso
 ---
 <section data-markdown>
-# How to use reveal.js in Jekyll
-
-by [Luu Gia Thuy](http://luugiathuy.com) / [@luugiathuy](http://twitter.com/luugiathuy)
-
-April 6, 2015
+![cane](http://www.wsllpaper.com/wp-content/uploads/2014/02/rural-landscape-at-sunset.jpg)
 </section>
 
 <section data-markdown>
-## Overview
-
-[reveal.js](https://github.com/hakimel/reveal.js/) enables you to create
-beautiful interactive slide decks using HTML. This presentation will show you
-how to integrate it with [Jekyll](http://jekyllrb.com/)
+![foto](http://onfocusproduction.com/wp-content/uploads/2016/08/1135940-pictures-of-landscape-hd.jpg)
 </section>
 
 <section data-markdown>
-## reveal.js
-
-Clone reveal.js to your site's root folder:
-
-```
-git clone https://github.com/hakimel/reveal.js.git
-```
-
-Or, add it as your site's submodule:
-
-```
-git submodule add https://github.com/hakimel/reveal.js.git
-```
+![fdfdsf](https://digital-photography-school.com/wp-content/uploads/flickr/205125227_3f160763a0_o.jpg)
 </section>
 
 <section data-markdown>
@@ -92,10 +72,6 @@ how to integrate it with [Jekyll](http://jekyllrb.com/)
 
 <section data-markdown>
 
-<<<<<<< HEAD
-## THE END
-=======
 # THE END
->>>>>>> 0eebdfaad9117c4c3836beaa06705a2496f37480
 
 </section>

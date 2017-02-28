@@ -25,9 +25,9 @@ Se volete provare lo script senza far cancellazioni di files, potete digitare il
 <code>Forfiles /p C:\MG12Backup /s /m *.bak /d -5 /c "Cmd /C Echo 0x22@Path\@File0x22"</code>
 
 Con alcuni comandi esplicati:   
-**p** = path
-**s** = cerca anche nelle subdirectory del path principale
-**m** = file con criteri (mark) specificati
-**d** = ultima modifica più vecchia di (giorni)
+**p** = path   
+**s** = cerca anche nelle subdirectory del path principale   
+**m** = file con criteri (mark) specificati   
+**d** = ultima modifica più vecchia di (giorni)   
 **c** = esegui il comando   
 <BR>

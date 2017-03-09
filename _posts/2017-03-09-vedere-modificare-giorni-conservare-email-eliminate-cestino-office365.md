@@ -32,12 +32,12 @@ tags:
 
 **Avrete un risultato simile:**   
 
-> |                              Name                             | RetainDeletedItemsFor |
-> |:-------------------------------------------------------------:|:---------------------:|
-> |  ExchangeOnlineDeskless-c0efa76b-66f6-479e-963c-3e30a808e010  |      14.00:00:00      |
-> |      ExchangeOnline-2ac40b2e-678a6-4484-a387-b3956b787eee     |      14.00:00:00      |
-> | ExchangeOnlineEnterprise-bdc01d94-3892-4936-b107-8a0509fae1fd |      14.00:00:00      |
-> | ExchangeOnlineEssentials-a5fef2a5-49d0-562f-9688-ca797def08ec |      14.00:00:00      |
+|                              Name                             | RetainDeletedItemsFor |
+|:-------------------------------------------------------------:|:---------------------:|
+|  ExchangeOnlineDeskless-c0efa76b-66f6-479e-963c-3e30a808e010  |      14.00:00:00      |
+|      ExchangeOnline-2ac40b2e-678a6-4484-a387-b3956b787eee     |      14.00:00:00      |
+| ExchangeOnlineEnterprise-bdc01d94-3892-4936-b107-8a0509fae1fd |      14.00:00:00      |
+| ExchangeOnlineEssentials-a5fef2a5-49d0-562f-9688-ca797def08ec |      14.00:00:00      |
 
 
 **Per modificare il valore dei giorni, ad esempio 30 giorni:**   

@@ -17,7 +17,7 @@ tags:
 ---
 Se vi trovate un PC con il disco pieno e avete scoperto che son stati creati migliaia di files giganti in <code>C:\Windows\Temp</code>, fai così:   
 
-- Stoppa il servizio di Windows Update   
+- Stoppa il servizio di "**Windows Update**"   
 
 Se è un PC remoto, digita il seguente comando:   
 <code>psexec -s -d \\Nome_PC net stop "Windows Update"</code>   

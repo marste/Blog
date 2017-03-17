@@ -20,7 +20,6 @@ Se vi trovate un PC con il disco pieno e avete scoperto che son stati creati mig
 - Stoppa il servizio di Windows Update   
 
 Se è un PC remoto, digita il seguente comando:   
-
 <code>psexec -s -d \\Nome_PC net stop "Windows Update"</code>   
 
 - Elimina i files contenuti nella directory <code>C:\Windows\Temp</code>   
@@ -30,7 +29,6 @@ Se è un PC remoto, digita il seguente comando:
 - Avvia il servizio di Windows Update   
 
 Se è un PC remoto, digita il seguente comando:   
-
 <code>psexec -s -d \\Nome_PC net start "Windows Update"</code>   
 
 - Elimina la vecchia directory "**SoftwareDistribution**"   
@@ -38,7 +36,6 @@ Se è un PC remoto, digita il seguente comando:
 - Stoppa il servizio "**TrustedInstaller**"   
 
 Se è un PC remoto, digita il seguente comando:   
-
 <code>psexec -s -d \\Nome_PC net stop "TrustedInstaller"</code>   
 
 - Elimina i files CAB dalla directory <code>C:\Windows\Logs\CBS</code>   
@@ -46,5 +43,4 @@ Se è un PC remoto, digita il seguente comando:
 - Avvia il servizio "**TrustedInstaller**"   
 
 Se è un PC remoto, digita il seguente comando:   
-
 <code>psexec -s -d \\Nome_PC net start "TrustedInstaller"</code>   

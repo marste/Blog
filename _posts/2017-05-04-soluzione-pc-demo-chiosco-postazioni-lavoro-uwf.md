@@ -47,4 +47,11 @@ Dopo aver finito di configurare il sistema, si deve attivare il filtro con il co
 Dopo il riavvio, il disco c e lo stato del sistema verranno ripristinati sempre a questo punto.   
 Per eseguire delle modifiche al sistema sarà necessario disattivare il filtro con il seguente comando:   
 
-<code>uwfmgr.exe filter disable</code>
+<code>uwfmgr.exe filter disable</code>   
+
+**N.B.**   
+Non c’è alcun modo di mantenere gli aggiornamenti Microsoft mentre la protezione è attiva. È possibile tramite policy locali disattivare i download e far sì che l’utente amministratore venga avvertito quando ci sono aggiornamenti disponibili.   
+
+Quando ci saranno aggiornamenti disponibili potranno essere installati tramite il comando: <code>**uwfmgr.exe servicing enable**</code>   
+Riavviare il sistema per iniziare l’installazione degli aggiornamenti. Arrivati alla schermata di login, vedrete la presenza dell’utente UWF-Servicing.   
+Attendete che abbia finito.

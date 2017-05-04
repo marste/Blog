@@ -52,6 +52,6 @@ Per eseguire delle modifiche al sistema sarà necessario disattivare il filtro c
 **N.B.**   
 Non c’è alcun modo di mantenere gli aggiornamenti Microsoft mentre la protezione è attiva. È possibile tramite policy locali disattivare i download e far sì che l’utente amministratore venga avvertito quando ci sono aggiornamenti disponibili.   
 
-Quando ci saranno aggiornamenti disponibili potranno essere installati tramite il comando: <code>**uwfmgr.exe servicing enable**</code>   
+Quando ci saranno aggiornamenti disponibili potranno essere installati tramite il comando: <code>uwfmgr.exe servicing enable</code>   
 Riavviare il sistema per iniziare l’installazione degli aggiornamenti. Arrivati alla schermata di login, vedrete la presenza dell’utente UWF-Servicing.   
 Attendete che abbia finito.

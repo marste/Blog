@@ -31,9 +31,9 @@ Esempio per files PNG:
 
 Se avete molti files da ottimizzare, potete creare un semplice batch:   
 
-<code>@echo off   
-echo Optimizing JPEG ^& PNG Images...   
-forfiles /s /m *.jpg /c "cmd /c @\"C:\Batch\jpegtran.exe\" -copy none -optimize -progressive -outfile @file @file"   
-forfiles /s /m *.png /c "cmd /c @\"C:\Batch\optipng.exe\" -o7 -strip all @file"   
-echo. & echo Process done!   
-pause</code>
+<code>@echo off</code>
+<code>echo Optimizing JPEG ^& PNG Images...</code>
+<code>forfiles /s /m *.jpg /c "cmd /c @\"C:\Batch\jpegtran.exe\" -copy none -optimize -progressive -outfile @file @file"</code>
+<code>forfiles /s /m *.png /c "cmd /c @\"C:\Batch\optipng.exe\" -o7 -strip all @file"</code>
+<code>echo. & echo Process done!</code>
+<code>pause</code>

@@ -23,3 +23,7 @@ Clicca sull'immagine per andare al sito:
 <p align="center">
   <a href="http://gea.dsl.vodafone.it/all" target="_blank"><img src="https://c7.staticflickr.com/9/8424/29033433830_a9c816847e_z.jpg"></a>
 </p>   
+
+Per informazioni più complete:   
+
+<a href="http://gea.dsl.vodafone.it/agenzie" target="_blank">Gea DSL Vodafone Agenzie</a>   

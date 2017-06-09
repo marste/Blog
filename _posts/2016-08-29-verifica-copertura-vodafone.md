@@ -27,3 +27,5 @@ Clicca sull'immagine per andare al sito:
 Per informazioni più complete:   
 
 <a href="http://gea.dsl.vodafone.it/agenzie" target="_blank">Gea DSL Vodafone Agenzie</a>   
+
+Una rete **VULA** è in parte o del tutto una linea Telecom rivenduta dal ISP che ve la propone.

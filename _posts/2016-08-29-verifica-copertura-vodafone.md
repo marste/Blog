@@ -1,6 +1,6 @@
 ---
 title: Verifica Copertura Vodafone Linea Fissa
-date: 2016-08-29 21:00:00 +0200
+date: 2017-06-14 11:00:00 +0200
 author: Stefano Marzorati
 layout: post
 permalink: /copertura-linea-fissa-vodafone/

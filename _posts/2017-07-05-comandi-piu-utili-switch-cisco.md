@@ -16,13 +16,13 @@ tags:
   - access
   - trunk
 ---
-**Verifica Porta collegata Cisco:**   
+**Verifica su quale porta è collegato un certo pc o device:**   
 ping *ipaddress*   
 show ip arp *ipaddress*   
 show mac address-table address *mac-address*   
 
 
-**Per cambiare VLAN su Cisco:**   
+**Per assegnare una VLAN su una determinata porta:**   
 conf t   
 interface gig1/0/x   
 switchport access vlan 50   

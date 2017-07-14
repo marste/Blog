@@ -49,3 +49,7 @@ tags:
 
 **Per vedere quali porte sono in trunk e su quali VLAN:**   
 <code>show interfaces trunk</code>   
+
+
+**Per vedere lo stato di tutte le porte e la loro descrizione:**   
+<code>show interfaces description</code>   

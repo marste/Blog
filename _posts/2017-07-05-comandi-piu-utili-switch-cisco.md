@@ -53,3 +53,20 @@ tags:
 
 **Per vedere lo stato di tutte le porte e la loro descrizione:**   
 <code>show interfaces description</code>   
+
+
+**Per poter configurare una porta a cui sarà collegato uno switch bisogna fare quanto segue:**   
+<code>conf t</code>   
+<code>interface gig1/0/<numero porta></code>   
+<code>switchport mode trunk</code>   
+<code>no spanning-tree portfast</code>   
+<code>shutdown</code>   
+<code>no shutdown</code>   
+
+
+**Mentre per configurare una porta dove ci sarà collegato un pc più telefono il commando è quello che segue:**   
+<code>conf t</code>   
+<code>interface GigabitEthernet1/0/<numero porta></code>   
+<code>description *** PC + Voice VLAN ***</code>   
+<code>switchport trunk allowed vlan 100</code>   
+<code>switchport mode trunk</code>   

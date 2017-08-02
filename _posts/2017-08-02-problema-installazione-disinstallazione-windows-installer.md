@@ -20,4 +20,4 @@ Se non riuscite a installare o disinstallare un programma e avete un messaggio d
 
 Provate questa funzionalità di Windows che correggerà eventuali errori:   
 
-<a href="https://support.microsoft.com/it-it/help/17588/fix-problems-that-block-programs-from-being-installed-or-removed?ln=it" target="_blank">https://support.microsoft.com/it-it/help/17588/fix-problems-that-block-programs-from-being-installed-or-removed?ln=it</a>   
+<a href="http://aka.ms/Program_Install_and_Uninstall" target="_blank">http://aka.ms/Program_Install_and_Uninstall</a>   

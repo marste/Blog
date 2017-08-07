@@ -40,7 +40,7 @@ tags:
 **Giallo 2G.** Colorante azoico. Dove si trova: bibite, cordiali, zuppe pronte, maionese. Effetti: E107 è implicato nella comparsa di allergie, iperacidità ed asma. L'uso è limitato ed il colore potrebbe essere in futuro vietato. **VIETATO**   
 
 **E110**   
-**Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.** Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
+**Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.**Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
 
 **E111**
 **Arancio GGN. Vietato** dal 1977.
@@ -55,22 +55,22 @@ tags:
 **Azorubina (Carmoisina).** Azocolorante sintetico. Dove si trova: sciroppi, bibite, gelati, bevande, marzapane e gelatine. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO** *Colorante non adatto ai bambini*   
 
 **E123**   
-**Amaranto. **Potenzialmente cancerogeno. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO**. Vietato negli USA dal 1976 *Colorante non adatto ai bambini*   
+**Amaranto.** Potenzialmente cancerogeno. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO**. Vietato negli USA dal 1976 *Colorante non adatto ai bambini*   
 
 **E124**   
-**Rosso cocciniglia A **(Ponceau 4 R). Sconsigliato ai bambini; può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico ("aspirina") e per i soggetti asmatici. Dove si trova: caramelle, paste, biscotti, sciroppi, bibite, dolci, gelati, ghiaccioli, marzapane e gelatine. **AMMESSO**. **VIETATO** in alcuni paesi *Colorante non adatto ai bambini*   
+**Rosso cocciniglia A**(Ponceau 4 R). Sconsigliato ai bambini; può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico ("aspirina") e per i soggetti asmatici. Dove si trova: caramelle, paste, biscotti, sciroppi, bibite, dolci, gelati, ghiaccioli, marzapane e gelatine. **AMMESSO**. **VIETATO** in alcuni paesi *Colorante non adatto ai bambini*   
 
 **E125**   
-**Scarlatto GN. ****VIETATO** dal 1977   
+**Scarlatto GN.** **VIETATO** dal 1977   
 
 **E126**   
-**Ponceau 6R.**** VIETATO** dal 1977   
+**Ponceau 6R.** **VIETATO** dal 1977   
 
 **E127**   
 **Eritrosina.** Dove si trova: caramelle, frutta sciroppata, gelati, ghiaccioli, biscotti, ciliegie candite, fragole. Vietato negli Usa per gli alimenti. Sconsigliato ai bambini; può incrementare i livelli dell'ormone tiroidale e portare all'ipertiroidismo; può causare ipersensibilità alla luce. **AMMESSO**. **VIETATO **negli USA. *Colorante non adatto ai bambini*   
 
 **E128**   
-**Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea.** VIETATO**   
+**Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea. **VIETATO**   
 
 **E129**   
 **Rosso allura AC.** Allergenico in condizioni di allergie e irritazione alla pelle.   
@@ -87,20 +87,21 @@ tags:
 **Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*
 
 **E140**
-**Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.
+**Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.   
+
 **E141**
-**Complessi rameici delle clorofille. **Dove si trova: gelati e dolci. Nessun effetto nocivo noto.
+**Complessi rameici delle clorofille.** Dove si trova: gelati e dolci. Nessun effetto nocivo noto.
 **E142**
 **Verde acido brillante S.** Colorante sintetico. Effetti nocivi: nessuno noto.
 
 **E150 - E150b - E150c - E150d**   
-**Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale. **Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*   
+**Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale.** Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*   
 
 **E151**   
 **Nero Brillante BN.** Sconsigliato ai bambini. Può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico (la comune "aspirina") e per i soggetti asmatici. Dove si trova: caramelle, creme, gelati, ghiaccioli. **TOSSICO** *Colorante non adatto ai bambini*   
 
 **E152**   
-Nero 7984.** VIETATO** dal 1977   
+Nero 7984. **VIETATO** dal 1977   
 
 **E153**   
 **Carbone medicinale vegetale.** Origine naturale, dalla combustione dei vegetali. Effetti nocivi: sospettato di essere coinvolto nell’insorgenza del cancro.
@@ -125,15 +126,15 @@ Nero 7984.** VIETATO** dal 1977
 **Licopina.** Estratto naturale dei pomodori. Colorante rosso.   
 
 **E160e**   
-**Beta-apo-8′-carotenale. **Nessun effetto nocivo noto   
+**Beta-apo-8′-carotenale.** Nessun effetto nocivo noto   
 
 **E160f**   
 **Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto   
 
 **E161**   
-**Xantofilla. **Nessun effetto nocivo noto   
+**Xantofilla.** Nessun effetto nocivo noto   
 
-**E161a **   
+**E161a**   
 **Flavoxantina.** Pigmento appartenente al gruppo dei carotenoidi. Colorante giallo. Nessun effetto nocivo noto   
 
 **E161b**   
@@ -146,7 +147,7 @@ Nero 7984.** VIETATO** dal 1977
 **Rubixantina.** Presente nei falsi frutti delle rosa. Colorante giallo. Nessun effetto nocivo noto   
 
 **E161e**   
-**Violoxantina. **Estratto naturale isolato dalle viole del pensiero. Colorante giallo. Nessun effetto nocivo noto   
+**Violoxantina.** Estratto naturale isolato dalle viole del pensiero. Colorante giallo. Nessun effetto nocivo noto   
 
 **E161f**   
 **Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto   

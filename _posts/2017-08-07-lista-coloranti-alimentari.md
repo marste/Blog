@@ -40,11 +40,11 @@ tags:
 **Giallo 2G.** Colorante azoico. Dove si trova: bibite, cordiali, zuppe pronte, maionese. Effetti: E107 è implicato nella comparsa di allergie, iperacidità ed asma. L'uso è limitato ed il colore potrebbe essere in futuro vietato. **VIETATO**   
 
 **E110**   
-**Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.** Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*
-<h2>Colore arancione. E111</h2>
+**Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.** Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
+
 **E111**
 **Arancio GGN.** **Vietato** dal 1977.
-<h2>Colore rosso. Da E120 a E129</h2>
+
 **E120**
 **Cocciniglia** (acido carminico, vari tipi di carminio). Colorante naturale rosso del tuorlo dell’uovo e anche ottenuto dall'estrazione dei corpi essiccati delle femmine di coccinella americana che contiene fino a 10% di acido carminico, il principale colorante di molti aperitivi. Altri insetti utilizzati sono Porphyrophyra hamelis, Kermes ilicis, Margaroides polonia e Laccifera lacco. Sconsigliato ai bambini in genere, soprattutto asmatici e allergici! Dove si trova: prodotti farmaceutici, sciroppo e pastiglie, caramelle, gelatine, salumi stagionati, prodotti da arrosto. **AMMESSO** in Europa *Colorante non adatto ai bambini*
 **E121**
@@ -65,7 +65,7 @@ tags:
 **Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea.** VIETATO**
 **E129**
 **Rosso allura AC.** Allergenico in condizioni di allergie e irritazione alla pelle.
-<h2>Colore blu e violetto. Da E130 a E139</h2>
+
 **E130**
 **Blu antrachinone**, blu d'indantrene R. **VIETATO** dal 1977
 **E131**
@@ -74,14 +74,14 @@ tags:
 **Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*
 **E133**
 **Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*
-<h2>Colore verde. Da E140 a E149</h2>
+
 **E140**
 **Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.
 **E141**
 **Complessi rameici delle clorofille. **Dove si trova: gelati e dolci. Nessun effetto nocivo noto.
 **E142**
 **Verde acido brillante S.** Colorante sintetico. Effetti nocivi: nessuno noto.
-<h2>Colore da marrone a nero. Da E150 a E160</h2>
+
 **E150 - E150b - E150c - E150d**
 **Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale. **Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*
 **E151**
@@ -95,7 +95,7 @@ Nero 7984.** VIETATO** dal 1977
 **Marrone FK.** **VIETATO**
 **E155**
 **Marrone cioccolato HT, Bruno ht**. Secondo alcuni studi, dannoso ai bambini. **VIETATO**
-<h2>Altri colori. Da E160 a E199</h2>
+
 **E160a**
 **Alfa, Beta, Gamma-carotene.** Estratti dai pigmenti vegetali di carote, pomodori, verdure con foglie verdi, albicocche, arance e frutti delle delle rose. Colorante giallo-arancione; nell’organismo diventa vitamina A. Effetti nocivi: nessuno noto. Nessun effetto nocivo noto.
 **E160b**
@@ -140,9 +140,6 @@ Nero 7984.** VIETATO** dal 1977
 **Petunidina.**
 **E163f**
 **Malvidina.**
-<p style="box-sizing: border-box; margin: 0em 0px 0px; padding-top: 0em; padding-bottom: 0em; color: rgb(35, 35, 35); font-family: 'Open Sans',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">**Da E163 a E163: **presenti nel succo cellulare di molti fiori, frutti, gambi, foglie. Coloranti rossi, blu, violetti.
- 
-<h2>Colorazione esterna. Da E170 a E181</h2>
 **E170**
 **Carbonato di calcio.** Sostanza minerale molto diffusa. Colorante superficiale, agente addensante, agente lubrificante.
 **E171**

@@ -43,33 +43,44 @@ tags:
 **Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.** Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
 
 **E111**
-**Arancio GGN.** **Vietato** dal 1977.
+**Arancio GGN. Vietato** dal 1977.
 
-**E120**
-**Cocciniglia** (acido carminico, vari tipi di carminio). Colorante naturale rosso del tuorlo dell’uovo e anche ottenuto dall'estrazione dei corpi essiccati delle femmine di coccinella americana che contiene fino a 10% di acido carminico, il principale colorante di molti aperitivi. Altri insetti utilizzati sono Porphyrophyra hamelis, Kermes ilicis, Margaroides polonia e Laccifera lacco. Sconsigliato ai bambini in genere, soprattutto asmatici e allergici! Dove si trova: prodotti farmaceutici, sciroppo e pastiglie, caramelle, gelatine, salumi stagionati, prodotti da arrosto. **AMMESSO** in Europa *Colorante non adatto ai bambini*
-**E121**
-**Orceina, oricello. **Dove si trova: marzapane e gelatine. **VIETATO** dal 1977
-**E122**
-**Azorubina (Carmoisina).** Azocolorante sintetico. Dove si trova: sciroppi, bibite, gelati, bevande, marzapane e gelatine. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO** *Colorante non adatto ai bambini*
-**E123**
-**Amaranto. **Potenzialmente cancerogeno. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO**. Vietato negli USA dal 1976 *Colorante non adatto ai bambini*
-**E124**
-**Rosso cocciniglia A **(Ponceau 4 R). Sconsigliato ai bambini; può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico ("aspirina") e per i soggetti asmatici. Dove si trova: caramelle, paste, biscotti, sciroppi, bibite, dolci, gelati, ghiaccioli, marzapane e gelatine. **AMMESSO**. **VIETATO** in alcuni paesi *Colorante non adatto ai bambini*
-**E125**
-**Scarlatto GN. ****VIETATO** dal 1977
-**E126**
-**Ponceau 6R.**** VIETATO** dal 1977
-**E127**
-**Eritrosina.** Dove si trova: caramelle, frutta sciroppata, gelati, ghiaccioli, biscotti, ciliegie candite, fragole. Vietato negli Usa per gli alimenti. Sconsigliato ai bambini; può incrementare i livelli dell'ormone tiroidale e portare all'ipertiroidismo; può causare ipersensibilità alla luce. **AMMESSO**. **VIETATO **negli USA. *Colorante non adatto ai bambini*
-**E128**
-**Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea.** VIETATO**
-**E129**
-**Rosso allura AC.** Allergenico in condizioni di allergie e irritazione alla pelle.
+**E120**   
+**Cocciniglia** (acido carminico, vari tipi di carminio). Colorante naturale rosso del tuorlo dell’uovo e anche ottenuto dall'estrazione dei corpi essiccati delle femmine di coccinella americana che contiene fino a 10% di acido carminico, il principale colorante di molti aperitivi. Altri insetti utilizzati sono Porphyrophyra hamelis, Kermes ilicis, Margaroides polonia e Laccifera lacco. Sconsigliato ai bambini in genere, soprattutto asmatici e allergici! Dove si trova: prodotti farmaceutici, sciroppo e pastiglie, caramelle, gelatine, salumi stagionati, prodotti da arrosto. **AMMESSO** in Europa *Colorante non adatto ai bambini*   
 
-**E130**
-**Blu antrachinone**, blu d'indantrene R. **VIETATO** dal 1977
-**E131**
-**Blu patent V.** Colorante sintetico. Effetti nocivi: sensibilità della pelle, prurito ed orticaria; raramente choc e problemi respiratori, nausea, ipotensione e tremore. **AMMESSO**. **VIETATO** in AUSTRALIA *Colorante non adatto ai bambini*
+**E121**   
+**Orceina, oricello.** Dove si trova: marzapane e gelatine. **VIETATO** dal 1977   
+
+**E122**   
+**Azorubina (Carmoisina).** Azocolorante sintetico. Dove si trova: sciroppi, bibite, gelati, bevande, marzapane e gelatine. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO** *Colorante non adatto ai bambini*   
+
+**E123**   
+**Amaranto. **Potenzialmente cancerogeno. Controindicato per chi è allergico all'aspirina e per gli asmatici. Può provocare eruzioni cutanee. **AMMESSO**. Vietato negli USA dal 1976 *Colorante non adatto ai bambini*   
+
+**E124**   
+**Rosso cocciniglia A **(Ponceau 4 R). Sconsigliato ai bambini; può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico ("aspirina") e per i soggetti asmatici. Dove si trova: caramelle, paste, biscotti, sciroppi, bibite, dolci, gelati, ghiaccioli, marzapane e gelatine. **AMMESSO**. **VIETATO** in alcuni paesi *Colorante non adatto ai bambini*   
+
+**E125**   
+**Scarlatto GN. ****VIETATO** dal 1977   
+
+**E126**   
+**Ponceau 6R.**** VIETATO** dal 1977   
+
+**E127**   
+**Eritrosina.** Dove si trova: caramelle, frutta sciroppata, gelati, ghiaccioli, biscotti, ciliegie candite, fragole. Vietato negli Usa per gli alimenti. Sconsigliato ai bambini; può incrementare i livelli dell'ormone tiroidale e portare all'ipertiroidismo; può causare ipersensibilità alla luce. **AMMESSO**. **VIETATO **negli USA. *Colorante non adatto ai bambini*   
+
+**E128**   
+**Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea.** VIETATO**   
+
+**E129**   
+**Rosso allura AC.** Allergenico in condizioni di allergie e irritazione alla pelle.   
+
+**E130**   
+**Blu antrachinone**, blu d'indantrene R. **VIETATO** dal 1977   
+
+**E131**   
+**Blu patent V.** Colorante sintetico. Effetti nocivi: sensibilità della pelle, prurito ed orticaria; raramente choc e problemi respiratori, nausea, ipotensione e tremore. **AMMESSO**. **VIETATO** in AUSTRALIA *Colorante non adatto ai bambini*   
+
 **E132**
 **Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*
 **E133**

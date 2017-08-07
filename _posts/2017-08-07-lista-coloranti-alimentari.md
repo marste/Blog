@@ -67,7 +67,7 @@ tags:
 **Ponceau 6R.** **VIETATO** dal 1977   
 
 **E127**   
-**Eritrosina.** Dove si trova: caramelle, frutta sciroppata, gelati, ghiaccioli, biscotti, ciliegie candite, fragole. Vietato negli Usa per gli alimenti. Sconsigliato ai bambini; può incrementare i livelli dell'ormone tiroidale e portare all'ipertiroidismo; può causare ipersensibilità alla luce. **AMMESSO**. **VIETATO **negli USA. *Colorante non adatto ai bambini*   
+**Eritrosina.** Dove si trova: caramelle, frutta sciroppata, gelati, ghiaccioli, biscotti, ciliegie candite, fragole. Vietato negli Usa per gli alimenti. Sconsigliato ai bambini; può incrementare i livelli dell'ormone tiroidale e portare all'ipertiroidismo; può causare ipersensibilità alla luce. **AMMESSO**. **VIETATO** negli USA. *Colorante non adatto ai bambini*   
 
 **E128**   
 **Rosso 2G.** Può essere cancerogeno, secondo la valutazione effettuata dall'Efsa sugli additivi alimentari, e trasmessa alla Commissione Europea. **VIETATO**   

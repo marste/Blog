@@ -25,7 +25,7 @@ tags:
 **Tartrazina**. Azocolorante sintetico. Può causare: eruzioni cutanee, raffreddore, problemi di respirazione, visione offuscata, gonfiori, insonnia nei bambini, controindicato per chi è allergico all'acido acetilsalicilico (la comune "aspirina") e per i soggetti asmatici. Dove la si trova: nelle bevande gassate, nelle caramelle alla frutta, nei budini, nelle minestre confezionate, nei gelati, nei chewing gum, nel marzapane, nelle marmellate, nelle gelatine, nella mostarda, nello yogurt e in molti altri alimenti assieme alla glicerina, limone e miele. La si può persino trovare negli involucri delle capsule dei medicinali.**VIETATO in Svizzera - AMMESSO** in Europa. *Colorante non adatto ai bambini*   
 
 **E103**   
-**Crisoina resorcinolo. Vietato dal 1977. **Non ammesso nell'Unione Europea. **VIETATO**. *Colorante non adatto ai bambini*   
+**Crisoina resorcinolo.** Vietato dal 1977. **Non ammesso nell'Unione Europea. VIETATO**. *Colorante non adatto ai bambini*   
 
 **E104**   
 **Giallo di chinolina.** Colorante sintetico di catrame di carbon fossile. Dove lo si trova: caramelle, bibite, liquori, gelati, uova, e nel merluzzo affumicato. Proibito in Australia. È stato riconosciuto che ha l'effetto di stimolare la produzione di istamina e può avere effetto sulla retina e sul fegato, per questo è proibito in molti paesi. Il suo contatto può anche causare dermatiti. È uno dei coloranti di cui si chiede la totale eliminazione dalla dieta dei bambini. Il giallo chinolina è usato come pigmento per i tatuaggi. **VIETATO** in USA, Giappone, Norvegia. **AMMESSO** in Europa *Colorante non adatto ai bambini*   

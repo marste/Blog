@@ -93,77 +93,111 @@ tags:
 **E142**
 **Verde acido brillante S.** Colorante sintetico. Effetti nocivi: nessuno noto.
 
-**E150 - E150b - E150c - E150d**
-**Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale. **Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*
-**E151**
-**Nero Brillante BN.** Sconsigliato ai bambini. Può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico (la comune "aspirina") e per i soggetti asmatici. Dove si trova: caramelle, creme, gelati, ghiaccioli. **TOSSICO** *Colorante non adatto ai bambini*
-**E152**
-Nero 7984.** VIETATO** dal 1977
-**E153**
-**Carbone medicinale vegetale.** Origine naturale, dalla combustione dei vegetali. Effetti nocivi: sospettato di essere coinvolto nell’insorgenza del cancro.
-**TOSSICO**  *Colorante non adatto ai bambini***VIETATO** negli USA
-**E154**
-**Marrone FK.** **VIETATO**
-**E155**
-**Marrone cioccolato HT, Bruno ht**. Secondo alcuni studi, dannoso ai bambini. **VIETATO**
+**E150 - E150b - E150c - E150d**   
+**Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale. **Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*   
 
-**E160a**
-**Alfa, Beta, Gamma-carotene.** Estratti dai pigmenti vegetali di carote, pomodori, verdure con foglie verdi, albicocche, arance e frutti delle delle rose. Colorante giallo-arancione; nell’organismo diventa vitamina A. Effetti nocivi: nessuno noto. Nessun effetto nocivo noto.
-**E160b**
-**Annatto, Bissina, Norbissina**. Origine: estratto dai bacelli dell’albero tropicale Annatto. Colorante che va dal giallo al pesca. Effetti nocivi: nessuno noto.
-**E160c**
-**Capsantina, Capsorubina.** Estratto naturale di paprica, colorante arancione, aromatizzante. **VIETATO** in Australia
-**E160d**
-**Licopina.** Estratto naturale dei pomodori. Colorante rosso.
-**E160e**
-**Beta-apo-8′-carotenale. **Nessun effetto nocivo noto
-**E160f**
-**Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto
-**E161**
-**Xantofilla. **Nessun effetto nocivo noto
-**E161a **
-**Flavoxantina.** Pigmento appartenente al gruppo dei carotenoidi. Colorante giallo. Nessun effetto nocivo noto
-**E161b**
-**Luteina.** Derivato del carotene, uno dei pigmenti vegetali presenti nelle foglie verdi; si trova anche nel tuorlo dell’uovo. Colorante che va dal giallo al rossastro. Nessun effetto nocivo noto
-**E161c**
-**Criptoxantina.** Derivato del carotene, si trova nei petali e nelle bacche delle piante di uva spina, delle patate e dei pomodori, nella buccia delle arance, nell’uovo e nel burro. Colorante giallo. Nessun effetto nocivo noto
-**E161d**
-**Rubixantina.** Presente nei falsi frutti delle rosa. Colorante giallo. Nessun effetto nocivo noto
-**E161e**
-**Violoxantina. **Estratto naturale isolato dalle viole del pensiero. Colorante giallo. Nessun effetto nocivo noto
-**E161f**
-**Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto
-**E161g**
-**Cantaxantina.** Può essere isolato da alcuni funghi e dalle penne di fenicottero. Colorante arancione. Effetti nocivi: nessuno noto. Nessun effetto nocivo noto
-**E162**
-**Rosso di barbabietola, betanina.** Estratto naturale della barbabietola. Colorante rosso violaceo. Nessun effetto nocivo noto
-**E163**
-**Antociani.**
-**E163a**
-**Pelargonidina.**
-**E163b**
-**Cianidina.**
-**E163c**
-**Peonidina.**
-**E163d**
-**Delfinidina.**
-**E163e**
-**Petunidina.**
-**E163f**
-**Malvidina.**
-**E170**
-**Carbonato di calcio.** Sostanza minerale molto diffusa. Colorante superficiale, agente addensante, agente lubrificante.
-**E171**
-**Biossido di titanio.** Ottenuto dalla ilmenite. Colorante bianco. Meglio evitarlo
-**E172**
-**Ossidi di ferro.** Pigmenti diffusi in natura. Coloranti gialli, rossi, marroni, arancioni e neri. **VIETATO** in Australia
-**E173**
-**Alluminio.** Presente in natura, sottoforma di bauxite.Colorante metallico. Effetti nocivi: nessuno (se i reni sono sani). **VIETATO** in Australia
-**E174**
-**Argento.** **VIETATO** in Australia
-**E175**
-**Oro.** Metallo diffuso in natura. Colorante metallico. **VIETATO** in Australia
-**E180**
-**Litolrubina BK.** **VIETATO** in Australia
-**E181**
-**Tannino.**
+**E151**   
+**Nero Brillante BN.** Sconsigliato ai bambini. Può provocare allergie ed eruzioni cutanee; controindicato per chi è allergico all'acido acetilsalicilico (la comune "aspirina") e per i soggetti asmatici. Dove si trova: caramelle, creme, gelati, ghiaccioli. **TOSSICO** *Colorante non adatto ai bambini*   
+
+**E152**   
+Nero 7984.** VIETATO** dal 1977   
+
+**E153**   
+**Carbone medicinale vegetale.** Origine naturale, dalla combustione dei vegetali. Effetti nocivi: sospettato di essere coinvolto nell’insorgenza del cancro.
+**TOSSICO**  *Colorante non adatto ai bambini* **VIETATO** negli USA   
+
+**E154**   
+**Marrone FK.** **VIETATO**   
+
+**E155**   
+**Marrone cioccolato HT, Bruno ht**. Secondo alcuni studi, dannoso ai bambini. **VIETATO**   
+
+**E160a**   
+**Alfa, Beta, Gamma-carotene.** Estratti dai pigmenti vegetali di carote, pomodori, verdure con foglie verdi, albicocche, arance e frutti delle delle rose. Colorante giallo-arancione; nell’organismo diventa vitamina A. Effetti nocivi: nessuno noto. Nessun effetto nocivo noto.   
+
+**E160b**   
+**Annatto, Bissina, Norbissina**. Origine: estratto dai bacelli dell’albero tropicale Annatto. Colorante che va dal giallo al pesca. Effetti nocivi: nessuno noto.   
+
+**E160c**   
+**Capsantina, Capsorubina.** Estratto naturale di paprica, colorante arancione, aromatizzante. **VIETATO** in Australia   
+
+**E160d**   
+**Licopina.** Estratto naturale dei pomodori. Colorante rosso.   
+
+**E160e**   
+**Beta-apo-8′-carotenale. **Nessun effetto nocivo noto   
+
+**E160f**   
+**Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161**   
+**Xantofilla. **Nessun effetto nocivo noto   
+
+**E161a **   
+**Flavoxantina.** Pigmento appartenente al gruppo dei carotenoidi. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161b**   
+**Luteina.** Derivato del carotene, uno dei pigmenti vegetali presenti nelle foglie verdi; si trova anche nel tuorlo dell’uovo. Colorante che va dal giallo al rossastro. Nessun effetto nocivo noto   
+
+**E161c**   
+**Criptoxantina.** Derivato del carotene, si trova nei petali e nelle bacche delle piante di uva spina, delle patate e dei pomodori, nella buccia delle arance, nell’uovo e nel burro. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161d**   
+**Rubixantina.** Presente nei falsi frutti delle rosa. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161e**   
+**Violoxantina. **Estratto naturale isolato dalle viole del pensiero. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161f**   
+**Rodoxantina.** Presente in piccole quantità nei semi del tasso. Colorante giallo. Nessun effetto nocivo noto   
+
+**E161g**   
+**Cantaxantina.** Può essere isolato da alcuni funghi e dalle penne di fenicottero. Colorante arancione. Effetti nocivi: nessuno noto. Nessun effetto nocivo noto   
+
+**E162**   
+**Rosso di barbabietola, betanina.** Estratto naturale della barbabietola. Colorante rosso violaceo. Nessun effetto nocivo noto   
+
+**E163**   
+**Antociani.**   
+
+**E163a**   
+**Pelargonidina.**   
+
+**E163b**   
+**Cianidina.**   
+
+**E163c**   
+**Peonidina.**   
+
+**E163d**   
+**Delfinidina.**   
+
+**E163e**   
+**Petunidina.**   
+
+**E163f**   
+**Malvidina.**   
+
+**E170**   
+**Carbonato di calcio.** Sostanza minerale molto diffusa. Colorante superficiale, agente addensante, agente lubrificante.   
+
+**E171**   
+**Biossido di titanio.** Ottenuto dalla ilmenite. Colorante bianco. Meglio evitarlo   
+
+**E172**   
+**Ossidi di ferro.** Pigmenti diffusi in natura. Coloranti gialli, rossi, marroni, arancioni e neri. **VIETATO** in Australia   
+
+**E173**   
+**Alluminio.** Presente in natura, sottoforma di bauxite.Colorante metallico. Effetti nocivi: nessuno (se i reni sono sani). **VIETATO** in Australia   
+
+**E174**   
+**Argento.** **VIETATO** in Australia   
+
+**E175**   
+**Oro.** Metallo diffuso in natura. Colorante metallico. **VIETATO** in Australia   
+
+**E180**   
+**Litolrubina BK.** **VIETATO** in Australia   
+
+**E181**   
+**Tannino.**   

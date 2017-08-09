@@ -83,17 +83,19 @@ tags:
 **Blu patent V.** Colorante sintetico. Effetti nocivi: sensibilità della pelle, prurito ed orticaria; raramente choc e problemi respiratori, nausea, ipotensione e tremore. **AMMESSO**. **VIETATO** in AUSTRALIA *Colorante non adatto ai bambini*   
 
 **E132**
-**Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*
+**Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*   
+
 **E133**
-**Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*
+**Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*   
 
 **E140**
 **Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.   
 
-**E141**
-**Complessi rameici delle clorofille.** Dove si trova: gelati e dolci. Nessun effetto nocivo noto.
-**E142**
-**Verde acido brillante S.** Colorante sintetico. Effetti nocivi: nessuno noto.
+**E141**   
+**Complessi rameici delle clorofille.** Dove si trova: gelati e dolci. Nessun effetto nocivo noto.   
+
+**E142**   
+**Verde acido brillante S.** Colorante sintetico. Effetti nocivi: nessuno noto.   
 
 **E150 - E150b - E150c - E150d**   
 **Caramello, caramello solfito caustico, caramello ammoniacale, caramello solfito ammoniacale.** Dove si trovano: bibite tipo cola, gelati, ghiaccioli, liquori, acqueviti, birra, pasticceria in genere, biscotti, frutti di mare, soia, frutta e verdura in scatola, conserve. Sconsigliati ai bambini. Ottenuti attraverso la reazione esotermica tra saccarosio e sostanze chimiche, quali acido solforico e ammoniaca. **TOSSICO** *Colorante non adatto ai bambini*   

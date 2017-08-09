@@ -19,20 +19,20 @@ Per Outlook 2013 creare un valore DWORD con valore **1** e nominarlo **ArchiveIg
 	
 `HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\Preferences`
 
-<code>DWORD Value: ArchiveIgnoreLastModifiedTime</code>
+`DWORD Value: ArchiveIgnoreLastModifiedTime`
 	
-<code>Value data: 1</code>
+`Value data: 1`
 
 Per altre versioni di outlook la chiave è la stessa, basta sostituire il numero della versione con quella effettivamente installata:   
 
 Outlook 2016   
-<code>HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Preferences</code>
+`HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Preferences`
 	
 Outlook 2010   
-<code>HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Outlook\Preferences</code>
+`HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Outlook\Preferences`
 	
 Outlook 2007   
-<code>HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Outlook\Preferences</code>
+`HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Outlook\Preferences`
 
 Dopo aver creato e configurarto il valore del Registro di sistema **ArchiveIgnoreLastModifiedTime**, Outlook archivierà gli elementi nel seguente modo:   
 

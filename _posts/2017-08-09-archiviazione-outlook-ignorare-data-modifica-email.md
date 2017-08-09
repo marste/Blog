@@ -17,7 +17,7 @@ tags:
 ---
 Per Outlook 2013 creare un valore DWORD con valore **1** e nominarlo **ArchiveIgnoreLastModifiedTime** all'interno della chiave:   
 	
-<code>HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\Preferences</code>
+`HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\Preferences`
 
 <code>DWORD Value: ArchiveIgnoreLastModifiedTime</code>
 	

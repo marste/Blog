@@ -18,20 +18,18 @@ tags:
 ---
 **Verifica su quale porta è collegato un certo pc o device:**   
 
-```
-ping *ipaddress*
-show ip arp *ipaddress*
-show mac address-table address *mac-address*
-```
+<code>ping *ipaddress*</code>   
+<code>show ip arp *ipaddress*</code>   
+<code>show mac address-table address *mac-address*</code>   
 
-```
+
 **Per assegnare una VLAN su una determinata porta:**   
-conf t
-interface gig1/0/x
-switchport access vlan 50
-end   
-wr memory
-```
+<code>conf t</code>   
+<code>interface gig1/0/x</code>   
+<code>switchport access vlan 50</code>   
+<code>end</code>   
+<code>wr memory</code>   
+
 
 **Per mettere una porta in trunk su piu VLAN:**   
 <code>conf t</code>   

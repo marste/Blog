@@ -1,5 +1,5 @@
 ---
-title: Archiviazione Outlook ignorare data di modifica delle email
+title: Archiviazione Outlook; ignorare data di modifica delle email
 date: 2017-08-09 14:00:00 +0200
 author: Stefano Marzorati
 layout: post

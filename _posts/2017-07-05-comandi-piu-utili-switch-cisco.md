@@ -17,10 +17,12 @@ tags:
   - trunk
 ---
 **Verifica su quale porta è collegato un certo pc o device:**   
-<code>ping *ipaddress*</code>   
-<code>show ip arp *ipaddress*</code>   
-<code>show mac address-table address *mac-address*</code>   
 
+```
+ping *ipaddress*
+show ip arp *ipaddress*
+show mac address-table address *mac-address*
+```
 
 **Per assegnare una VLAN su una determinata porta:**   
 <code>conf t</code>   

@@ -17,7 +17,7 @@ tags:
   - proibiti
 ---
 **E100**   
-**Curcumina, <a href="http://www.alimentipedia.it/curcuma.html" title="Curcuma">curcuma</a>.** Estratto dalla radice di curcuma. Colorante arancione-giallo per l’intera massa o per la superficie. **Non tossico**   
+**Curcumina.** Estratto dalla radice di curcuma. Colorante arancione-giallo per l’intera massa o per la superficie. **Non tossico**   
 
 **E101**   
 **Riboflavina o Lattoflavina (Vitamina B2).** Prodotta da lievito o sinteticamente. La si trova in: latte, pollo, pesce, fegato e rognone, formaggi, cereali integrali, germe di grano, lievito di birra, frutta a guscio: pinoli, arachidi, noci, pistacchi. **Non tossico**   

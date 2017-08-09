@@ -24,13 +24,14 @@ show ip arp *ipaddress*
 show mac address-table address *mac-address*
 ```
 
+```
 **Per assegnare una VLAN su una determinata porta:**   
-<code>conf t</code>   
-<code>interface gig1/0/x</code>   
-<code>switchport access vlan 50</code>   
-<code>end</code>   
-<code>wr memory</code>   
-
+conf t
+interface gig1/0/x
+switchport access vlan 50
+end   
+wr memory
+```
 
 **Per mettere una porta in trunk su piu VLAN:**   
 <code>conf t</code>   

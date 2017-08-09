@@ -15,7 +15,7 @@ tags:
   - data
   - email
 ---
-#### Per Outlook 2013 creare un valore DWORD con valore **1** e nominarlo **ArchiveIgnoreLastModifiedTime** all'interno della chiave:   
+Per Outlook 2013 creare un valore DWORD con valore **1** e nominarlo **ArchiveIgnoreLastModifiedTime** all'interno della chiave:   
 	
 <code>HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\Preferences</code>   
 
@@ -23,7 +23,7 @@ tags:
 	
 <code>Value data: 1</code>   
 
-#### Per altre versioni di outlook la chiave è la stessa, basta sostituire il numero della versione con quella effettivamente installata:   
+Per altre versioni di outlook la chiave è la stessa, basta sostituire il numero della versione con quella effettivamente installata:   
 
 Outlook 2016   
 <code>HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Preferences</code>   

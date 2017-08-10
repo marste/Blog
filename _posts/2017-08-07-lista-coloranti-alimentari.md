@@ -82,10 +82,10 @@ tags:
 **E131**   
 **Blu patent V.** Colorante sintetico. Effetti nocivi: sensibilità della pelle, prurito ed orticaria; raramente choc e problemi respiratori, nausea, ipotensione e tremore. **AMMESSO**. **VIETATO** in AUSTRALIA *Colorante non adatto ai bambini*   
 
-**E132**
+**E132**   
 **Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*   
 
-**E133**
+**E133**   
 **Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*   
 
 **E140**   

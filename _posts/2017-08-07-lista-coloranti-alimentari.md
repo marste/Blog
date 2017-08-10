@@ -43,7 +43,7 @@ tags:
 **E110**   
 **Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.**Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
 
-**E111**
+**E111**   
 **Arancio GGN. Vietato** dal 1977.
 
 **E120**   

@@ -88,7 +88,7 @@ tags:
 **E133**
 **Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*   
 
-**E140**
+**E140**   
 **Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.   
 
 **E141**   

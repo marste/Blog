@@ -7,23 +7,6 @@
     {% include header.html %}
 
 	
-
-
- <div class="super-search" id="js-super-search">
-  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
-  <input type="text" placeholder="Digita qui per cercare" class="super-search__input" id="js-super-search__input">
-  <ul class="super-search__results" id="js-super-search__results"></ul>
- </div>
-
- <script src="super-search.js"></script>
- <script>superSearch({
- 	// Change to your own rss feed file path
- 	searchFile: '/feed/rss.xml'
- });</script>
-	
-
-	
-	
     <div class="post p2 p-responsive wrap" role="main">
       <div class="measure">
 	    {{ content }}

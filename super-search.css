@@ -1,37 +1,39 @@
-/* super-search
-Author: Kushagra Gour (http://kushagragour.in)
-MIT Licensed
-*/
-.super-search-btn {
+/*********************************
+SEARCH BAR
+**********************************/
+
+.search-btn {
 	position: fixed;
 	right: 10px;
 	top: 15px;
 	fill: #DDD;
 }
-.super-search-btn:hover {
+.search-btn:hover {
 	fill: #BBB;
 }
 
-.super-search {
+.search {
 	position: fixed;
+	background-color: rgba(102, 51, 153, 0.95);
 	background-color: rgba(0, 191, 255, 0.85);
 	left: 0;
 	right: 0;
 	top: 0;
 	bottom: 0;
+	color: beige;
 	z-index: 1;
 	transition: 0.2s ease;
 	visibility: hidden;
 	opacity: 0;
 }
-.super-search__close-btn {
+.search__close-btn {
 	fill: #DDD;
 	position: absolute;
 	right: 10px;
 	top: 15px;
 	z-index: 1;
 }
-.super-search__input {
+.search__input {
 	border: 0;
 	font-size: 50px;
 	border-left: none;
@@ -43,10 +45,10 @@ MIT Licensed
 	transform: translateY(-100%);
 	transition: 0.15s ease-out 150ms;
 }
-.is-active .super-search__input {
+.is-active .search__input {
 	transform: translateY(0);
 }
-.super-search__results {
+.search__results {
 	text-align: center;
 	list-style: none;
 	padding: 0;
@@ -54,12 +56,12 @@ MIT Licensed
 	height: calc(100% - 110px);
 	transition: 0.2s ease;
 }
-.super-search__results.is-hidden {
+.search__results.is-hidden {
 	opacity: 0;
 	transform: translateY(-1vh);
 }
 
-.super-search__results > li > a {
+.search__results > li > a {
 	display: block;
 	position: relative;
 	background-color: #f9f9f9;
@@ -68,12 +70,101 @@ MIT Licensed
 	margin: 12px 14px;
 	box-shadow: 0 3px 4px rgba(0,0,0,0.1);
 }
-.super-search__result-date {
+.search__result-date {
 	color: #BBB;
 	position: absolute;
 	right: 12px;
 }
-.super-search.is-active {
+.search.is-active {
 	opacity: 1;
 	visibility: visible;
+}
+
+/* Prism.css overrides */
+:not(pre)>code[class*=language-], pre[class*=language-] {
+	border: 1px solid rgb(216, 220, 160);
+	border-radius: 3px;
+}
+pre[class*=language-] {
+	/*padding: 0em 1em 1em!important;*/
+}
+
+@media (max-width: 750px) {
+	body {
+		font-size: 15px;
+	}
+	article p {
+		font-size: 1.1em;
+	}
+	#outer-container {
+		width: auto;
+	}
+	#main-container {
+		/*padding: 10px;*/
+	}
+	.top-header h1 {
+		font-size: 35px;
+	}
+	.top-header h2 {
+		font-size: 17px;
+	}
+
+	#main-container > nav {
+		margin-top: 0;
+	}
+	#main-container > nav li {
+		/*float: left;*/
+	}
+	#main-container > nav a {
+		font-size: 35px;
+		line-height: 35px;
+		letter-spacing: -5px;
+	}
+	.home #main-container nav > ul {
+		position: static;
+		flex-direction: column;
+	}
+	.home #main-container nav > ul > li {
+		height: 60px;
+	}
+	.home #main-container nav > ul a {
+		line-height: 60px;
+	}
+	.search-btn { display: none; }
+
+	::-webkit-scrollbar {
+	    -webkit-appearance: none;
+	    height: 1px;
+	}
+
+	::-webkit-scrollbar-thumb {
+	    background-color: #A3A948;
+	}
+
+	::-webkit-scrollbar-track {
+		background-color: #EEE;
+	}
+
+	.social-bar-2 {
+		width: 100%;
+	}
+	.social-bar-2__item {
+		border-top-width: 10px;
+	}
+
+	.social-bar-2__item .social-bar-2__item__text {
+		transform: translateY(0px);
+		opacity: 1;
+	}
+
+	.search__input {
+		font-size: 33px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.search__result-date {
+		position: static;
+		display: block;
+	}
 }

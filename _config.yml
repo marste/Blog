@@ -7,6 +7,13 @@ baseurl:     ""
 url:         "http://marzorati.co"
 date_format: "%-d %b, %Y"
 
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [ricerca.html]
+
 # Google analytics
 google_analytics: UA-38247823-1
 

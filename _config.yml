@@ -12,7 +12,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [ricerca.html]
+    files: [search.html]
 
 # Google analytics
 google_analytics: UA-38247823-1

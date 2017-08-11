@@ -11,7 +11,6 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}" type="text/css">
-	<link rel="stylesheet" href="super-search.css">
 	
 	<!-- Optimizing for search engine -->
 	{% if page.next.url %}<link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="{{ page.next.title }}">{% endif %}

@@ -2,7 +2,7 @@
  * A simple JSON search
  * Requires jQuery (v 1.7+)
  *
- * @author  Mat Hayward - Erskine Design - https://github.com/mathaywarduk/jekyll-search
+ * @author  Mat Hayward - Erskine Design
  * @version  0.1
  */
 
@@ -25,7 +25,6 @@ var q, jsonFeedUrl = "/feeds/feed.json",
 
 
 $(document).ready( function() {
-    
     // hide items found string
     $foundContainer.hide();
 
@@ -114,7 +113,7 @@ function processData() {
 
         $.each(data, function(index, item) {
             // check if search term is in content or title 
-            if (item.content.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
+            if (item.search_omit != "true" && (item.content.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1)) {
                 var result = populateResultContent($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;

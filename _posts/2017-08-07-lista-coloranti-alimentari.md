@@ -43,7 +43,7 @@ tags:
 **E110**   
 **Giallo arancio S (G. tramonto FCF).** Colorante di catrame di carbon fossile e azocolorante. Dove si trova: bibite, sciroppi, cordiali, zuppe pronte, dolci in generale, gelati, ghiaccioli. Controindicato per chi è allergico all'acido acetilsalicilico (aspirina) e per gli asmatici. Può provocare eruzioni cutanee. Sconsigliato ai bambini.**Tossico** in alte dosi. **VIETATO** in alcuni paesi. *Colorante non adatto ai bambini*   
 
-**E111**
+**E111**   
 **Arancio GGN. Vietato** dal 1977.
 
 **E120**   
@@ -82,13 +82,13 @@ tags:
 **E131**   
 **Blu patent V.** Colorante sintetico. Effetti nocivi: sensibilità della pelle, prurito ed orticaria; raramente choc e problemi respiratori, nausea, ipotensione e tremore. **AMMESSO**. **VIETATO** in AUSTRALIA *Colorante non adatto ai bambini*   
 
-**E132**
+**E132**   
 **Indigotina**. Colorante sintetico. Colorante blu usato in diagnostica per verificare la normale funzionalità renale, per mezzo della produzione di urina blu. Leggermente tossico; nelle persone allergiche può causare nausea, vomito, ipertensione, reazioni cutanee, problemi respiratori. Sconsigliato ai bambini. Dove si trova: gelati, ghiaccioli, paste, frutta candita, biscotti e dolciumi. **Leggermente tossico** *Colorante non adatto ai bambini*   
 
-**E133**
+**E133**   
 **Blu brillante FCF.** Secondo alcuni studi, dannosi per i bambini! **TOSSICO** *Colorante non adatto ai bambini*   
 
-**E140**
+**E140**   
 **Clorofille e clorofilline.** Pure sono difficilmente isolabili. Si estrae dalle ortiche e dall’erba medica. Nessun effetto nocivo noto.   
 
 **E141**   
